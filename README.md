@@ -1,5 +1,7 @@
 # Afera Sadowskiego
 
+Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.com/gakowalski/Afera-Sadowskiego/blob/master/README.md) w serwisie GitHub lub się ze mną skontaktować.
+
 ## Publikacje i wydarzenia związane z oskarżeniami o molestowanie w 2019 roku
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
@@ -65,10 +67,80 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2005-03|Artykuł|Gazeta Sądowa||Krzysztof Bachorzewski|Duet Karpiński-Sadowski gra przed środowiskami prawniczymi|[Link](http://sh219231.website.pl/od-dixielandu-do-beatlesow.html)
 2006-04-23|Wpis|Musiq.pl|Komentarze||Komentarz o ojcu Marii Sadowskiej jako pedofilu|[Link](http://www.musiq.pl/index.php?content=forum&artystaid=22114&checksum=b27fb21d50)
 2012-11-10|Wpis|Musiq.pl|Komentarze||Inny komentarz o ojcu Marii Sadowskiej jako pedofilu|[Link](http://www.musiq.pl/index.php?content=forum&artystaid=22114&checksum=b27fb21d50)
-2016-04-20|Zdarzenie||||Zjazd walny PSJ|
+2016-04-19|Zdarzenie||||Zjazd walny PSJ|
 2016-04-20|Material wideo||Jazz Of Freedom|Piotr Matla|Zjazd walny PSJ, wypowiedź Sadowskiego, Stępień liczy głosy nie tak jak trzeba|[Link](https://www.youtube.com/watch?v=iXCBbXvJ7BE)
-2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa|
+2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
 2019-07-17|Książka|||Monika M. (ghostwriter Mariusz Zielke)|Postać muzyka-pedofila, "Konesera"|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
 2019-09-14|Wpis|Facebook|Profil Marii Sadowskiej|Maria Sadowska||[Link](https://www.facebook.com/sadowskamaria/posts/10156320425511669)
 2019-09-15 12:46|Artykuł|Wprost.pl|||Komentarz do oświadczenia Marii Sadowskiej, internauci krytykują egocentryzm|[Link](https://www.wprost.pl/zycie/10251149/maria-sadowska-po-raz-pierwszy-od-wielu-dni-zabrala-glos-publicznie-zarzucono-jej-egocentryzm.html)
+
+## Osoby
+
+### Istotne osoby
+
+* (Krzysztof Jan Sadowski)[https://pl.wikipedia.org/wiki/Krzysztof_Sadowski_(muzyk)],
+* (Mariusz Zielke)[https://pl.wikipedia.org/wiki/Mariusz_Zielke],
+* Ewa Gajda, pierwsza ujawniona publicznie osoba twierdząca, że była molestowana przez Sadowskiego,
+* Olga Śmigielska, druga ujawniona pubilcznie osoba twierdząca, że była molestowana przez Sadowskiego,
+
+### Osoby poboczne pojawiające sie w kontekście afery
+
+* Lila Karolina Urbańska-Sadowska ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo,
+* Maria Magdalena Sadowska, córka Krzysztofa,
+* Krzysztof Karpiński, sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
+* Jerzy Stępień, były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
+* Martyna Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. "aniołków Glapińskiego", siostra Darii
+* Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. "aniołków Glapińskiego", jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
+* Adrian Łabanowski, mąż Marii Sadowskiej, obecne prezes Fundacji Jazz Jamboree
+
+### Lista ofiar na podstawie doniesień medialnych
+
+Lista na podstawie (publikacji Mariusza Zielke)[https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4].
+
+Okres czasu | Wiek | Uwagi
+--- | --- | ---
+1965-1970 | 15 | Dziewczyna z Poznania, kilkumiesięczny romans
+1970-1975 | 13 | Córka brata szwagra (męża siostry)
+1970-1975 | 15 | "Wisienka", urtzymywali stosunki przez 2 latach
+1970-1975 | 15 | Córka dyplomaty
+1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy
+1980-1985 | 12 | Chłopiec z kościoła
+1980-1985 | 12 | Syn bliskiej przyjaciółki, chrześniak Sadowskiego
+1983-1987 | 14 | Dziewczyna z domu dziecka, wielokrotne gwałty przez 4 lata
+1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję
+1992 | 10 | Inna dziewczyna z zespółu "Tęcza"
+1990-1995 | 11-12 | Dziewczynka z warsztatów w Margoninie, po zdarzeniu przydzielono Sadowskiemu „ochroniarza” do pilnowania
+1990-1995 | 11-12 | Piosenkarka/aktorka, gwałt, wielokrotne stosunki
+1990-2000 | 14-15 | Dziewycznka prowadząca fanklub
+1990-2000 | 11 | Uczennica muzyka, gwałt, wielokrotne stosunki
+1990-2000 | 13 | Córka bliskich znajomych
+1990-2000 | 11 | uczennica "Anna"
+1990-2000 | 10-13 | M., dziewczynka z "Tęczy"
+1990-2000 | 14 | A., uczestniczka warsztatów w Iławie
+1990-2000 | 11 | uczestniczka warsztatów, piosenkarka "Marta"
+1990-2000 | 12-13 | córka muzyka, uczestniczka warsztatów "Iza"
+1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne stosunki
+1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne molestowanie
+1995-2000 | 15 | Uczestniczka warsztatów w Puławach
+1995-2000 | 15 | Uczestniczka warsztatów w Iławie
+1995-2000 | ?? | J., uczennica
+1996-1998 | ?? | "Jola"
+1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego
+2000 | ?? | E., wolontariuszka na warsztatach muzycznych
+2003 | 15 | Piosenkarka
+2012-2014 | 15 | Córka znaneo muzyka
+2017 | 20 | Uczestniczka warsztatów
+
+Nie umiejscowione w czasie:
+
+Wiek | Uwagi
+--- | ---
+11 | A., uczestniczka warsztatów w Margoninie
+17 | Piosenkarka, Sadowski był w jury festiwalu
+poniżej 18 | "Lidka"
+18 | Uczennica "Milena"
+?? | Córka lokalnego polityka w Iławie, uciekła przez okno
+?? | K., uczennica
+?? | M., uczennica
+?? | I., dziewczynka
