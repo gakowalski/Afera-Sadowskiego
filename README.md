@@ -79,8 +79,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 ### Istotne osoby
 
-* (Krzysztof Jan Sadowski)[https://pl.wikipedia.org/wiki/Krzysztof_Sadowski_(muzyk)],
-* (Mariusz Zielke)[https://pl.wikipedia.org/wiki/Mariusz_Zielke],
+* [Krzysztof Jan Sadowski](https://pl.wikipedia.org/wiki/Krzysztof_Sadowski_(muzyk)),
+* [Mariusz Zielke](https://pl.wikipedia.org/wiki/Mariusz_Zielke),
 * Ewa Gajda, pierwsza ujawniona publicznie osoba twierdząca, że była molestowana przez Sadowskiego,
 * Olga Śmigielska, druga ujawniona pubilcznie osoba twierdząca, że była molestowana przez Sadowskiego,
 
@@ -96,7 +96,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 ### Lista ofiar na podstawie doniesień medialnych
 
-Lista na podstawie (publikacji Mariusza Zielke)[https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4].
+Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4).
 
 Okres czasu | Wiek | Uwagi
 --- | --- | ---
