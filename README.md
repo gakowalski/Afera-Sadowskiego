@@ -61,11 +61,11 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 1995|Zdarzenie||||Krysztof Sadowski jako prezes PSJ|
 2002-12|Artykuł|Gazeta Sądowa||Krzysztof Bachorzewski|Duet Karpiński-Sadowski gra na warsztatach artystycznych dla prawników|[Link](http://sh219231.website.pl/wamp---zakopane.html)
 2003-10-28|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski jako prezes PSJ (formalnie wpisany w rejestr, bo był nim już wcześniej)|
-2016-03-23|Zdrzenie||||Duet Karpiński-Sadowski w Teatrze Sabat|
+2016-03-23|Zdarzenie||||Duet Karpiński-Sadowski w Teatrze Sabat|
 2005-03|Artykuł|Gazeta Sądowa||Krzysztof Bachorzewski|Duet Karpiński-Sadowski gra przed środowiskami prawniczymi|[Link](http://sh219231.website.pl/od-dixielandu-do-beatlesow.html)
 2006-04-23|Wpis|Musiq.pl|Komentarze||Komentarz o ojcu Marii Sadowskiej jako pedofilu|[Link](http://www.musiq.pl/index.php?content=forum&artystaid=22114&checksum=b27fb21d50)
 2012-11-10|Wpis|Musiq.pl|Komentarze||Inny komentarz o ojcu Marii Sadowskiej jako pedofilu|[Link](http://www.musiq.pl/index.php?content=forum&artystaid=22114&checksum=b27fb21d50)
-2016-04-20|Zdrzenie||||Zjazd walny PSJ|
+2016-04-20|Zdarzenie||||Zjazd walny PSJ|
 2016-04-20|Material wideo||Jazz Of Freedom|Piotr Matla|Zjazd walny PSJ, wypowiedź Sadowskiego, Stępień liczy głosy nie tak jak trzeba|[Link](https://www.youtube.com/watch?v=iXCBbXvJ7BE)
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa|
 2019-07-17|Książka|||Monika M. (ghostwriter Mariusz Zielke)|Postać muzyka-pedofila, "Konesera"|
