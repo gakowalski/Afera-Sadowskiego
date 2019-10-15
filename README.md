@@ -8,15 +8,15 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
 2019-08-04 20:07|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|Pierwsza publikacja o muzyku-pedofilu|[Link](https://www.salon24.pl/u/zielke/974889,afera-pedofilska-przy-produkcjach-dla-tvp-i-polsatu-oskarzany-znany-artysta)
 2019-08-05 14:35|Wywiad|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Mariusz Zielke|[Link](https://wiadomosci.wp.pl/znany-polski-muzyk-mial-gwalcic-dziewczynki-dziennikarz-wiem-o-jego-trzech-ofiarach-6410272573245569a)
-2019-08-06|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Do redakcji zgłosiło się 10 osób|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-wstrzasajace-wyznanie-ofiary-ktora-oskarza-krzysztofa-sadowskiego-6410631848032385a)
 2019-08-06 10:53|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://www.facebook.com/photo.php?fbid=2287264981309440&set=a.182244985144794&type=3&theater)
 2019-08-06 10:59|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-dziennikarz-ujawnia-znany-muzyk-krzysztof-sadowski-molestowal-dziewczynki-6410573896906369a)
 2019-08-06 11:23|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975318,krzysztof-sadowski-byl-pedofilem-srodowisko-wiedzialo)
 2019-08-06 11:29|Artykuł|TVP Info||FA, MNIE|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://www.tvp.info/43821514/dziennikarz-ujawnil-nazwisko-muzyka-ktory-mial-molestowac-dzieci)
 2019-08-06 12:12|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Wypowiedź Lili Urbańskiej|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-byla-zona-krzysztofa-sadowskiego-o-molestowanie-oskarza-go-osoba-chora-psychicznie-6410589662410369a)
 2019-08-06 21:04|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+2019-08-06 22:15|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Do redakcji zgłosiło się 10 osób|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-wstrzasajace-wyznanie-ofiary-ktora-oskarza-krzysztofa-sadowskiego-6410631848032385a)
 2019-08-07|Artykuł|Wirtualna Polska|WP Kobieta|Karolina Błaszkiewicz|Małgorzata Halber mówi o 5-10-15|[Link](https://kobieta.wp.pl/krzysztof-sadowski-z-teczowego-music-boxu-posadzany-o-molestowanie-halber-o-programach-dzieciecych-6410942517516417a)
-2019-08-08|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Relacja muzyka, ucznia Sadowskiego|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-krzysztof-sadowski-zgwalcil-moja-dziewczyne-gdy-miala-11-lat-6410977645320321a)
+2019-08-08 08:57|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Relacja muzyka, ucznia Sadowskiego|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-krzysztof-sadowski-zgwalcil-moja-dziewczyne-gdy-miala-11-lat-6410977645320321a)
 2019-08-08 11:37|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Wypowiedź Andrzdeja Rosiewicza|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-andrzej-rosiewicz-jestem-zaskoczony-6411292771502209a)
 2019-08-08 11:55|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975831,liliana-urbanska-klamie-w-sprawie-krzysztofa-sadowskiego)
 2019-08-08 12:38|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Krzysztof Sadowski wydał oświadczenie|[Link](https://wiadomosci.wp.pl/krzysztof-sadowski-wydal-oswiadczenie-ws-oskarzen-kobiet-pomowienia-jednej-osoby-6411658790090369a)
@@ -43,7 +43,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-25 20:30|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/979719,krzysztof-sadowski-wciaz-grozny-iza-molestowal-mnie-w-2017-r)
 2019-08-26|Wywiad|Polska Times||Anita Czupryn|Mariusz Zielke|[Link](https://polskatimes.pl/pedofilia-w-showbiznesie-mariusz-zielke-istnieje-zmowa-milczenia-zabroniono-mi-sie-zajmowac-tym-tematem/ar/c1-14375341)
 2019-08-27 06:55|Materiał wideo|TVN24||Bartosz Żurawicz, Iga Piotrowska||[Link](https://www.tvn24.pl/polska-i-swiat,33,m/krzysztof-sadowski-w-opowiesci-jednej-z-jego-domniemanych-ofiar,964324.html)
-2019-08-28|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Trzecia kobieta zgłosiła się do prokuratury|[Link](https://wiadomosci.wp.pl/kolejna-kobieta-zglosila-sie-do-prokuratury-twierdzi-ze-zgwalcil-ja-krzysztof-sadowski-6418365615515777a)
+2019-08-28 11:26|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Trzecia kobieta zgłosiła się do prokuratury|[Link](https://wiadomosci.wp.pl/kolejna-kobieta-zglosila-sie-do-prokuratury-twierdzi-ze-zgwalcil-ja-krzysztof-sadowski-6418365615515777a)
 2019-08-29|Materiał wideo|TVP|Alarm!|||[Link](https://vod.tvp.pl/video/alarm,29082019,43864785)
 2019-09-01 19:56|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/981896,afera-sadowskiego-molestowal-mnie-ojciec-chrzestny)
 2019-09-06|Rozmowa / Materiał wideo|TVP Info|O co chodzi|Bronisław Wildstein|Mariusz Zielke, Radosław Gruca - o 4 rano!|[Link](https://www.tvp.info/43958402/06092019-0401/program-o-co-chodzi)
@@ -61,7 +61,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-10-09 15:32|Wpis|Facebook|Profil Mariusz Zielke|Mariusz Zielke|Opublkowanie postanowienia sądu o zakazie publikacji z dnia 2019-09-13|[Link](https://www.facebook.com/mariusz.zielke/posts/2404449759590961)
 2019-10-12|Artykuł|Salon24|(Prywatny blog)|Bogna Janke|Opinia o zakazie publikacji|[Link](https://www.salon24.pl/u/bognajanke/992699,sprawa-zielke-sadowski-czy-sad-slusznie-uciszyl-dziennikarza)
 2019-10-12|Materiał wideo|TVP|Alarm!|Marta Matuszak||[Link](https://vod.tvp.pl/video/alarm,12102019-2010,44512539)
-2019-10-14|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Zakaz publikacji dla Mariusza Zielke|[Link](https://wiadomosci.wp.pl/sad-zakazal-dziennikarzowi-pisac-o-aferze-pedofilskiej-mariusz-zielke-krzysztofa-sadowskiego-nikt-nie-broni-6433620490754177a)
+2019-10-14 14:00|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Zakaz publikacji dla Mariusza Zielke|[Link](https://wiadomosci.wp.pl/sad-zakazal-dziennikarzowi-pisac-o-aferze-pedofilskiej-mariusz-zielke-krzysztofa-sadowskiego-nikt-nie-broni-6433620490754177a)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
@@ -136,10 +136,10 @@ Okres czasu | Wiek | Uwagi
 1970-1975 | 15 | "Wisienka", utrzymywali stosunki przez 2 lata
 1970-1975 | 15 | Córka dyplomaty
 1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy
-1980-1985 | 12 | Chłopiec z kościoła
+1980-1985 | 12 | Piotr, chłopiec molestowany po koncercie poezji Jana Pawła II, [link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
 1980-1985 | 12 | Syn bliskiej przyjaciółki, chrześniak Sadowskiego
-1983-1987 | 14 | Dziewczyna z domu dziecka, wielokrotne gwałty przez 4 lata
-1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję
+1983-1987 | 14 | Dziewczynka z domu dziecka, "wyłowiona" na lekcjach chóru, wielokrotne gwałty przez 4 lata, [link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję, [link](https://www.salon24.pl/u/zielke/976658,horror-dzieci-z-teczy-dowody-na-pedofilie-krzysztofa-sadowskiego)
 1992 | 10 | Inna dziewczyna z zespółu "Tęcza"
 1990-1995 | 11-12 | Dziewczynka z warsztatów w Margoninie, po zdarzeniu przydzielono Sadowskiemu „ochroniarza” do pilnowania
 1990-1995 | 11-12 | Piosenkarka/aktorka, gwałt, wielokrotne stosunki
@@ -160,7 +160,7 @@ Okres czasu | Wiek | Uwagi
 1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego
 2000 | ?? | E., wolontariuszka na warsztatach muzycznych <sup>1</sup>
 2003 | 15 | Piosenkarka
-2012-2014 | 15 | Córka znaneo muzyka
+2012-2014 | 15 | Córka znanego muzyka
 2017 | 20 | Uczestniczka warsztatów
 
 <sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
@@ -170,7 +170,7 @@ Okres czasu | Wiek | Uwagi
 Wiek | Uwagi
 --- | ---
 11 | A., uczestniczka warsztatów w Margoninie
-17 | Piosenkarka, Sadowski był w jury festiwalu
+17 | Piosenkarka, Sadowski był w jury festiwalu, [link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
 poniżej 18 | "Lidka"
 18 | Uczennica "Milena"
 ?? | Córka lokalnego polityka w Iławie, uciekła przez okno
