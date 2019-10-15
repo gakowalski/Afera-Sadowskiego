@@ -93,9 +93,9 @@ Data | Autor | Uwagi | Link
 2016-04-19 22:01 | Wojciech Konikiewicz | Komentarz do odpowiedzi na sprawozdanie | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1700372606900163/)
 2016-04-20 00:19 | Marcin Jacobson | Komentarz do odpowiedzi na sprawozdanie | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1700372606900163/)
 2016-04-20 | Piotr Iwicki | Jazzmani powiedzieli: nie! | [Publikacja w Gazecie Polskiej Codziennie](https://gpcodziennie.pl/49603-jazzmanipowiedzielinie.html), [Inny link do treści](https://www.facebook.com/photo.php?fbid=266471290358726&set=a.116472248691965&type=3&theater)
-2016-09-20 00:00 | Zarząd PSJ (Nowy) | List otwarty do jazzmanów i jazz-fanów | [Link](https://www.facebook.com/PolskieStowarzyszenieJazzowe/photos/a.505044172848117/1274095772609616)
+2016-09-20 00:00 | Zarząd PSJ (Nowy) <sup>1</sup>  | List otwarty do jazzmanów i jazz-fanów | [Link](https://www.facebook.com/PolskieStowarzyszenieJazzowe/photos/a.505044172848117/1274095772609616)
 
-* [Skład nowego Zarządu](https://www.facebook.com/groups/1649003408703750/permalink/1700548166882607/?comment_id=1700584133545677)
+<sup>1</sup> [Skład nowego Zarządu](https://www.facebook.com/groups/1649003408703750/permalink/1700548166882607/?comment_id=1700584133545677)
 
 ## Osoby
 
@@ -103,17 +103,17 @@ Data | Autor | Uwagi | Link
 
 * [Krzysztof Jan Sadowski](https://pl.wikipedia.org/wiki/Krzysztof_Sadowski_(muzyk)),
 * [Mariusz Zielke](https://pl.wikipedia.org/wiki/Mariusz_Zielke),
-* Ewa Gajda, pierwsza ujawniona publicznie osoba twierdząca, że była molestowana przez Sadowskiego,
-* Olga Śmigielska, druga ujawniona pubilcznie osoba twierdząca, że była molestowana przez Sadowskiego,
+* Ewa Gajda, pierwsza ujawniona publicznie w mediach osoba twierdząca, że była molestowana przez Sadowskiego,
+* Olga Śmigielska, druga ujawniona pubilcznie w mediach osoba twierdząca, że była molestowana przez Sadowskiego,
 
 ### Osoby poboczne pojawiające sie w kontekście afery
 
-* Lila Karolina Urbańska-Sadowska ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo,
-* Maria Magdalena Sadowska, córka Krzysztofa,
-* Krzysztof Andrzej Karpiński, sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
-* Jerzy Stępień, były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
-* Martyna Magdalena Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. "aniołków Glapińskiego", siostra Darii
-* Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. "aniołków Glapińskiego", jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
+* [Lila Karolina Urbańska-Sadowska](https://pl.wikipedia.org/wiki/Liliana_Urba%C5%84ska) ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo,
+* [Maria Magdalena Sadowska](https://pl.wikipedia.org/wiki/Maria_Sadowska), córka Krzysztofa i Lili,
+* [Krzysztof Andrzej Karpiński](https://pl.wikipedia.org/wiki/Krzysztof_Karpi%C5%84ski), sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
+* [Jerzy Stępień](https://pl.wikipedia.org/wiki/Jerzy_St%C4%99pie%C5%84), były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
+* Martyna Magdalena Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), siostra Darii
+* Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
 * Adrian Łabanowski, mąż Marii Sadowskiej, obecne prezes Fundacji Jazz Jamboree
 
 ### Lista ofiar na podstawie doniesień medialnych
