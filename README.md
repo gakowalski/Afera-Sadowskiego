@@ -86,8 +86,8 @@ Data | Autor | Uwagi | Link
 2016-04-14 22:31| Marcin Jacobson | Publikacja sprawozdania z audytu na Facebooku | [Link](https://www.facebook.com/groups/165135820189250/permalink/1012099432159547/), [Inny link](https://www.facebook.com/groups/1649003408703750/permalink/1698516347085789/)
 2016-04-16 00:01 | Mateusz Zarembowicz | Publikacja apelu Komisji Zjazdowej | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1698139663790124/)
 2016-04-16 20:38 | | JazzRadio jako konkurencja dla Zarządu PSJ | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1699261667011257/)
-2016-04-18 15:00 | | Walne Zgromadzenie PSJ |
 2016-04-18 00:33 | | Zaproszenie na Walne Zgromadzenie | [link](https://www.facebook.com/groups/1649003408703750/permalink/1699712120299545/)
+2016-04-18 15:00 | | Walne Zgromadzenie PSJ |
 2016-04-19 17:51 | Grzegorz Piotrowski<br>Mateusz Zarembowicz<br>Piotr Rodowicz| Program naprawy PSJ | [link](https://www.facebook.com/groups/1649003408703750/permalink/1700041443599946/?comment_id=1700308293573261)
 2016-04-19 21:10 | Zarząd PSJ 2005-2015 | Odpowiedź na "Sprawozdanie z audytu" | [Link](https://www.facebook.com/PolskieStowarzyszenieJazzowe/posts/1163907750295086)
 2016-04-19 22:01 | Wojciech Konikiewicz | Komentarz do odpowiedzi na sprawozdanie | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1700372606900163/)
