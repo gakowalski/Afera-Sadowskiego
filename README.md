@@ -9,6 +9,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-04 20:07|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|Pierwsza publikacja o muzyku-pedofilu|[Link](https://www.salon24.pl/u/zielke/974889,afera-pedofilska-przy-produkcjach-dla-tvp-i-polsatu-oskarzany-znany-artysta)
 2019-08-05 14:35|Wywiad|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Mariusz Zielke|[Link](https://wiadomosci.wp.pl/znany-polski-muzyk-mial-gwalcic-dziewczynki-dziennikarz-wiem-o-jego-trzech-ofiarach-6410272573245569a)
 2019-08-06|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Do redakcji zgłosiło się 10 osób|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-wstrzasajace-wyznanie-ofiary-ktora-oskarza-krzysztofa-sadowskiego-6410631848032385a)
+2019-08-06 10:53|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://www.facebook.com/photo.php?fbid=2287264981309440&set=a.182244985144794&type=3&theater)
 2019-08-06 10:59|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-dziennikarz-ujawnia-znany-muzyk-krzysztof-sadowski-molestowal-dziewczynki-6410573896906369a)
 2019-08-06 11:23|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975318,krzysztof-sadowski-byl-pedofilem-srodowisko-wiedzialo)
 2019-08-06 12:12|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Wypowiedź Lili Urbańskiej|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-byla-zona-krzysztofa-sadowskiego-o-molestowanie-oskarza-go-osoba-chora-psychicznie-6410589662410369a)
@@ -60,7 +61,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
 1992-07-21|Doniesienie na policję|||J. Gajda|W sprawie molestowania córki Ewy przez Krzysztofa Sadowskiego|
-1995|Zdarzenie||||Krysztof Sadowski jako prezes PSJ|
+1992|Zdarzenie||||Krysztof Sadowski jako dyrektor zarządu Fundacji Jazz Jamboree|
+1995-12|Zdarzenie||||Krysztof Sadowski jako prezes PSJ|
 2002-12|Artykuł|Gazeta Sądowa||Krzysztof Bachorzewski|Duet Karpiński-Sadowski gra na warsztatach artystycznych dla prawników|[Link](http://sh219231.website.pl/wamp---zakopane.html)
 2003-10-28|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski jako prezes PSJ (formalnie wpisany w rejestr, bo był nim już wcześniej)|
 2016-03-23|Zdarzenie||||Duet Karpiński-Sadowski w Teatrze Sabat|
@@ -75,6 +77,26 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-14|Wpis|Facebook|Profil Marii Sadowskiej|Maria Sadowska||[Link](https://www.facebook.com/sadowskamaria/posts/10156320425511669)
 2019-09-15 12:46|Artykuł|Wprost.pl|||Komentarz do oświadczenia Marii Sadowskiej, internauci krytykują egocentryzm|[Link](https://www.wprost.pl/zycie/10251149/maria-sadowska-po-raz-pierwszy-od-wielu-dni-zabrala-glos-publicznie-zarzucono-jej-egocentryzm.html)
 
+## Zdarzenia zwiazane z usunięciem Krzysztofa Sadowskiego z funkcji prezesa PSJ
+
+Data | Autor | Uwagi | Link
+---- | ----- | ----- | ----
+2015-12-14 | | Powołanie Komisji Zjazdowej do przeprowadzenia audytu |
+2016-04-12 | Marcin Jacobson<br>Zbigniew Namysłowski<br>Piotr Rodowicz<br>Tomasz Tłuczkiewicz | Sprawozdanie z audytu |
+2016-04-14 22:31| Marcin Jacobson | Publikacja sprawozdania z audytu na Facebooku | [Link](https://www.facebook.com/groups/165135820189250/permalink/1012099432159547/), [Inny link](https://www.facebook.com/groups/1649003408703750/permalink/1698516347085789/)
+2016-04-16 00:01 | Mateusz Zarembowicz | Publikacja apelu Komisji Zjazdowej | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1698139663790124/)
+2016-04-16 20:38 | | JazzRadio jako konkurencja dla Zarządu PSJ | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1699261667011257/)
+2016-04-18 15:00 | | Walne Zgromadzenie PSJ |
+2016-04-18 00:33 | | Zaproszenie na Walne Zgromadzenie | [link](https://www.facebook.com/groups/1649003408703750/permalink/1699712120299545/)
+2016-04-19 17:51 | Grzegorz Piotrowski<br>Mateusz Zarembowicz<br>Piotr Rodowicz| Program naprawy PSJ | [link](https://www.facebook.com/groups/1649003408703750/permalink/1700041443599946/?comment_id=1700308293573261)
+2016-04-19 21:10 | Zarząd PSJ 2005-2015 | Odpowiedź na "Sprawozdanie z audytu" | [Link](https://www.facebook.com/PolskieStowarzyszenieJazzowe/posts/1163907750295086)
+2016-04-19 22:01 | Wojciech Konikiewicz | Komentarz do odpowiedzi na sprawozdanie | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1700372606900163/)
+2016-04-20 00:19 | Marcin Jacobson | Komentarz do odpowiedzi na sprawozdanie | [Link](https://www.facebook.com/groups/1649003408703750/permalink/1700372606900163/)
+2016-04-20 | Piotr Iwicki | Jazzmani powiedzieli: nie! | [Publikacja w Gazecie Polskiej Codziennie](https://gpcodziennie.pl/49603-jazzmanipowiedzielinie.html), [Inny link do treści](https://www.facebook.com/photo.php?fbid=266471290358726&set=a.116472248691965&type=3&theater)
+2016-09-20 00:00 | Zarząd PSJ (Nowy) | List otwarty do jazzmanów i jazz-fanów | [Link](https://www.facebook.com/PolskieStowarzyszenieJazzowe/photos/a.505044172848117/1274095772609616)
+
+* [Skład nowego Zarządu](https://www.facebook.com/groups/1649003408703750/permalink/1700548166882607/?comment_id=1700584133545677)
+
 ## Osoby
 
 ### Istotne osoby
@@ -88,9 +110,9 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 * Lila Karolina Urbańska-Sadowska ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo,
 * Maria Magdalena Sadowska, córka Krzysztofa,
-* Krzysztof Karpiński, sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
+* Krzysztof Andrzej Karpiński, sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
 * Jerzy Stępień, były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
-* Martyna Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. "aniołków Glapińskiego", siostra Darii
+* Martyna Magdalena Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. "aniołków Glapińskiego", siostra Darii
 * Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. "aniołków Glapińskiego", jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
 * Adrian Łabanowski, mąż Marii Sadowskiej, obecne prezes Fundacji Jazz Jamboree
 
@@ -98,11 +120,13 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4).
 
+#### Umiejscowione w czasie
+
 Okres czasu | Wiek | Uwagi
 --- | --- | ---
 1965-1970 | 15 | Dziewczyna z Poznania, kilkumiesięczny romans
-1970-1975 | 13 | Córka brata szwagra (męża siostry)
-1970-1975 | 15 | "Wisienka", urtzymywali stosunki przez 2 latach
+1970-1975 | 13 | Córka brata szwagra (męża siostry Sadowskiego)
+1970-1975 | 15 | "Wisienka", utrzymywali stosunki przez 2 lata
 1970-1975 | 15 | Córka dyplomaty
 1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy
 1980-1985 | 12 | Chłopiec z kościoła
@@ -127,12 +151,14 @@ Okres czasu | Wiek | Uwagi
 1995-2000 | ?? | J., uczennica
 1996-1998 | ?? | "Jola"
 1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego
-2000 | ?? | E., wolontariuszka na warsztatach muzycznych
+2000 | ?? | E., wolontariuszka na warsztatach muzycznych <sup>1</sup>
 2003 | 15 | Piosenkarka
 2012-2014 | 15 | Córka znaneo muzyka
 2017 | 20 | Uczestniczka warsztatów
 
-Nie umiejscowione w czasie:
+<sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
+
+#### Nie umiejscowione w czasie
 
 Wiek | Uwagi
 --- | ---
