@@ -29,13 +29,13 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-12 14:29|Artykuł|Planeta||Emilia Waszczuk|Zgłosiło się już 20 ofiar|[Link](https://www.planeta.pl/Wiadomosci/Polska/21-ofiar-krzysztofa-sadowskiego-muzyk-jest-pedofilem-zielke-publikuje-zeznania)
 2019-08-13|Wywiad / Materiał wideo|Polsat News|Wydarzenia i opinie|Bogdan Rymanowski|Wywiad z Mariuszem Zielke|[Link](https://www.polsatnews.pl/wiadomosc/2019-08-13/sadowski-oskarzony-o-pedofilie-sa-osoby-ktore-byly-krzywdzone-kiedy-mialy-10-lat/)
 2019-08-13|Artykuł|Witrualna Polska|WP Wiadomości|Maciej Deja|Informacja o molestowaniu dwóch chłopców|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-chca-isc-do-sadu-i-spojrzec-sadowskiemu-w-oczy-6413235081345153a)
-2019-08-13 19:53|Artykuł|naTemat.pl||Anna Dryjeńska||[link](https://natemat.pl/281553,krzysztof-sadowski-i-afera-pedofilska-czy-media-o-tym-nie-mowia)
+2019-08-13 19:53|Artykuł|naTemat.pl||Anna Dryjańska|O milczeniu głównych mediów w sprawie Sadowskiego|[link](https://natemat.pl/281553,krzysztof-sadowski-i-afera-pedofilska-czy-media-o-tym-nie-mowia)
 2019-08-13 19:05|Oświadczenie|Facebook|Profil Polskiego Stowarzyszenia Jazzowego|Osoby z zarządu PSJ|Członkowstwo Sadowskiego zawieszone|
 2019-08-14|Wywiad / Materiał wideo|wPolityce|Gorące pytania|Marek Pyza|Wywiad z Mariuszem Zielke|[Link](https://youtu.be/cixOVA0kRQU)
-2019-08-18 13:06|Artykuł|TVP Info||FA, TO||[Link](https://www.tvp.info/43987731/zabieral-mnie-do-kina-tam-przykrywal-kurtka-dziewczyny-z-zespolu-tecza-przerywaja-milczenie)
+2019-08-18 13:06|Artykuł|TVP Info||FA, TO|Krótkie streszczenie reportażu z Wyborczej|[Link](https://www.tvp.info/43987731/zabieral-mnie-do-kina-tam-przykrywal-kurtka-dziewczyny-z-zespolu-tecza-przerywaja-milczenie)
 2019-08-18 21:17|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|"Media próbowały kryć pedofilię w show-biznesie!"|[Link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
 2019-08-19 06:00|Artykuł|Gazeta Wyborcza|Duży Format|Iza Michalewicz|Wyznania dwóch ofiar; potencjalne ujawnienie tajemnicy śledźtwa (informacji o której nie wiedział Sadowski)|[Link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
-2019-08-19 07:20|Artykuł|TVP Info||FA, ADOM||[Link](https://www.tvp.info/43997715/media-zwlekaly-w-sprawie-pedofilii-sadowskiego-wyborcza-czekala-rok)
+2019-08-19 07:20|Artykuł|TVP Info||FA, ADOM|Dziennikarka Wyborczej od roku wiedziała o pedofilii Sadowskiego|[Link](https://www.tvp.info/43997715/media-zwlekaly-w-sprawie-pedofilii-sadowskiego-wyborcza-czekala-rok)
 2019-08-19 11:46|Artykuł|naTemat.pl||Daria Różańska|Artykuł na bazie reportazu Izy Michalewicz|[Link](https://natemat.pl/281941,reportaz-df-sadowski-molestowal-dziewczyny-z-zespolu-tecza-rozmowy)
 2019-08-20|Materiał wideo|YouTube|Wywiad|Radio Iława|Wywiad z Mariuszem Zielke (*Największa afera pedofilska w Polsce w cieniu Złotej Tarki? Zielke kontra Sadowski*)|[Link](https://www.youtube.com/watch?v=lER-4duAIu4)
 2019-08-20 18:20|Artykuł|wPolityce.pl||Marek Pyza|Krytyka reportażu Izy Michalewicz z 2019-08-19|[Link](https://wpolityce.pl/media/460136-jak-media-pomagaly-i-pomagaja-pedofilowi-z-show-biznesu)
@@ -54,7 +54,6 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-06|Rozmowa / Materiał wideo|TVP Info|O co chodzi|Bronisław Wildstein|Mariusz Zielke, Radosław Gruca - o 4 rano!|[Link](https://www.tvp.info/43958402/06092019-0401/program-o-co-chodzi)
 2019-09-07|Materiał wideo|Polsat|Skandaliści|Agnieszka Gozdyra|Ewa Gajda, Mariusz Zielke|[Link](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)
 2019-09-09|Zdarzenie||||Mariusz Zielke przekazuje Prokuraturze część ustaleń (wiadomo z artykulu 2019-09-11)|
-2019-09-09|Artykuł|Wprost||||
 2019-09-11|Artykuł|Wirtualne Media|||Informacja o przekazaniu Prokuraturze części ustaleń|[Link](https://www.wirtualnemedia.pl/artykul/mariusz-zielke-nie-zebral-100-tys-zl-na-film-o-pedofilii-przedluza-zbiorke-i-rozmawia-z-inwestorami)
 2019-09-11 09:00|Wywiad|Tygodnik Solidarnosć||Bartosz Boruciak|Wywiad z Mariuszem Zielke|[Link](https://www.tysol.pl/a36885--Tylko-u-nas-Mariusz-Zielke-dla-Tysol-pl-Pokaze-cos-czego-jeszcze-nie-bylo-)
 2019-09-12|Materiał wideo|TVN|Uwaga|Tomasz Parota|Wypowiedzi artystów: A. Zaryan, M. Tokaj, S. Kurkiewicz|[Link](https://uwaga.tvn.pl/reportaze,2671,n/znany-muzyk-oskarzony-o-pedofilie-dokonal-gwaltu-i-molestowania-na-wielu-osobach-oficjalna-strona-pr,299273.html)
@@ -72,9 +71,13 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
-1992-07-21|Doniesienie na policję|||J. Gajda|W sprawie molestowania córki Ewy przez Krzysztofa Sadowskiego|
+1971|Warsztaty jazzowe|Chodzież|||Pierwsza edycja warsztatów jazzowych w Chodzieży, w których jako aktywny animator środowiska jazzowego stale uczestniczy Krzysztof Sadowski, podobnie jak w warsztatach w pobliskim Margoninie i Puławach, gdzie przyjeżdżały także uzdolnione dzieci.|
+1990|Program telewizyjny|TVP|Tęczowy Music Box|Aleksander Pałac<br>Krzysztof Sadowski<br>Barbara Kolago|TVP zaczyna emisję programu Tęczowy Music Box, z którym współpracują Krzysztof Sadowski i jego żona Liliana Urbańska. W programie występuje córka muzyka Marysia Sadowska (wówczas lat 14) i dzieci z prowadzonego przez niego zespołu Tęcza. Zespół Tęcza zaczyna jeździć po Polsce z koncertami występując m.in. w Sali Kongresowej i Teatrze Wielkim.|
+1992|Program telewizyjny|Polsat|Co jest grane?|Lila Urbańska|TVP wycofuje się ze współpracy z Sadowskim i jego zespół dziecięcy Tęcza zaczyna występować w programie Polsatu Co jest grane? w reżyserii Liliany Urbańskiej (wyemitowano 125 odcinków). W dalszym jednak ciągu koncertuje pod szyldem Tęczowy Music Box.|
 1992|Zdarzenie||||Krysztof Sadowski jako dyrektor zarządu Fundacji Jazz Jamboree|
-1995-12|Zdarzenie||||Krysztof Sadowski jako prezes PSJ|
+1992-07-21|Doniesienie na policję|||J. Gajda|W sprawie molestowania córki Ewy przez Krzysztofa Sadowskiego|
+1995-12|Zdarzenie||||Krysztof Sadowski zostaje prezesem Polskiego Stowarzyszenia Jazzowego|
+2002-07-27|Wpis|Krajowy Rejestr Sądowy||Krzysztof Sadowski<br>Lila Urbańska|Wpis do KRS Fundacji Wspierającej Dzieci Uzdolnione Muzycznie „Tęcza” faktycznie istniejącej od lat 90. XX w.|
 2002-12|Artykuł|Gazeta Sądowa||Krzysztof Bachorzewski|Duet Karpiński-Sadowski gra na warsztatach artystycznych dla prawników|[Link](http://sh219231.website.pl/wamp---zakopane.html)
 2003-10-28|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski jako prezes PSJ (formalnie wpisany w rejestr, bo był nim już wcześniej)|
 2016-03-23|Zdarzenie||||Duet Karpiński-Sadowski w Teatrze Sabat|
@@ -84,6 +87,9 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-04-19|Zdarzenie||||Zjazd walny PSJ|
 2016-04-20|Material wideo||Jazz Of Freedom|Piotr Matla|Zjazd walny PSJ, wypowiedź Sadowskiego, Stępień liczy głosy nie tak jak trzeba|[Link](https://www.youtube.com/watch?v=iXCBbXvJ7BE)
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
+2018|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
+2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
+2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
 2019-09-14|Wpis|Facebook|Profil Marii Sadowskiej|Maria Sadowska|Pierwsza wypowiedź Marii Sadowskiej po ujawnieniu afery potencjalnie do niej nawiązująca|[Link](https://www.facebook.com/sadowskamaria/posts/10156320425511669)
 2019-09-15 12:46|Artykuł|Wprost.pl|||Komentarz do oświadczenia Marii Sadowskiej, internauci krytykują egocentryzm|[Link](https://www.wprost.pl/zycie/10251149/maria-sadowska-po-raz-pierwszy-od-wielu-dni-zabrala-glos-publicznie-zarzucono-jej-egocentryzm.html)
@@ -129,7 +135,8 @@ Data | Autor | Uwagi | Link
 
 ### Osoby poboczne, które nie pojawiają się w publikacjach, ale są przedmiotem komentarzy Internautów
 
-* [Jolanta Fajkowska](https://pl.wikipedia.org/wiki/Jolanta_Fajkowska), żona Krysztofa Karpińskiego, z rekomendacji PSJ zasiadająca od lat w Radzie Programowej TVP w Warszawie; siostra [Janusza Fajkowskiego](https://newconnect.pl/ebi/files/85060-janusz-fajkowski.pdf),
+* Katarzyna Wasilewska, córka [Wieńczysława Glińskiego](https://pl.wikipedia.org/wiki/Wie%C5%84czys%C5%82aw_Gli%C5%84ski), członkini Rady Nadzorczej Fundacji Wspierającej Dzieci Uzdolnione Muzycznie „Tęcza” i bliska znajoma Sadowskich
+* [Jolanta Fajkowska](https://pl.wikipedia.org/wiki/Jolanta_Fajkowska), żona Krzysztofa Karpińskiego, z rekomendacji PSJ zasiadająca od lat w Radzie Programowej TVP w Warszawie; siostra [Janusza Fajkowskiego](https://newconnect.pl/ebi/files/85060-janusz-fajkowski.pdf),
 * Ewa Maria Radlińska, adwokat Sadowskiego (jej nazwisko pojawia sie w [link](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)), córka Jerzego Radlińskiego, autora książki *Obywatel Jazz*
 * Elżbieta Marciniak-Kuszakiewicz, pedagog zespołu *Tęcza*
 
@@ -137,48 +144,47 @@ Data | Autor | Uwagi | Link
 
 Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4).
 
-#### Umiejscowione w czasie
-
-Okres czasu | Wiek | Uwagi | Link
---- | --- | --- | ---
-1965-1970 | 15 | Dziewczyna z Poznania, kilkumiesięczny romans |
-1970-1975 | 13 | Córka brata szwagra (męża siostry Sadowskiego) |
-1970-1975 | 15 | "Wisienka", utrzymywali stosunki przez 2 lata |
-1970-1975 | 15 | Córka dyplomaty |
-1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy |
-1980-1985 | 12 | Piotr, chłopiec molestowany po koncercie poezji Jana Pawła II | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
-1980-1985 | 12 | Syn bliskiej przyjaciółki, chrześniak Sadowskiego |
-1983-1987 | 14 | Dziewczynka z domu dziecka, "wyłowiona" na lekcjach chóru, wielokrotne gwałty przez 4 lata | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
-1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję |[Pierwsza pubilikacja](https://www.salon24.pl/u/zielke/976658,horror-dzieci-z-teczy-dowody-na-pedofilie-krzysztofa-sadowskiego), [Rozmowa w TV](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)
-1992 | 10 | Inna dziewczyna z zespółu "Tęcza" |
-1990-1995 | 11-12 | Dziewczynka z warsztatów w Margoninie, po zdarzeniu przydzielono Sadowskiemu „ochroniarza” do pilnowania |
-1990-1995 | 11-12 | Piosenkarka/aktorka, gwałt, wielokrotne stosunki |
-1990-2000 | 14-15 | Dziewycznka prowadząca fanklub |
-1990-2000 | 11 | Uczennica muzyka, gwałt, wielokrotne stosunki |
-1990-2000 | 13 | Córka bliskich znajomych |
-1990-2000 | 11 | uczennica "Anna" |
-1990-2000 | 10-13 | M., dziewczynka z "Tęczy" |
-1990-2000 | 14 | A., uczestniczka warsztatów w Iławie |
-1990-2000 | 11 | uczestniczka warsztatów, piosenkarka "Marta" |
-1990-2000 | 12-13 | córka muzyka, uczestniczka warsztatów "Iza" |
-1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne stosunki |
-1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne molestowanie |
-1995-2000 | 15 | Uczestniczka warsztatów w Puławach |
-1995-2000 | 15 | Uczestniczka warsztatów w Iławie |
-1995-2000 | ?? | J., uczennica |
-1996-1998 | ?? | "Jola" |
-1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego | [Link](https://www.tvn24.pl/magazyn-tvn24/olga-byl-dla-mnie-jak-ojciec-ale-corki-nie-obejmuje-sie-w-tych-miejscach,231,3988)
-2000 | ?? | E., wolontariuszka na warsztatach muzycznych, tożsamość znana <sup>1</sup> |
-2003 | 15 | Piosenkarka |
-2012-2014 | 15 | Córka znanego muzyka |
-2017 | 20 | Uczestniczka warsztatów |
-?? | 11 | A., uczestniczka warsztatów w Margoninie |
-?? | 17 | Piosenkarka, Sadowski był w jury festiwalu | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
-?? | poniżej 18 | "Lidka" |
-?? |18 | Uczennica "Milena" |
-?? | ?? | Córka lokalnego polityka w Iławie, uciekła przez okno |
-?? | ?? | K., uczennica |
-?? | ?? | M., uczennica |
-?? | ?? | I., dziewczynka |
+Numer | Okres czasu | Wiek | Uwagi | Link
+--- | --- | --- | --- | ---
+1 | 1970-1975 | 13 | Córka brata szwagra (męża siostry Sadowskiego) |
+2 | 1970-1975 | 15 | "Wisienka", utrzymywali stosunki przez 2 lata |
+3 | 1965-1970 | 15 | Dziewczyna z Poznania, kilkumiesięczny romans |
+4 | 1970-1975 | 15 | Córka dyplomaty |
+5 | 1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy |
+6 | 1980-1985 | 12 | Piotr, chłopiec molestowany po koncercie poezji Jana Pawła II | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+7 | 1980-1985 | 12 | Syn bliskiej przyjaciółki, chrześniak Sadowskiego |
+8 | 1983-1987 | 14 | Dziewczynka z domu dziecka, "wyłowiona" na lekcjach chóru, wielokrotne gwałty przez 4 lata | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+9 | 1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję |[Pierwsza pubilikacja](https://www.salon24.pl/u/zielke/976658,horror-dzieci-z-teczy-dowody-na-pedofilie-krzysztofa-sadowskiego), [Rozmowa w TV](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)
+10 | 1992 | 10 | Inna dziewczyna z zespółu "Tęcza" |
+11 | 1990-1995 | 11-12 | Dziewczynka z warsztatów w Margoninie, po zdarzeniu przydzielono Sadowskiemu „ochroniarza” do pilnowania |
+12 | 1990-1995 | 11-12 | Piosenkarka/aktorka, gwałt, wielokrotne stosunki |
+13 | 1990-2000 | 11 | Uczennica muzyka, gwałt, wielokrotne stosunki |
+14 | 1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne stosunki |
+15 | 1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne molestowanie |
+16 | 1990-2000 | 14-15 | Dziewycznka prowadząca fanklub |
+17 | 1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego | [Link](https://www.tvn24.pl/magazyn-tvn24/olga-byl-dla-mnie-jak-ojciec-ale-corki-nie-obejmuje-sie-w-tych-miejscach,231,3988)
+18 | 1995-2000 | 15 | Uczestniczka warsztatów w Puławach |
+19 | 1990-2000 | 13 | Córka bliskich znajomych |
+20 | 2003 | 15 | Piosenkarka |
+21 | 1990-2000 | 11 | uczennica "Anna" |
+22 | 1990-2000 | 11 | uczestniczka warsztatów, piosenkarka "Marta" |
+23 | 1990-2000 | 12-13 | córka muzyka, uczestniczka warsztatów "Iza" |
+24 | ?? |18 | Uczennica "Milena" |
+25 | ?? | poniżej 18 | "Lidka" |
+26 | 1996-1998 | ?? | "Jola" |
+27 | ?? | ?? | Córka lokalnego polityka w Iławie, uciekła przez okno |
+28 | 2017 | 15 | Córka znanego muzyka, warsztaty w Puławach |
+29 | 2012-2014 | 15 | Warsztaty w Puławach |
+30 | 2017 | 20 | Uczestniczka warsztatów |
+31 | 1995-2000 | ?? | Uczestniczka warsztatów w Iławie |
+32 | 17 | Piosenkarka, Sadowski był w jury festiwalu | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+33 | 2000 | ?? | E., wolontariuszka na warsztatach muzycznych, tożsamość znana <sup>1</sup> |
+34 | 1995-2000 | ?? | J., uczennica |
+35 | ?? | ?? | K., uczennica |
+36 | ?? | ?? | M., uczennica |
+37 | ?? | ?? | I., dziewczynka |
+38 | 1990-2000 | 10-13 | M., dziewczynka z "Tęczy" |
+39 | 1990-2000 | 14 | A., uczestniczka warsztatów w Iławie |
+40 | ?? | 11 | A., uczestniczka warsztatów w Margoninie |
 
 <sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
