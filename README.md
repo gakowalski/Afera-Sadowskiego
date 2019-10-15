@@ -146,10 +146,10 @@ Okres czasu | Wiek | Uwagi | Link
 1970-1975 | 15 | "Wisienka", utrzymywali stosunki przez 2 lata |
 1970-1975 | 15 | Córka dyplomaty |
 1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy |
-1980-1985 | 12 | Piotr, chłopiec molestowany po koncercie poezji Jana Pawła II | [link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+1980-1985 | 12 | Piotr, chłopiec molestowany po koncercie poezji Jana Pawła II | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
 1980-1985 | 12 | Syn bliskiej przyjaciółki, chrześniak Sadowskiego |
-1983-1987 | 14 | Dziewczynka z domu dziecka, "wyłowiona" na lekcjach chóru, wielokrotne gwałty przez 4 lata | [link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
-1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję | [link](https://www.salon24.pl/u/zielke/976658,horror-dzieci-z-teczy-dowody-na-pedofilie-krzysztofa-sadowskiego)
+1983-1987 | 14 | Dziewczynka z domu dziecka, "wyłowiona" na lekcjach chóru, wielokrotne gwałty przez 4 lata | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+1992 | 10 | Ewa Gajda, zespół "Tęcza", sprawa zgłoszona na policję |[Pierwsza pubilikacja](https://www.salon24.pl/u/zielke/976658,horror-dzieci-z-teczy-dowody-na-pedofilie-krzysztofa-sadowskiego), [Rozmowa w TV](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)
 1992 | 10 | Inna dziewczyna z zespółu "Tęcza" |
 1990-1995 | 11-12 | Dziewczynka z warsztatów w Margoninie, po zdarzeniu przydzielono Sadowskiemu „ochroniarza” do pilnowania |
 1990-1995 | 11-12 | Piosenkarka/aktorka, gwałt, wielokrotne stosunki |
@@ -167,13 +167,13 @@ Okres czasu | Wiek | Uwagi | Link
 1995-2000 | 15 | Uczestniczka warsztatów w Iławie |
 1995-2000 | ?? | J., uczennica |
 1996-1998 | ?? | "Jola" |
-1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego |
-2000 | ?? | E., wolontariuszka na warsztatach muzycznych | <sup>1</sup>
+1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego | [Link](https://www.tvn24.pl/magazyn-tvn24/olga-byl-dla-mnie-jak-ojciec-ale-corki-nie-obejmuje-sie-w-tych-miejscach,231,3988)
+2000 | ?? | E., wolontariuszka na warsztatach muzycznych, tożsamość znana <sup>1</sup> |
 2003 | 15 | Piosenkarka |
 2012-2014 | 15 | Córka znanego muzyka |
 2017 | 20 | Uczestniczka warsztatów |
 ?? | 11 | A., uczestniczka warsztatów w Margoninie |
-?? | 17 | Piosenkarka, Sadowski był w jury festiwalu | [link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
+?? | 17 | Piosenkarka, Sadowski był w jury festiwalu | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
 ?? | poniżej 18 | "Lidka" |
 ?? |18 | Uczennica "Milena" |
 ?? | ?? | Córka lokalnego polityka w Iławie, uciekła przez okno |
