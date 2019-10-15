@@ -12,6 +12,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-06 10:53|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://www.facebook.com/photo.php?fbid=2287264981309440&set=a.182244985144794&type=3&theater)
 2019-08-06 10:59|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-dziennikarz-ujawnia-znany-muzyk-krzysztof-sadowski-molestowal-dziewczynki-6410573896906369a)
 2019-08-06 11:23|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975318,krzysztof-sadowski-byl-pedofilem-srodowisko-wiedzialo)
+2019-08-06 11:29|Artykuł|TVP Info||FA, MNIE|Informacja, że oskarżonym muzykiem jest Krzysztof Sadowski|[Link](https://www.tvp.info/43821514/dziennikarz-ujawnil-nazwisko-muzyka-ktory-mial-molestowac-dzieci)
 2019-08-06 12:12|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Wypowiedź Lili Urbańskiej|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-byla-zona-krzysztofa-sadowskiego-o-molestowanie-oskarza-go-osoba-chora-psychicznie-6410589662410369a)
 2019-08-06 21:04|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
 2019-08-07|Artykuł|Wirtualna Polska|WP Kobieta|Karolina Błaszkiewicz|Małgorzata Halber mówi o 5-10-15|[Link](https://kobieta.wp.pl/krzysztof-sadowski-z-teczowego-music-boxu-posadzany-o-molestowanie-halber-o-programach-dzieciecych-6410942517516417a)
@@ -19,17 +20,22 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-08 11:37|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Wypowiedź Andrzdeja Rosiewicza|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-andrzej-rosiewicz-jestem-zaskoczony-6411292771502209a)
 2019-08-08 11:55|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/975831,liliana-urbanska-klamie-w-sprawie-krzysztofa-sadowskiego)
 2019-08-08 12:38|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Krzysztof Sadowski wydał oświadczenie|[Link](https://wiadomosci.wp.pl/krzysztof-sadowski-wydal-oswiadczenie-ws-oskarzen-kobiet-pomowienia-jednej-osoby-6411658790090369a)
+2019-08-09 12:55|Artykuł|TVP Info||FA, MNIE|Krzysztof Sadowski wydał oświadczenie|[Link](https://www.tvp.info/43870670/sadowski-wydal-oswiadczenie-po-zarzutach-o-pedofilie)
 2019-08-09 20:39|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/976200,krzysztof-sadowski-oswiadczenie-z-komentarzem)
 2019-08-11 22:14|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/976658,horror-dzieci-z-teczy-dowody-na-pedofilie-krzysztofa-sadowskiego)
 2019-08-13|Materiał wideo|Polsat News||Bogdan Rymanowski||[Link](https://www.polsatnews.pl/wiadomosc/2019-08-13/sadowski-oskarzony-o-pedofilie-sa-osoby-ktore-byly-krzywdzone-kiedy-mialy-10-lat/)
 2019-08-13|Artykuł|Witrualna Polska|WP Wiadomości|Maciej Deja|Informacja o molestowaniu dwóch chłopców|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-chca-isc-do-sadu-i-spojrzec-sadowskiemu-w-oczy-6413235081345153a)
 2019-08-13 19:05|Oświadczenie|Facebook|Profil Polskiego Stowarzyszenia Jazzowego|Osoby z zarządu PSJ|Członkowstwo Sadowskiego zawieszone|
 2019-08-14|Materiał wideo|||||[Link](https://youtu.be/cixOVA0kRQU)
+2019-08-18 13:06|Artykuł|TVP Info||FA, TO||[Link](https://www.tvp.info/43987731/zabieral-mnie-do-kina-tam-przykrywal-kurtka-dziewczyny-z-zespolu-tecza-przerywaja-milczenie)
 2019-08-18 21:17|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke||[Link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
 2019-08-19 06:00|Artykuł|Gazeta Wyborcza|Duży Format|Iza Michalewicz|Potencjalne ujawnienie tajemnicy śledźtwa (informacji o której nie wiedział Sadowski)|[Link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
+2019-08-19 07:20|Artykuł|TVP Info||FA, ADOM||[Link](https://www.tvp.info/43997715/media-zwlekaly-w-sprawie-pedofilii-sadowskiego-wyborcza-czekala-rok)
+2019-08-19 11:46|Artykuł|naTemat.pl||Daria Różańska|Artykuł na bazie reportazu Izy Michalewicz|[Link](https://natemat.pl/281941,reportaz-df-sadowski-molestowal-dziewczyny-z-zespolu-tecza-rozmowy)
 2019-08-20|Artykuł|wPolityce.pl||Marek Pyza|Krytyka reportażu Izy Michalewicz z 2019-08-19|[Link](https://wpolityce.pl/media/460136-jak-media-pomagaly-i-pomagaja-pedofilowi-z-show-biznesu)
 2019-08-20 22:01|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Ponad 20 ofiar|[Link](https://wiadomosci.wp.pl/ponad-20-ofiar-muzyka-krzysztofa-sadowskiego-chca-isc-do-prokuratury-6415587921548929a)
-2019-08-21|Materiał wideo|TVP Info||||[Link](https://www.tvp.info/44031785/opanowywal-gwalcil-potem-kontrolowal-w-doroslym-zyciu-zielke-o-sadowskim)
+2019-08-21 16:20|Audycja|Tok FM|Światopogląd|Agnieszka Lichnerowicz|Wywiad z Izą Michalewicz, autorką reportażu o Sadowskim w Wyborczej; zarzuty wobec Mariusza Zielke o rzekomą nierzetelność|[Link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
+2019-08-21 20:39|Materiał wideo|TVP Info||JMK, MNIE||[Link](https://www.tvp.info/44031785/opanowywal-gwalcil-potem-kontrolowal-w-doroslym-zyciu-zielke-o-sadowskim)
 2019-08-23|Wywiad|Newsweek||Renata Kim|Wywiad z Ewą Gajdą|[Link](https://www.msn.com/pl-pl/wiadomosci/polska/ofiara-pedofila-p%c5%82aka%c5%82am-z-rado%c5%9bci-%c5%bce-wreszcie-kto%c5%9b-to-opowiedzia%c5%82/ar-AAGdp3c?ocid=ob-tw-plpl-572)
 2019-08-24|Artykuł / Materiał wideo|TVN24|Magazyn TVN24|Bartosz Żurawicz, Iga Piotrowska|Olga Śmigielska|[Link](https://www.tvn24.pl/magazyn-tvn24/olga-byl-dla-mnie-jak-ojciec-ale-corki-nie-obejmuje-sie-w-tych-miejscach,231,3988)
 2019-08-24 11:07|Artykuł|TVN24||Bartosz Żurawicz||[Link](https://www.tvn24.pl/lodz,69/krzysztof-sadowski-prokuratura-w-warszawie-przejmuje-sledztwo-w-sprawie-gwaltu-i-pedofilii-ktorej-mial-dopuscic-sie-znany-muzyk,963552.html)
@@ -111,7 +117,7 @@ Data | Autor | Uwagi | Link
 * [Lila Karolina Urbańska-Sadowska](https://pl.wikipedia.org/wiki/Liliana_Urba%C5%84ska) ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo,
 * [Maria Magdalena Sadowska](https://pl.wikipedia.org/wiki/Maria_Sadowska), córka Krzysztofa i Lili,
 * [Krzysztof Andrzej Karpiński](https://pl.wikipedia.org/wiki/Krzysztof_Karpi%C5%84ski), sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
-* [Jerzy Stępień](https://pl.wikipedia.org/wiki/Jerzy_St%C4%99pie%C5%84), były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
+* [Jerzy Adam Stępień](https://pl.wikipedia.org/wiki/Jerzy_St%C4%99pie%C5%84), były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
 * Martyna Magdalena Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), siostra Darii
 * Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
 * Adrian Łabanowski, mąż Marii Sadowskiej, obecne prezes Fundacji Jazz Jamboree
