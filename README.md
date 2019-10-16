@@ -29,6 +29,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-12 14:29|Artykuł|Planeta||Emilia Waszczuk|Zgłosiło się już 20 ofiar|[Link](https://www.planeta.pl/Wiadomosci/Polska/21-ofiar-krzysztofa-sadowskiego-muzyk-jest-pedofilem-zielke-publikuje-zeznania)
 2019-08-13|Wywiad / Materiał wideo|Polsat News|Wydarzenia i opinie|Bogdan Rymanowski|Wywiad z Mariuszem Zielke|[Link](https://www.polsatnews.pl/wiadomosc/2019-08-13/sadowski-oskarzony-o-pedofilie-sa-osoby-ktore-byly-krzywdzone-kiedy-mialy-10-lat/)
 2019-08-13|Artykuł|Witrualna Polska|WP Wiadomości|Maciej Deja|Informacja o molestowaniu dwóch chłopców|[Link](https://wiadomosci.wp.pl/afera-teczowy-music-box-chca-isc-do-sadu-i-spojrzec-sadowskiemu-w-oczy-6413235081345153a)
+2019-08-13 17:45|Artykuł / Audycja|Polskie Radio|Puls Trójki|Mariusz Krzemiński|Wojciech Surmacz i Krzysztof M. Kaźmierczak o działaniach służb i roli dziennikarzy w sprawach dotyczących pedofilii|[link](https://www.polskieradio.pl/9/301/Artykul/2354626,Dzialania-sluzb-i-rola-dziennikarzy-w-sprawach-dotyczacych-pedofilii-To-bardzo-trudne-tematy)
 2019-08-13 19:53|Artykuł|naTemat.pl||Anna Dryjańska|O milczeniu głównych mediów w sprawie Sadowskiego|[link](https://natemat.pl/281553,krzysztof-sadowski-i-afera-pedofilska-czy-media-o-tym-nie-mowia)
 2019-08-13 19:05|Oświadczenie|Facebook|Profil Polskiego Stowarzyszenia Jazzowego|Osoby z zarządu PSJ|Członkowstwo Sadowskiego zawieszone|
 2019-08-14|Wywiad / Materiał wideo|wPolityce|Gorące pytania|Marek Pyza|Wywiad z Mariuszem Zielke|[Link](https://youtu.be/cixOVA0kRQU)
@@ -147,9 +148,9 @@ Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/
 Numer | Okres czasu | Wiek | Uwagi | Link
 --- | --- | --- | --- | ---
 1 | 1970-1975 | 13 | Córka brata szwagra (męża siostry Sadowskiego) | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
-2 | 1970-1975 | 15 | "Wisienka", utrzymywali stosunki przez 2 lata | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
+2 | 1970 | 15 | *Wisienka*, utrzymywali stosunki przez 2; jej matka miała zrobić awanturę żonie Sadowskiego | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
 3 | 1965-1970 | 15 | Dziewczyna z Poznania, kilkumiesięczny romans |
-4 | 1970-1975 | 15 | Córka dyplomaty |
+4 | 1970-1975 | 15 | Córka dyplomaty, napomina o niej *Wisienka* w swojej relacji | [link](salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
 5 | 1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
 6 | 1980-1985 | 12 | Piotr, chłopiec molestowany po koncercie poezji Jana Pawła II | [Link](https://www.salon24.pl/u/zielke/975478,krzysztof-sadowski-jest-pedofilem-wiele-doniesien-o-kryciu-przez-branze)
 7 | 1980-1985 | 12 | Syn bliskiej przyjaciółki, chrześniak Sadowskiego | [Link](https://www.salon24.pl/u/zielke/981896,afera-sadowskiego-molestowal-mnie-ojciec-chrzestny)
@@ -159,10 +160,10 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 11 | 1990-1995 | 11-12 | Dziewczynka z warsztatów w Margoninie, po zdarzeniu przydzielono Sadowskiemu „ochroniarza” do pilnowania |
 12 | 1990-1995 | 11-12 | Piosenkarka/aktorka, gwałt, wielokrotne stosunki |
 13 | 1990-2000 | 11 | Uczennica muzyka, gwałt, wielokrotne stosunki |
-14 | 1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne stosunki |
-15 | 1995-2000 | 12 | Prowadząca program telewizyjny, wielokrotne molestowanie |
+14 | 1997 | 12 | *Basia*, prowadząca program telewizyjny | [link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
+15 | 1997 | 12 | *Marta*, prowadząca program telewizyjny | [link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
 16 | 1990-2000 | 14-15 | Dziewycznka prowadząca fanklub | [link](https://www.salon24.pl/u/zielke/988895,afera-pedofilska-sadowskiego-sztuka-kochania-wedlug-dziadzi,4)
-17 | 1998-2002 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego | [Link](https://www.tvn24.pl/magazyn-tvn24/olga-byl-dla-mnie-jak-ojciec-ale-corki-nie-obejmuje-sie-w-tych-miejscach,231,3988)
+17 | 2000 | 15-16 | Olga Śmigielska, córka znanego konferansjera, przyjaciela Sadowskiego | [Link](https://www.tvn24.pl/magazyn-tvn24/olga-byl-dla-mnie-jak-ojciec-ale-corki-nie-obejmuje-sie-w-tych-miejscach,231,3988)
 18 | 1995-2000 | 15 | Uczestniczka warsztatów w Puławach |
 19 | 1990-2000 | 13 | Córka bliskich znajomych | [link](https://www.salon24.pl/u/zielke/988895,afera-pedofilska-sadowskiego-sztuka-kochania-wedlug-dziadzi)
 20 | 2003 | 15 | Piosenkarka | [link](https://www.salon24.pl/u/zielke/988895,afera-pedofilska-sadowskiego-sztuka-kochania-wedlug-dziadzi,5)
