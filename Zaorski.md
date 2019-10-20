@@ -16,6 +16,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
 1996-05-31|Postanowienie Prezydenta RP|Monitor Polski|Nr 58, poz. 531|Kancelaria Prezydenta Aleksandra Kwaśniewskiego|Nadanie Krzyża Oficerskiego Orderu Odrodzenia Polski dla Zaorskiego Daniela, syna Kazimierza, za wybitne zasługi dla kultury narodowej|[Link](http://monitorpolski.gov.pl/MP/1996/s/58/531/1)
 2008-09-11|Wywiad|Dziennik Teatralny||Tomasz Klauza|Wywiad z Ryszardem Zaorskim|[Link](http://www.dziennikteatralny.pl/artykuly/zawsze-potrzebny-byl-teatr-dla-tej-drugiej-strony-dla-widza.html)
+2011-06-19|Artykuł|Dziennik Zachodni|Kultura|Henryka Wach-Malicka|Cytat z artykułu: "Rysiowi uchodziły płazem nawet żarty lekko dwuznaczne, bo okraszał je spojrzeniem niewiniątka i ciepłą serdecznością."|[Link](https://dziennikzachodni.pl/ryszard-zaorski-lomnicki-oddal-mu-lozko/ar/416176)
 2012|Książka|Teraz pora na Zaora||Ryszard Zaorski||[Link](http://www.slaskwn.com.pl/sklep/teraz-pora-na-zaora)
 2019-10-15|Artykuł|Dziennik Teatralny||Urszula Makselon|Przypomnienie treści artykułu z 2011-10-05 o Ryszardzie Zaorskim|[Link](http://www.dziennikteatralny.pl/artykuly/zmarl-ryszard-zaorski-1928-2019.html)
 
