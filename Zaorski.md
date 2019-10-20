@@ -23,9 +23,11 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 ### Istotne osoby
 
-* [Daniel Ryszard Zaorski](https://pl.wikipedia.org/wiki/Ryszard_Zaorski), (aczkolwiek informacje na Wikipedii nie zawsze sa poprawne, np. Zaorski urodził się w Lwowie a nie w Łucku),
+* [Daniel Ryszard Zaorski](https://pl.wikipedia.org/wiki/Ryszard_Zaorski) <sup>1</sup>,
 * [Mariusz Zielke](https://pl.wikipedia.org/wiki/Mariusz_Zielke),
 * ?? - córka znanego reżysera filmowego, była dziennikarka radiowa, córka chrzestna Zaorskiego.
+
+<sup>1</sup> Informacje na Wikipedii nie zawsze sa poprawne, np. Zaorski urodził się w Lwowie a nie w Łucku, ale dają ogólną orientację kim był Ryszard Zaorski.
 
 ### Lista ofiar na podstawie doniesień medialnych
 
