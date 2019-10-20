@@ -6,7 +6,8 @@ Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.c
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
-2019-10-15|Wpis|Facebook|Profil córki chrzestnej Zaorskiego|Córka chrzestna Zaorskiego|Kobieta wyjawia, że aktor był pedofilem i gwałcicielem
+2019-10-14 15:18|Artykuł|Onet|Film / Kultura|Polska Agencja Prasowa|*Ryszard Zaorski nie żyje. Aktor miał 91 lat* | [Link](https://kultura.onet.pl/film/wiadomosci/ryszard-zaorski-nie-zyje-aktor-mial-91-lat/5zyerf3)
+2019-10-15|Wpis|Facebook|Profil córki chrzestnej Zaorskiego|Córka chrzestna Zaorskiego|Kobieta wyjawia, że aktor był pedofilem i gwałcicielem|
 2019-10-20 19:57|Artykuł|Salon24|Blog Mariusza Zielkego|Mariusz Zielke|*„Tera(z) pora na Zaora”. Kobiety oskarżają aktora o molestowanie i pedofilię* |[Link](https://www.salon24.pl/u/zielke/994716,tera-z-pora-na-zaora-kobiety-oskarzaja-aktora-o-molestowanie-i-pedofilie?fbclid=IwAR2VBp0r5NudKG2DD1K_o-5ISYJx75KJ1E_8p62GcX06pJXJRZVVoeZE99o)
 
 ## Publikacje i zdarzenia będące tłem do afery z 2019 roku
