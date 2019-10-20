@@ -1,6 +1,6 @@
 # Afera Sadowskiego
 
-Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.com/gakowalski/Afera-Sadowskiego/blob/master/README.md) w serwisie GitHub lub się ze mną [skontaktować](https://www.grzegorzkowalski.pl/).
+Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.com/gakowalski/Afera-Sadowskiego/blob/master/Sadowski.md) w serwisie GitHub lub się ze mną [skontaktować](https://www.grzegorzkowalski.pl/).
 
 ## Publikacje i wydarzenia związane z oskarżeniami o molestowanie w 2019 roku
 
