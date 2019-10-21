@@ -2,9 +2,9 @@
 
 Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.com/gakowalski/Afera-Sadowskiego/blob/master/Polański.md) w serwisie GitHub lub się ze mną [skontaktować](https://www.grzegorzkowalski.pl/).
 
-# Sprawa gwałtu na 13-latce
+## Sprawa gwałtu na 13-latce
 
-## Przebieg wydarzeń
+### Przebieg wydarzeń
 
 Na podstawie [A timeline of Roman Polanski's 4-decade underage sex case](https://www.apnews.com/e087fdee79e74caf99caa27edd8a8887), [Roman Polanski sexual abuse case](https://en.wikipedia.org/wiki/Roman_Polanski_sexual_abuse_case), oraz dokumentów zawierających zeznania Samanthy Geimer oraz wyjaśnienia Romana Polańskiego (linki niżej pod tabelką, w podrodziale "Dokumenty").
 
@@ -26,7 +26,7 @@ Data | Zdarzenie
 2017-08 | Sędzia z Los Angeles odrzuca wniosek Samanthy Geimer o zakończenie sprawy Polańskiego.
 2018-05-03 | Akademia filmowa ogłasza, że wykluczyła Polańskiego i Billa Cosby'ego, który tydzień wcześniej został skazany za przestępstwo seksualne, z członkostwa.
 
-## Dokumenty
+### Dokumenty
 
 * Zasadnicza część zeznań Samanthy Geimer, ofiary Polańskiego przed Sądem Przysięgłych w [zapisie postępowania sądowego z dnia 1977-03-24 wykonanym przez Gary'ego Gorkosa](http://www.thesmokinggun.com/documents/crime/roman-polanski-fugitive-director).
 * [Opinia kuratora sądowego Kennetha Fare'a z dnia 1977-09-19 w sprawie Romana Polańskiego](http://www.thesmokinggun.com/documents/crime/polanski-seeks-sex-case-dismissal) (korzystna dla Polańskiego)
