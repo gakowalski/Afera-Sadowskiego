@@ -4,3 +4,7 @@ Uporządkowane bazy informacji dla osób chcących analizować doniesienia media
 
 * [Afera Krzysztofa Sadowskiego](Sadowski.md)
 * [Afera Ryszarda Zaorskiego](Zaorski.md)
+
+Stare sprawy:
+
+* [Roman Polański](Polanski.md)
