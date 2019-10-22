@@ -62,6 +62,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-13|Zdarzenie||||Sąd postanawia o zakazie publikacji na wniosek K. Sadowskiego|
 2019-09-15 21:45|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Afera pedofilska Sadowskiego: „Nazywał mnie Wisienką!”* |[Link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
 2019-09-29 20:06|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Afera pedofilska Sadowskiego: „Sztuka Kochania” według „Dziadzi”* |[Link](https://www.salon24.pl/u/zielke/988895,afera-pedofilska-sadowskiego-sztuka-kochania-wedlug-dziadzi)
+2019-10-01 12:03|Artykuł|Radio Poznań||Przemysław Stochaj|Współorganizator warsztatów w Margoninie, Wojciech Burzyński, opowiada o tym, że za Sadowskim chodziło dwóch ludzi i go obserwowało dla bezpieczeństwa dzieci|[Link](http://radiopoznan.fm/informacje/pozostale/czy-cala-jazzowa-polska-wiedziala-o-pedofilskich-sklonnosciach-znanego-muzyka)
 2019-10-06 20:27|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Kto się boi sprawy Krzysztofa Sadowskiego? Lista 40 ofiar!* |[Link](https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar)
 2019-10-09 15:32|Wpis|Facebook|Profil Mariusz Zielke|Mariusz Zielke|Opublkowanie postanowienia sądu o zakazie publikacji z dnia 2019-09-13|[Link](https://www.facebook.com/mariusz.zielke/posts/2404449759590961)
 2019-10-12|Artykuł|Salon24|(Prywatny blog)|Bogna Janke|Opinia o zakazie publikacji|[Link](https://www.salon24.pl/u/bognajanke/992699,sprawa-zielke-sadowski-czy-sad-slusznie-uciszyl-dziennikarza)
