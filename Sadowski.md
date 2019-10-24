@@ -104,6 +104,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
 2019-09-14|Wpis|Facebook|Profil Marii Sadowskiej|Maria Sadowska|Pierwsza wypowiedź Marii Sadowskiej po ujawnieniu afery potencjalnie do niej nawiązująca|[Link](https://www.facebook.com/sadowskamaria/posts/10156320425511669)
 2019-09-15 12:46|Artykuł|Wprost.pl|||Komentarz do oświadczenia Marii Sadowskiej, internauci krytykują egocentryzm|[Link](https://www.wprost.pl/zycie/10251149/maria-sadowska-po-raz-pierwszy-od-wielu-dni-zabrala-glos-publicznie-zarzucono-jej-egocentryzm.html)
+2019-09-26|Zdarzenie||||Zmiana wspólnika For Jazz Sp. z o.o. - Fundacja Jazz Jamboree odsprzedała swoje udziały Joannie Pieczykolan, sekretarz redakcji Jazz Forum, czasopisma wydawanego przez For Jazz, oraz wokalistce zespołu Soundrise|
 
 ## Zdarzenia zwiazane z usunięciem Krzysztofa Sadowskiego z funkcji prezesa PSJ
 
