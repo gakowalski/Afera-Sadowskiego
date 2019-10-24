@@ -32,7 +32,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-13 17:45|Artykuł / Audycja|Polskie Radio|Puls Trójki|Mariusz Krzemiński|Wojciech Surmacz i Krzysztof M. Kaźmierczak o działaniach służb i roli dziennikarzy w sprawach dotyczących pedofilii|[link](https://www.polskieradio.pl/9/301/Artykul/2354626,Dzialania-sluzb-i-rola-dziennikarzy-w-sprawach-dotyczacych-pedofilii-To-bardzo-trudne-tematy)
 2019-08-13 19:53|Artykuł|naTemat.pl||Anna Dryjańska|O milczeniu głównych mediów w sprawie Sadowskiego|[link](https://natemat.pl/281553,krzysztof-sadowski-i-afera-pedofilska-czy-media-o-tym-nie-mowia)
 2019-08-13 19:05|Oświadczenie|Facebook|Profil Polskiego Stowarzyszenia Jazzowego|Osoby z zarządu PSJ|Członkowstwo Sadowskiego zawieszone|
-2019-08-14|Wywiad / Materiał wideo|wPolityce|Gorące pytania|Marek Pyza|Wywiad z Mariuszem Zielke|[Link](https://youtu.be/cixOVA0kRQU)
+2019-08-14|Wywiad / Materiał wideo|wPolsce|Gorące pytania|Marek Pyza|Wywiad z Mariuszem Zielke|[Link](https://youtu.be/cixOVA0kRQU)
 2019-08-18 13:06|Artykuł|TVP Info||FA, TO|Krótkie streszczenie reportażu z Wyborczej|[Link](https://www.tvp.info/43987731/zabieral-mnie-do-kina-tam-przykrywal-kurtka-dziewczyny-z-zespolu-tecza-przerywaja-milczenie)
 2019-08-18 21:17|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Media próbowały kryć pedofilię w show-biznesie!* |[Link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
 2019-08-19 06:00|Artykuł|Gazeta Wyborcza|Duży Format|Iza Michalewicz|Wyznania dwóch ofiar; potencjalne ujawnienie tajemnicy śledźtwa (informacji o której nie wiedział Sadowski)|[Link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
