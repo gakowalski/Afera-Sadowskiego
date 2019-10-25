@@ -252,7 +252,8 @@ Data | Źródło | Program | Cel | Kwota [zł] | link
 2014 | ZAiKS | Fundusz Popierania Twórczosci | | 12.000 | eKRS, sprawozdanie zarządu za rok 2018
 2015 | MKiDN | | | 90.000 | eKRS, sprawozdanie zarządu za rok 2018
 2016 | MKiDN | | | 50.000 | eKRS, sprawozdanie zarządu za rok 2018
-2017 | MKiDN | | | 108.000 | eKRS, sprawozdanie zarządu za rok 2018
+2017 | MKiDN | PO Promocja Czytelnictwa | | 100.000 | eKRS, sprawozdanie finansowe za rok 2017
+2017 | ZAiKS | "za bieżące funkcjonowanie" | | 8.000 | eKRS, sprawozdanie finansowe za rok 2017
 2017 | ZAiKS | Fundusz Popierania Twórczosci | | 10.000 | eKRS, sprawozdanie zarządu za rok 2018
 2018 | MKiDN | PO Promocja Czytelnictwa | | 84.500 | eKRS, sprawozdanie finansowe za rok 2018
 2018 | Instytut Adama Mickiewicza | Umowa nr. 263/2018 | Specjalna angielska edycja „Jazz Forum” na targi Jazzahead! 2018 | 40.000 | sprawozdanie zarządu za rok 2018
