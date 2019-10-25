@@ -237,3 +237,22 @@ Data | Źródło | Program | Cel | Kwota [zł] | link
 2008 | MKiDN | Edukacja kulturalna | 38. Warsztaty Jazzowe PUŁAWY 2008 | 25.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_edukacja_prior1.pdf)
 2008 | MKiDN | Edukacja kulturalna | Warsztaty Jazzowe ZŁOTA TARKA | 28.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_edukacja_prior1.pdf)
 2008 | MKiDN | Promocja twórczości | Jubileuszowy Międzynarodowy Festiwal Jazzowy Jazz Jamboree | 100.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_promocja.pdf)
+
+### Dotacje For Jazz Sp. z o.o.
+
+Do 26 września 2019 roku 49 z 99 udzialów spółki miała Fundacja Jazz Jamboree a prezes spółki zasiadał w radzie fundacji. For Jazz wydaje czasopismo "Jazz Forum" na podstawie umowy licencyjnej z 23 maja 2018 roku, licencjodawcą jest Fundacja Jazz Jamboree.
+
+Kapitał własny spółki na dzień 31.12.2018 wynosił  -17 120,59 zł.
+
+Data | Źródło | Program | Cel | Kwota [zł] | link
+---- | ------ | ------- | --- | ----- | ----
+2012 | MKiDN | | | 71.250 | eKRS, sprawozdanie zarządu za rok 2018
+2013 | MKiDN | | | 90.000 | eKRS, sprawozdanie zarządu za rok 2018
+2014 | MKiDN | | | 100.000 | eKRS, sprawozdanie zarządu za rok 2018
+2014 | ZAiKS | Fundusz Popierania Twórczosci | | 12.000 | eKRS, sprawozdanie zarządu za rok 2018
+2015 | MKiDN | | | 90.000 | eKRS, sprawozdanie zarządu za rok 2018
+2016 | MKiDN | | | 50.000 | eKRS, sprawozdanie zarządu za rok 2018
+2017 | MKiDN | | | 108.000 | eKRS, sprawozdanie zarządu za rok 2018
+2017 | ZAiKS | Fundusz Popierania Twórczosci | | 10.000 | eKRS, sprawozdanie zarządu za rok 2018
+2018 | MKiDN | PO Promocja Czytelnictwa | | 84.500 | eKRS, sprawozdanie finansowe za rok 2018
+2018 | Instytut Adama Mickiewicza | Umowa nr. 263/2018 | Specjalna angielska edycja „Jazz Forum” na targi Jazzahead! 2018 | 40.000 | sprawozdanie zarządu za rok 2018
