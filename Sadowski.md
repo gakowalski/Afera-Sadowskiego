@@ -200,3 +200,39 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 40 | ?? | 11 | A., uczestniczka warsztatów w Margoninie |
 
 <sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
+
+## Aspekty prawne i finansowe podmiotów z którymi związany był lub jest Krzysztof Sadowski
+
+### Dotacje i inne dochody Fundacji Jazz Jamboree
+
+ Data | Źródło | Program | Cel | Kwota [zł] | link
+---- | ------ | ------- | --- | ----- | ----
+2008 | MKiDN | Promocja twórczości | "Złote półwiecze jazzu" - benefis Marka Gaszyńskiego i Witolda Pogranicznego | 40.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_II_promocja.pdf)
+2008-05-14 | Urząd Miasta Warszawa | Biuro Kultury | Jubileuszowy Międzynarodowy Festiwal Jazzowy Jazz Jamboree 2008 | 200.000 | [link](http://ngo.um.warszawa.pl/sites/ngo2.um.warszawa.pl/files/zalaczniki/artykuly/internetowa_ksiega_dotacji_26.xlsx)
+2008-11-14 | Województwo Mazowieckie | Przetarg | Zakup koncertu jazzowego Michela Legranda organizowanego w ramach Festiwalu Jazz Jamboree w Warszawie | 86.885,24 (jedyna oferta)|[link](http://www.przetargi.egospodarka.pl/318331_Zakup-koncertu-jazzowego-Michela-Legranda-organizowanego-w-ramach-Festiwalu-Jazz-Jamboree-w-Warszawie_2008_2.html)
+2009 | Miasto Gdynia | ? | Występ Marii Sadowskiej w trakcie Festiwalu Polskich Filmów Fabularnych 2 | 500 | [link](http://fundacjarc.org.pl/pobierz/raport2009.pdf)
+2009 | Urząd Miasta Puławy | | XXXIX Międzynarodowe Warsztaty Jazzowe Puławy 2009 | 25.000 | [link](https://www.skyscrapercity.com/showthread.php?t=423575&page=19)
+2010 | MKiDN | Muzyka | Międzynarodowy Festiwal Jazz Jamboree 2010 | 300.000 | [link](http://www.mkidn.gov.pl/media/po2010/decyzje/Wydarzenia_artystyczne_1_1_pozytywne.pdf)
+2012 | MKiDN | Edukacja kulturalna | 42 Międzynarodowe Warsztaty Jazzowe Puławy 2012 | 26.000 | [link](http://www.mkidn.gov.pl/pages/strona-glowna/finansowanie-i-mecenat/programy-ministra/programy-z-lat-ubieglych/programy-mkidn-2012/edukacja-kulturalna-i-diagnoza-kultury/edukacja-kulturalna.php)
+2012 | MKiDN | Muzyka | 54 Międzynarodowy Festiwal Jazz Jamboree 2012 | 200.000 | [link](http://www.mkidn.gov.pl/pages/strona-glowna/finansowanie-i-mecenat/programy-ministra/programy-z-lat-ubieglych/programy-mkidn-2012/wydarzenia-artystyczne/muzyka.php)
+2012 | MKiDN | Zamówienia Kompozytorskie | Symphony of the Galaxies P.Tomaszewskiego | 36.000 | [link](http://www.mkidn.gov.pl/pages/strona-glowna/finansowanie-i-mecenat/programy-ministra/programy-z-lat-ubieglych/programy-mkidn-2012/kolekcje/zamowienia-kompozytorskie.php)
+2014 | MKiDN | Edukacja kulturalna | 44 Międzynarodowe Warsztaty Jazzowe Puławy 2014 | 30.000 | [link](http://www.mkidn.gov.pl/pages/strona-glowna/finansowanie-i-mecenat/programy-ministra/programy-z-lat-ubieglych/programy-mkidn-2014/edukacja/edukacja-kulturalna.php)
+2014 | MKiDN | Muzyka | 56 Międzynarodowy Festiwal Jazz Jamboree 2014 Edycja spec.z okazji 60 festiwali jazzowych z udz.Matthew Tyrmanda | 200.000 | [link](http://www.mkidn.gov.pl/pages/strona-glowna/finansowanie-i-mecenat/programy-ministra/programy-z-lat-ubieglych/programy-mkidn-2014/wydarzenia-artystyczne/muzyka.php)
+2015 | Narodowe Centrum Kultury | KULTURA - INTERWENCJE 2015 | 45 Międzynarodowe Warsztaty Jazzowe Puławy 2015 | 30.000 | [link](https://www.nck.pl/upload/lista-beneficjento-w.pdf)
+2016 | Miasto Puławy | | 46 Międzynarodowe Warsztaty Jazzowe Puławy 2016 | 20.000 | [link](https://www.pulawy.eu/pli/307_wyniki%20-%20kultura.pdf)
+2017 | Miasto Puławy | | 47 Międzynarodowe Warsztaty Jazzowe Puławy 2017 | 20.000 | [link](https://www.pulawy.eu/img/wysiwig/files/sprawozdanie%20z%20Programu%20wsp%C3%B3%C5%82pracy%20gminy%20Miasto%20Pu%C5%82awy%20z%20organizacjami%20pozarz%C4%85dowymi_000068.pdf)
+2017 | MKiDN | Fundusz Promocji Kultury | 47 Międzynarodowe Warsztaty Jazzowe Puławy 2017 | 55.000 | [link](http://bip.mkidn.gov.pl/media/download_gallery/20180115_Wykaz_zadan_dofinansowanych_ze_srodkow_FPK_w_2017_r.pdf)
+
+Dodatkowe informacje:
+* Fundacja w niektorych latach aplikowala o wiele dofinansowań z MKiDN i niektórych innych instytucji, ale ich nie otrzymała. Także w tych latach, w których otrzymała wiele dofinansowań, nie otrzymała ich na wszystkie swoje wnioski. Zapewne stąd różnorodność źródeł pozyskiwania finansów na stałe, coroczne wydarzenia - gdy jedna dotacja nie wypali, poszukiwane są inne.
+* Fundacja ostatnio wystąpila w 2018 roku do MKiDN o dotacje na rok 2019 na cel "49 Międzynarodowe Warsztaty Jazzowe Puławy 2019", ale [nie otrzymała takowej](http://www.mkidn.gov.pl/media/po2019/wyniki_/20190408_EK_2019_karta_publikacji_po_odwolaniach.pdf)
+* W 2008 roku dotację na Jazz Jamboree równolegle dostało też Polskie Stowarzyszenie Jazzowe w wysokości 100 tys. zł.
+* [Przykładowa oferta Fundacji z 2013 roku](http://ngo.um.warszawa.pl/sites/ngo2.um.warszawa.pl/files/zalaczniki/artykuly/201_fundacja_jazz_jamboree.pdf)
+
+### Dotacje Polskiego Stowarzyszenia Jazzowego
+
+Data | Źródło | Program | Cel | Kwota [zł] | link
+---- | ------ | ------- | --- | ----- | ----
+2008 | MKiDN | Edukacja kulturalna | 38. Warsztaty Jazzowe PUŁAWY 2008 | 25.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_edukacja_prior1.pdf)
+2008 | MKiDN | Edukacja kulturalna | Warsztaty Jazzowe ZŁOTA TARKA | 28.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_edukacja_prior1.pdf)
+2008 | MKiDN | Promocja twórczości | Jubileuszowy Międzynarodowy Festiwal Jazzowy Jazz Jamboree | 100.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_promocja.pdf)
