@@ -224,6 +224,7 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 2017 | MKiDN | Fundusz Promocji Kultury | 47 Międzynarodowe Warsztaty Jazzowe Puławy 2017 | 55.000 | [link](http://bip.mkidn.gov.pl/media/download_gallery/20180115_Wykaz_zadan_dofinansowanych_ze_srodkow_FPK_w_2017_r.pdf)
 
 Dodatkowe informacje:
+
 * Fundacja w niektorych latach aplikowala o wiele dofinansowań z MKiDN i niektórych innych instytucji, ale ich nie otrzymała. Także w tych latach, w których otrzymała wiele dofinansowań, nie otrzymała ich na wszystkie swoje wnioski. Zapewne stąd różnorodność źródeł pozyskiwania finansów na stałe, coroczne wydarzenia - gdy jedna dotacja nie wypali, poszukiwane są inne.
 * Fundacja ostatnio wystąpila w 2018 roku do MKiDN o dotacje na rok 2019 na cel "49 Międzynarodowe Warsztaty Jazzowe Puławy 2019", ale [nie otrzymała takowej](http://www.mkidn.gov.pl/media/po2019/wyniki_/20190408_EK_2019_karta_publikacji_po_odwolaniach.pdf)
 * W 2008 roku dotację na Jazz Jamboree równolegle dostało też Polskie Stowarzyszenie Jazzowe w wysokości 100 tys. zł.
