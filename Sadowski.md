@@ -25,6 +25,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-08 11:55|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Liliana Urbańska kłamie w sprawie Krzysztofa Sadowskiego* |[Link](https://www.salon24.pl/u/zielke/975831,liliana-urbanska-klamie-w-sprawie-krzysztofa-sadowskiego)
 2019-08-08 12:38|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Krzysztof Sadowski wydał oświadczenie|[Link](https://wiadomosci.wp.pl/krzysztof-sadowski-wydal-oswiadczenie-ws-oskarzen-kobiet-pomowienia-jednej-osoby-6411658790090369a)
 2019-08-08 20:17|Artykuł|Do Rzeczy|Kraj|"zdą"|Komentarz Dawida Wildsteina, zastępcy dyretkora TVP1 ds. publicystyki|[link](https://dorzeczy.pl/kraj/110494/Mocny-wpis-Wildsteina-o-Sadowskim-A-gdyby-to-byl-ksiadz-Glupie-pytanie.html)
+2019-08-08 20:37|Artykuł|Wirtualna Polska|WP Kobieta|Dominika Czerniszewska|Zestawienie wypowiedzi Lili Urbańskiej i komentarza Mariusza Zielke|[link](https://kobieta.wp.pl/byla-zona-krzysztofa-sadowskiego-zaprzecza-doniesieniom-mariusz-zielke-odpowiada-6411416450410625a)
 2019-08-09 12:55|Artykuł|TVP Info||FA, MNIE|Krzysztof Sadowski wydał oświadczenie odrzucające oskarżenia|[Link](https://www.tvp.info/43870670/sadowski-wydal-oswiadczenie-po-zarzutach-o-pedofilie)
 2019-08-09 20:39|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Krzysztof Sadowski - oświadczenie z komentarzem* |[Link](https://www.salon24.pl/u/zielke/976200,krzysztof-sadowski-oswiadczenie-z-komentarzem)
 2019-08-11|Zbiórka|Zrzutka.pl||Mariusz Zielke|Zbiórka na film dokumentalny o kryciu pedofilii w show-biznesie i innych środowiskach - cel: 100 tys. zł|
@@ -229,6 +230,7 @@ Dodatkowe informacje:
 * Fundacja ostatnio wystąpila w 2018 roku do MKiDN o dotacje na rok 2019 na cel "49 Międzynarodowe Warsztaty Jazzowe Puławy 2019", ale [nie otrzymała takowej](http://www.mkidn.gov.pl/media/po2019/wyniki_/20190408_EK_2019_karta_publikacji_po_odwolaniach.pdf)
 * W 2008 roku dotację na Jazz Jamboree równolegle dostało też Polskie Stowarzyszenie Jazzowe w wysokości 100 tys. zł.
 * [Przykładowa oferta Fundacji z 2013 roku](http://ngo.um.warszawa.pl/sites/ngo2.um.warszawa.pl/files/zalaczniki/artykuly/201_fundacja_jazz_jamboree.pdf)
+* Fundacja jest licencjodawcą znaku towarowego słownego "Jazz Forum" oraz słowno-graficznego "jazz forum The European Jazz Magazine", licencjobiorcą jest For Jazz Sp. z o.o., której to spółki do 26 września 2019 była wspólnikiem
 
 ### Dotacje Polskiego Stowarzyszenia Jazzowego
 
@@ -238,7 +240,7 @@ Data | Źródło | Program | Cel | Kwota [zł] | link
 2008 | MKiDN | Edukacja kulturalna | Warsztaty Jazzowe ZŁOTA TARKA | 28.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_edukacja_prior1.pdf)
 2008 | MKiDN | Promocja twórczości | Jubileuszowy Międzynarodowy Festiwal Jazzowy Jazz Jamboree | 100.000 | [link](http://www.mkidn.gov.pl/media/po2008/decyzje/decyzje_2008_nabor_I_promocja.pdf)
 
-### Dotacje For Jazz Sp. z o.o.
+### Dotacje For Jazz Sp. z o.o. (KRS 0000340826)
 
 Do 26 września 2019 roku 49 z 99 udzialów spółki miała Fundacja Jazz Jamboree a prezes spółki zasiadał w radzie fundacji. For Jazz wydaje czasopismo "Jazz Forum" na podstawie umowy licencyjnej z 23 maja 2018 roku, licencjodawcą jest Fundacja Jazz Jamboree.
 
