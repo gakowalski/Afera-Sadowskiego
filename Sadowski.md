@@ -58,6 +58,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-28 11:26|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Trzecia kobieta zgłosiła się do prokuratury|[Link](https://wiadomosci.wp.pl/kolejna-kobieta-zglosila-sie-do-prokuratury-twierdzi-ze-zgwalcil-ja-krzysztof-sadowski-6418365615515777a)
 2019-08-29|Materiał wideo|TVP|Alarm!||Dotychczasowe ustalenia Mariusza Zielke, rola Liliany Urbańskiej|[Link](https://vod.tvp.pl/video/alarm,29082019,43864785)
 2019-09-01 19:56|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Afera Sadowskiego: „Molestował mnie ojciec chrzestny!”* |[Link](https://www.salon24.pl/u/zielke/981896,afera-sadowskiego-molestowal-mnie-ojciec-chrzestny)
+2019-09-05|Artykuł|Krytyka Polityczna|Kraj|Agata Diduszko-Zyglewska||[link](https://krytykapolityczna.pl/kraj/sadowski-pedofilia-kosciol-ksieza/)
 2019-09-06|Rozmowa / Materiał wideo|TVP Info|O co chodzi|Bronisław Wildstein|Mariusz Zielke, Radosław Gruca - o 4 rano!|[Link](https://www.tvp.info/43958402/06092019-0401/program-o-co-chodzi)
 2019-09-07|Materiał wideo|Polsat|Skandaliści|Agnieszka Gozdyra|Ewa Gajda, Mariusz Zielke|[Link](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)
 2019-09-09|Zdarzenie||||Mariusz Zielke przekazuje Prokuraturze część ustaleń (wiadomo z artykulu 2019-09-11)|
@@ -111,6 +112,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 
 Data | Autor | Uwagi | Link
 ---- | ----- | ----- | ----
+2003 | | Sąd Rejonowy m.st. Warszawy nakazuje PSJ sprzedanie znaku towarowego "Jazz Jamboree" spółce Ars Polona S.A. (a tymczasem Fundacja Jazz Jamboree twierdzi, że PSJ przeniosło na nią prawa do znaku) | [link](https://www.pb.pl/sadowy-spor-o-prawo-do-nazwy-festiwalu-jazz-jamboree-417749)
 2015-12-14 | | Powołanie Komisji Zjazdowej do przeprowadzenia audytu |
 2016-04-12 | Marcin Jacobson<br>Zbigniew Namysłowski<br>Piotr Rodowicz<br>Tomasz Tłuczkiewicz | Sprawozdanie z audytu |
 2016-04-14 22:31| Marcin Jacobson | Publikacja sprawozdania z audytu na Facebooku | [Link](https://www.facebook.com/groups/165135820189250/permalink/1012099432159547/), [Inny link](https://www.facebook.com/groups/1649003408703750/permalink/1698516347085789/)
@@ -231,6 +233,7 @@ Dodatkowe informacje:
 * W 2008 roku dotację na Jazz Jamboree równolegle dostało też Polskie Stowarzyszenie Jazzowe w wysokości 100 tys. zł.
 * [Przykładowa oferta Fundacji z 2013 roku](http://ngo.um.warszawa.pl/sites/ngo2.um.warszawa.pl/files/zalaczniki/artykuly/201_fundacja_jazz_jamboree.pdf)
 * Fundacja jest licencjodawcą znaku towarowego słownego "Jazz Forum" oraz słowno-graficznego "jazz forum The European Jazz Magazine", licencjobiorcą jest For Jazz Sp. z o.o., której to spółki do 26 września 2019 była wspólnikiem
+* Fundacja podlegała kontrolom ministerialnym w latach: [2005](http://bip.mkidn.gov.pl/media/docs/kontrole/05-1kontrola-fjj_wwa.pdf) (kontrola nakazała zwrot dotacji z odsetkami), [2009](http://bip.mkidn.gov.pl/media/docs/kontrole/20100305_Wykaz_kontroli_przeprowadzonych_przez_BAK_w_2009r_4.pdf)
 
 ### Dotacje Polskiego Stowarzyszenia Jazzowego
 
