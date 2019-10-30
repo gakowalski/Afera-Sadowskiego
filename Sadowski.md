@@ -272,6 +272,22 @@ Data | Źródło | Program | Cel | Kwota [zł] | link
 
 ### Dochody Fundacji Wspierającej Dzieci Uzdolnione "Tęcza"
 
+Informacje o fundacji:
+
+Typ informacji | Treść
+--- | ---
+KRS | 0000123948
+REGON | 010081960
+NIP | 951-16-44-134
+Telefon | 22 644 74 87
+Informacja o sporządzeniu lub zmianie statutu | 07.12.1992
+data wpisu do rejestru lub ewidencji | 1993-01-28
+data powstania | 1993-01-28
+data rozpoczęcia działalności | 1993-01-28
+Data wpisu do Rejestru Stowarzyszeń | 2002-07-23
+
+Odnalezione dochody:
+
 Data | Źródło | Program | Cel | Kwota [zł] | link
 ---- | ------ | ------- | --- | ----- | ----
 2001-08-21 | Agora | | Odpłatne przeniesienie prawa z rejestracji znaku towarowego "Co jest grane" na spółkę Agora | ?? | [link](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/orzeczenia-sadow/ii-gsk-209-06-wyrok-naczelnego-sadu-administracyjnego-520415015), [link](http://docplayer.pl/18203382-Qubu-hotel-w-maju-_-iduw-i-na-piet-po-o-oltl-czy-goliat-moze-pokonac-dawida-egzemplarz-reglonal-q4-rok-wydania-x-www-cjg.html), [link](http://doczz.net/doc/19934/wup09_2002---wyszukiwarka-urz%C4%99du-patentowego)
