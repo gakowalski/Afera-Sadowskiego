@@ -269,3 +269,9 @@ Data | Źródło | Program | Cel | Kwota [zł] | link
 2017 | ZAiKS | Fundusz Popierania Twórczosci | | 10.000 | eKRS, sprawozdanie zarządu za rok 2018
 2018 | MKiDN | PO Promocja Czytelnictwa | | 84.500 | eKRS, sprawozdanie finansowe za rok 2018
 2018 | Instytut Adama Mickiewicza | Umowa nr. 263/2018 | Specjalna angielska edycja „Jazz Forum” na targi Jazzahead! 2018 | 40.000 | sprawozdanie zarządu za rok 2018
+
+### Dochody Fundacji Wspierającej Dzieci Uzdolnione "Tęcza"
+
+Data | Źródło | Program | Cel | Kwota [zł] | link
+---- | ------ | ------- | --- | ----- | ----
+2001-08-21 | Agora | | Odpłatne przeniesienie prawa z rejestracji znaku towarowego "Co jest grane" na spółkę Agora | ?? | [link](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/orzeczenia-sadow/ii-gsk-209-06-wyrok-naczelnego-sadu-administracyjnego-520415015), [link](http://docplayer.pl/18203382-Qubu-hotel-w-maju-_-iduw-i-na-piet-po-o-oltl-czy-goliat-moze-pokonac-dawida-egzemplarz-reglonal-q4-rok-wydania-x-www-cjg.html), [link](http://doczz.net/doc/19934/wup09_2002---wyszukiwarka-urz%C4%99du-patentowego)
