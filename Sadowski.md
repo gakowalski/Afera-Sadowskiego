@@ -107,7 +107,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-04-19|Zdarzenie||||Zjazd walny PSJ|
 2016-04-20|Material wideo||Jazz Of Freedom|Piotr Matla|Zjazd walny PSJ, wypowiedź Sadowskiego, Stępień liczy głosy nie tak jak trzeba|[Link](https://www.youtube.com/watch?v=iXCBbXvJ7BE)
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
-2018|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
+2018-10|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|[link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
 2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
 2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
