@@ -6,7 +6,7 @@ Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.c
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
-2019-07-17|Książka|Wydawnictwo P&K|"Bejbi", Monika M.|Mariusz Zielke - ghostwriter|wyznania kobiety molestowanej w dzieciństwie przez znanego muzyka|[Link](https://www.pudelek.pl/artykul/149775/dobral_sie_do_mnie_gdy_mialam_10_lat_gwalcil_mnie_czuje_sie_jak_smiec_kobieta_oskarza_w_ksiazce_znanego_polskiego_muzyka_mocne_cytaty/)
+2019-07-17|Książka|Wydawnictwo P&K|"Bejbi", Monika M.|Mariusz Zielke - ghostwriter|wyznania kobiety molestowanej w dzieciństwie przez znanego muzyka|[Link #1](https://www.pudelek.pl/artykul/149775/dobral_sie_do_mnie_gdy_mialam_10_lat_gwalcil_mnie_czuje_sie_jak_smiec_kobieta_oskarza_w_ksiazce_znanego_polskiego_muzyka_mocne_cytaty/), [Link #2 fragmenty książki](http://www.plotek.pl/plotek/7,154063,25069699,znany-muzyk-oskarzony-o-pedofilie-domniemana-ofiara-opisala.html)
 2019-08-04 20:07|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Afera pedofilska przy produkcjach dla TVP i Polsatu. Oskarżany znany artysta.*,  pierwszy wpis o muzyku-pedofilu związanym z programami Tęczowy Music Box i Co jest grane?, informacja o 3 ofiarach|[Link](https://www.salon24.pl/u/zielke/974889,afera-pedofilska-przy-produkcjach-dla-tvp-i-polsatu-oskarzany-znany-artysta)
 2019-08-04|Materiał wideo|YouTube|Videoblog|Mariusz Zielke|Filmowa wersja tekstu *Afera pedofilska przy produkcjach TVP i Polsatu* | [Film #1](https://www.youtube.com/watch?v=veU-bRi4NI0), [Film #2](https://www.youtube.com/watch?v=S5nLG6MSTGw)
 2019-08-05 14:35|Wywiad|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Wywiad z Mariusz Zielke; pierwsza publikacja w mediach, M. Zielke potwierdza, że zna 3 ofiary|[Link](https://wiadomosci.wp.pl/znany-polski-muzyk-mial-gwalcic-dziewczynki-dziennikarz-wiem-o-jego-trzech-ofiarach-6410272573245569a)
@@ -86,6 +86,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-10-12|Artykuł|Salon24|(Prywatny blog)|Bogna Janke|Opinia o zakazie publikacji|[Link](https://www.salon24.pl/u/bognajanke/992699,sprawa-zielke-sadowski-czy-sad-slusznie-uciszyl-dziennikarza)
 2019-10-12|Materiał wideo|TVP|Alarm!|Marta Matuszak|Świadek opowiada o zgwałceniu 11-latki|[Link](https://vod.tvp.pl/video/alarm,12102019-2010,44512539)
 2019-10-14 14:00|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Sąd zakazuje Mariuszowi Zielke publikacji na temat Krzysztofa Sadowskiego|[Link](https://wiadomosci.wp.pl/sad-zakazal-dziennikarzowi-pisac-o-aferze-pedofilskiej-mariusz-zielke-krzysztofa-sadowskiego-nikt-nie-broni-6433620490754177a)
+2019-10-31|Artykul|Magazyn Press||Mariusz Kowalczyk|Wywiad z Mariuszem Zielke|[link](https://www.press.pl/magazyn-press/artykul/59126,co-ja-zlego-zrobilem_)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
@@ -109,7 +110,6 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
 2018-10|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|[link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
 2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
-2019-07-17|Książka|Wydawnictwo P&K|"Bejbi", Monika M.|Mariusz Zielke - ghostwriter|wyznania kobiety molestowanej w dzieciństwie przez znanego muzyka|[Link](https://www.pudelek.pl/artykul/149775/dobral_sie_do_mnie_gdy_mialam_10_lat_gwalcil_mnie_czuje_sie_jak_smiec_kobieta_oskarza_w_ksiazce_znanego_polskiego_muzyka_mocne_cytaty/)
 2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
 2019-09-14|Wpis|Facebook|Profil Marii Sadowskiej|Maria Sadowska|Pierwsza wypowiedź Marii Sadowskiej po ujawnieniu afery potencjalnie do niej nawiązująca|[Link](https://www.facebook.com/sadowskamaria/posts/10156320425511669)
