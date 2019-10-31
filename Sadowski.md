@@ -44,7 +44,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-13 19:05|Oświadczenie|Facebook|Profil Polskiego Stowarzyszenia Jazzowego|Osoby z zarządu PSJ|Członkowstwo Sadowskiego zawieszone (chociaż statut PSJ nie przewiduje takiej możliwości)|[Link](https://www.facebook.com/PolskieStowarzyszenieJazzowe/posts/2651776798174833)
 2019-08-14|Wywiad / Materiał wideo|wPolsce|Gorące pytania|Marek Pyza|Wywiad z Mariuszem Zielke|[Link](https://youtu.be/cixOVA0kRQU)
 2019-08-17|Artykuł|Gazeta Wyborcza|Duży Format (abonament cyfrowy)|Iza Michalewicz|Wyznania dwóch ofiar; potencjalne ujawnienie tajemnicy śledźtwa (informacji o której nie wiedział Sadowski)|[Link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
-2019-08-17 17:54|Artykuł|Onet|Wiadomości|Mikołaj Podolski||[link](https://wiadomosci.onet.pl/tylko-w-onecie/mariusz-zielke-krzysztof-sadowski-wyszukiwal-sobie-dzieci-podatne-na-wplywy/ddybwzr)
+2019-08-17 17:54|Artykuł|Onet|Wiadomości|Mikołaj Podolski|Wwyiad z Mariuszem Zielke|[link](https://wiadomosci.onet.pl/tylko-w-onecie/mariusz-zielke-krzysztof-sadowski-wyszukiwal-sobie-dzieci-podatne-na-wplywy/ddybwzr)
 2019-08-18 13:06|Artykuł|TVP Info||FA, TO|Krótkie streszczenie reportażu z Wyborczej|[Link](https://www.tvp.info/43987731/zabieral-mnie-do-kina-tam-przykrywal-kurtka-dziewczyny-z-zespolu-tecza-przerywaja-milczenie)
 2019-08-18 21:17|Artykuł|Salon24|(Prywatny blog)|Mariusz Zielke|*Media próbowały kryć pedofilię w show-biznesie!* |[Link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
 2019-08-19 06:00|Artykuł|Gazeta Wyborcza|Duży Format|Iza Michalewicz|Wydanie papierowe artykułu z 2019-08-17: Wyznania dwóch ofiar; potencjalne ujawnienie tajemnicy śledźtwa (informacji o której nie wiedział Sadowski)|[Link](http://wyborcza.pl/duzyformat/7,127290,25092943,on-mial-61-lat-a-my-12-dziewczyny-z-zespolu-tecza-po-latach.html)
@@ -109,6 +109,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
 2018-10|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|[link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
 2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
+2019-07-17|Książka|Wydawnictwo P&K|"Bejbi", Monika M.|Mariusz Zielke - ghostwriter|wyznania kobiety molestowanej w dzieciństwie przez znanego muzyka|[Link](https://www.pudelek.pl/artykul/149775/dobral_sie_do_mnie_gdy_mialam_10_lat_gwalcil_mnie_czuje_sie_jak_smiec_kobieta_oskarza_w_ksiazce_znanego_polskiego_muzyka_mocne_cytaty/)
 2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
 2019-09-14|Wpis|Facebook|Profil Marii Sadowskiej|Maria Sadowska|Pierwsza wypowiedź Marii Sadowskiej po ujawnieniu afery potencjalnie do niej nawiązująca|[Link](https://www.facebook.com/sadowskamaria/posts/10156320425511669)
