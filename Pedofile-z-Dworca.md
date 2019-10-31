@@ -4,15 +4,13 @@
 
 "Dziennikarze Wprost i Polsatu dostarczyli polskim organom ścigania dowody pozwalające aresztować co najmniej pięćdziesiąt osób, które wykorzystują seksualnie dzieci, zajmują się stręczycielstwem oraz produkują pedofilskie materiały." [źródło](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
 
-Aresztowano łącznie 10 osób. [źródło](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001).
-
 "Okazało się, że wszyscy ujęci przez funkcjonariuszy pedofile to ludzie należący do warszawskiej elity: biznesmeni, pracownicy naukowi, ludzie związani z kulturą. W ciągu kilku tygodni policjanci zebrali przeciwko nim niezbite dowody." [źródło](http://zw.com.pl/artykul/152872.html)
 
 ## Osoby
 
-### Osoby aresztowane
+### Osoby oskarżone, aresztowane, skazane
 
-Aresztowano łącznie [10 osób](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), aczkolwiek bazując na doniesieniach medialnych można naliczyć ich 11 (być może któraś z gazet pomyliła imiona albo stosowała pseudonim wobec jednego z oskarżonych).
+Na początku informowano, że aresztowano łącznie [10 osób](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), aczkolwiek bazując na doniesieniach medialnych można było ich naliczyć więcej. Być może któraś z gazet pomyliła imiona albo stosowała pseudonim wobec jednego z oskarżonych, aczkolwiek w 2005 roku, gdy tworzony był film Sylwestra Latkowskiego, pisano o [21 oskarżonych osobach](http://latkowski.com/filmy/pedofile).
 
 Kto | Komentarz | Aresztowany | Skazany |  Link
 --- | --- | --- | --- | ---
@@ -20,18 +18,22 @@ Andrzej P. | psycholog z ośrodka szkolno-wychowawczego przy ul. Reymonta na war
 Bogusław G. | ksiądz polskokatolicki |?| 2 lata i 10 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Dariusz B. | ? | ? | 3 lata, podobno wyszedł na wolność przed tym czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Dariusz T. | ? | ? | 1 roku i 8 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
+Janusz Ch. | ? | ? | ? | [link](http://www.zw.com.pl/artykul/176081.html)
+Jerzy M. | ? | ? | ? | [link](http://www.zw.com.pl/artykul/176081.html)
+Julian K. | ? | ? | ? | [link](http://www.zw.com.pl/artykul/176081.html)
+Marcin D. | ? | ? | ? | [link](http://latkowski.com/filmy/pedofile)
 Mikołaj Skłodowski | ksiądz administrator parafii polskokatolickiej w Kotłowie <sup>2</sup>, podobno miał potajemnie prowadzić salony gier w Warszawie |?| 1 rok więzienia, podobno wyszedł przed czasem | [link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html), [link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
-Paweł C. | nauczyciel akademicki na Uniwersytecie Warszawskim | 2002-08 || [link](http://zw.com.pl/artykul/152872.html)
+[Paweł C.](#zakodowane-nazwisko-Cvpunja) | nauczyciel akademicki na Uniwersytecie Warszawskim | 2002-08 || [link](http://zw.com.pl/artykul/152872.html)
 Tomasz D. | jeden z szefów znanego koncernu spożywczego produkującego mrożonki | 2002-08 |2 lata więzienia, podobno wyszedł przed czasem| [link](http://zw.com.pl/artykul/152872.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Waldemar T. | 30 lat mieszkał w Stanach Zjednoczonych, gdzie prowadził przedsiębiorstwo; miał przewodzić gangowi pedofilów | 2002-08-05 |1,5 roku więzienia, podobno wyszedł przed czasem| [link](http://zw.com.pl/artykul/152872.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Włodzimierz P. | znana postać w branży muzycznej, od lat organizator jednego z festiwali oraz prowadzący zajęcia z młodzieżą w jednym z warszawskich gimnazjów (prowadził też radiowęzeł i organizował dyskoteki) | 2002-08 | 5 lat wiezięnia, ale wyszedł na wolność po 9 miesiącach <sup>3</sup> | [link](http://zw.com.pl/artykul/152872.html), [link](http://www.zw.com.pl/artykul/164955.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Wolfgang D. | 56-letni prezes zarządu wielkiego niemieckiego koncernu, spółki F., miał 10-letni zakaz wjazdu do Szwajcarii za czyny pedofilskie; w trakcie afery zamieszkiwał w służbowym mieszkaniu przy ulicy Bruna na warszawskim Mokotowie | 2002-08 | zwolniony z aresztu ze względu na kłopoty zdrowotne; wydano mu paszport i w kwietniu 2003 uciekł do Niemiec | [link](http://zw.com.pl/artykul/152872.html), [link](http://www.zw.com.pl/artykul/164955.html), [link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), [link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Wojciech M. | ? | ? | 1,5 roku więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
-
+Zbigniew S. | 28-letni były doradca posłów Samoobrony, przy której działa od 2001 roku, podobno nieformalny doradca Leppera oraz Łyżwińskiej | nie, jedynie dozór policyjny | ? | [link](http://www.zw.com.pl/artykul/176081.html)
 
 <sup>1</sup> co najmniej jedna z ofiar, Tomek, pochodziła z tego ośrodka; [link](http://www.zw.com.pl/artykul/159896.html)<br>
 <sup>2</sup> jedna z ofiar spotkała go, ale na imprezie pedofilskiej w Ostrowie Wielkopolskim; [link](http://www.zw.com.pl/artykul/159896.html)<br>
-<sup>3</sup> kilka lat po wyjściu Włodzimierz P. w 2007 roku zgwałcił w Szczecinie nastolatka. [link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie)
+<sup>3</sup> kilka lat po wyjściu Włodzimierz P. w 2007 roku zgwałcił w Szczecinie nastolatka. [link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie), [link](https://www.se.pl/wiadomosci/polska/pedofil-z-centralnego-znow-poluje-aa-1qGw-h9Ne-fmvq.html)
 
 ### Tzw. "łódzka odnoga ośmiornicy"
 
@@ -92,9 +94,13 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2003-03-13|Artykuł|Życie Warszawy|||Wolfgang D. od kilku tygodni jest na wolności. Śródmiejska prokuratura wypuściła go z aresztu, bo wykryto u niego raka.|[link](http://www.zw.com.pl/artykul/164955.html)
 2003-06-18 13:40|Artykuł|RMF24|Fakty||Ruszył proces gangu pedofilów|[link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001)
 2003-06-24 17:40|Artykuł|RMF24|Fakty||Wszyscy, poza jednym, oskarżeni o pedofilię członkowie gangu z Dworca Centralnego mogą wyjść z aresztu za kaucją|[link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744)
-2005|Film dokumentalny|TVP|"Pedofile"|Sylwester Latkowski|TVP zleca nakręcenie filmu|
+2003-08-20|Artykuł|Życie Warszawy|||Warszawska prokuratura postawiła zarzut pedofilii byłemu doradcy posłów Samoobrony - Zbigniewowi S.|[link](http://www.zw.com.pl/artykul/176081.html)
+2004-07-25|Artykuł|Życie Warszawy|||Dzięki pierwotnym zeznaniom trójki chłopców "udało się namierzyć blisko 30 pedofilów, jednak tylko 20 postawiono zarzuty"|[link](http://www.zw.com.pl/artykul/153661.html)
 2005|Artykuł|Czas Ostrzeszowski|Numer 22|Krzysztof Juszczak|O Mikołaju S.|[link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
 2005-04-24|Artykuł|Wprost||Tomasz Krzyżak, Pawel Rusak|Wprost i Polsat szukają pedofilów w Internecie w ramach akcji "O jednego mniej"|[link](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html)
+2005-05-06|Artykuł|Gazeta Wyborcza|Gazeta Telewizyjna|Alex Kłoś|Wywiad z Sylwestrem Latkowskim|[link](http://latkowski.com/filmy/pedofile)
+2005-05-11|Artykuł|Dziennik Polski||Rafał Stanowski|Wywiad z Sylwestrem Latkowskim|[link](http://latkowski.com/filmy/pedofile)
+2005-05-11 22:45|Film dokumentalny|TVP|Program 2|Sylwester Latkowski|"Pedofile"|[link](http://latkowski.com/filmy/pedofile)
 2005-05-17 11:39|Artykuł|Wprost||ss, ks, pap|Klub pedofilów skazany|[link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 2011-02-11|Artykuł|Polsat News|Interwencja|Adam Bogoryja-Zakrzewski|Waldemar T. - jeden z dziewięciu mężczyzn skazanych w tak zwanej aferze pedofilów z Dworca Centralnego nadal przebywa na wolności|[link](https://interwencja.polsatnews.pl/reportaz/2011-02-11/bezkarny-pedofil_865533/)
 2019-05-28 16:40|Artykuł|Gazeta Polska||Grzegorz Wierzchołowski|"Pedocelebryci"|[link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie)
