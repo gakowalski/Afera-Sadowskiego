@@ -12,7 +12,7 @@ Aresztowano łącznie 10 osób. [źródło](https://www.rmf24.pl/fakty/news-wars
 
 ### Osoby aresztowane
 
-Aresztowano łącznie [10 osób](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), aczkolwiek bazując na doniesieniach medialnych można naliczyć ich 11 (być może któraś z gazet pomyliła imiona).
+Aresztowano łącznie [10 osób](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), aczkolwiek bazując na doniesieniach medialnych można naliczyć ich 11 (być może któraś z gazet pomyliła imiona albo stosowała pseudonim wobec jednego z oskarżonych).
 
 Kto | Komentarz | Aresztowany | Skazany |  Link
 --- | --- | --- | --- | ---
@@ -20,7 +20,7 @@ Andrzej P. | psycholog z ośrodka szkolno-wychowawczego przy ul. Reymonta na war
 Bogusław G. | ksiądz polskokatolicki |?| 2 lata i 10 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Dariusz B. | ? | ? | 3 lata, podobno wyszedł na wolność przed tym czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Dariusz T. | ? | ? | 1 roku i 8 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
-Mikołaj S | ksiądz z parafii rzymskokatolickiej w Kotłowie <sup>2</sup> |?| 1 rok więzienia, podobno wyszedł przed czasem | [link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
+Mikołaj Skłodowski | ksiądz administrator parafii polskokatolickiej w Kotłowie <sup>2</sup>, podobno miał potajemnie prowadzić salony gier w Warszawie |?| 1 rok więzienia, podobno wyszedł przed czasem | [link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html), [link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
 Paweł C. | nauczyciel akademicki na Uniwersytecie Warszawskim | 2002-08 || [link](http://zw.com.pl/artykul/152872.html)
 Tomasz D. | jeden z szefów znanego koncernu spożywczego produkującego mrożonki | 2002-08 |2 lata więzienia, podobno wyszedł przed czasem| [link](http://zw.com.pl/artykul/152872.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Waldemar T. | 30 lat mieszkał w Stanach Zjednoczonych, gdzie prowadził przedsiębiorstwo; miał przewodzić gangowi pedofilów | 2002-08-05 |1,5 roku więzienia, podobno wyszedł przed czasem| [link](http://zw.com.pl/artykul/152872.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
@@ -93,6 +93,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2003-06-18 13:40|Artykuł|RMF24|Fakty||Ruszył proces gangu pedofilów|[link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001)
 2003-06-24 17:40|Artykuł|RMF24|Fakty||Wszyscy, poza jednym, oskarżeni o pedofilię członkowie gangu z Dworca Centralnego mogą wyjść z aresztu za kaucją|[link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744)
 2005|Film dokumentalny|TVP|"Pedofile"|Sylwester Latkowski|TVP zleca nakręcenie filmu|
+2005|Artykuł|Czas Ostrzeszowski|Numer 22|Krzysztof Juszczak|O Mikołaju S.|[link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
 2005-04-24|Artykuł|Wprost||Tomasz Krzyżak, Pawel Rusak|Wprost i Polsat szukają pedofilów w Internecie w ramach akcji "O jednego mniej"|[link](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html)
 2005-05-17 11:39|Artykuł|Wprost||ss, ks, pap|Klub pedofilów skazany|[link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 2011-02-11|Artykuł|Polsat News|Interwencja|Adam Bogoryja-Zakrzewski|Waldemar T. - jeden z dziewięciu mężczyzn skazanych w tak zwanej aferze pedofilów z Dworca Centralnego nadal przebywa na wolności|[link](https://interwencja.polsatnews.pl/reportaz/2011-02-11/bezkarny-pedofil_865533/)
