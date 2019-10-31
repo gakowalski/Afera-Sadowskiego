@@ -8,3 +8,4 @@ Uporządkowane bazy informacji dla osób chcących analizować doniesienia media
 Stare sprawy:
 
 * [Roman Polański](Polanski.md) (1977 rok)
+* [Pedofile z Dworca Centralnego](Pedofile-z-Dworca.md) (2002-2005)
