@@ -18,6 +18,7 @@ Data | Zdarzenie
 1977-09 | Sędzia nakazuje Polańskiemu poddanie się 90-dniowemu badaniu diagnostycznemu w kalifornijskim więzieniu stanowym w celu ustalenia wyroku.
 1978-01 | Badanie diagnostyczne - zakończone po 42 dniach - zaleca wyrok w zawieszeniu.
 1978-02 | Polański ucieka ze Stanów Zjednoczonych w przeddzień skazania po tym, jak dowiedział się, że sędzia zamierza odesłać go z powrotem do więzienia. Wydano nakaz aresztowania, ograniczający możliwość jego poruszania się do terytorium Francji, Polski i Szwajcarii. Polański twierdzi, że sędzia bez obecności prawnika Polańskiego spotkał się z prokuratorem, który nie został przydzielony do sprawy w celu omówienia wyroku.
+1988 | Samantha Geimer pozywa Polańskiego w procesie cywilnym i otrzymuje pół miliona dolarów odszkodowania ([źródło](http://wyborcza.pl/7,75410,22777915,roman-polanski-zaprzecza-by-molestowal-10-latke-a-policja.html))
 2015-02 | Polański pojawia się w polskim sądzie na wielogodzinne przesłuchanie w celu ustalenia czy wniosek USA o jego ekstradycję jest ważny.
 2015-10 | Polski sąd odrzuca próbę ekstradycji Polańskiego.
 2016-05 | Nowy polski minister sprawiedliwości wznawia postępowanie ekstradycyjne przeciwko Polańskiemu.
@@ -48,3 +49,26 @@ Data | Kto | Wypowiedź | Uwagi | Link
 Data | Kto | Uwagi | Link
 --- | --- | --- | ---
 2003 | Quentin Tarantino | "ona tego chciała", "imprezowiczka" | [Nagranie głosowe](https://www.youtube.com/watch?v=lWatqfgA2X8), [Artykuł](https://www.hollywoodreporter.com/news/quentin-tarantino-defends-roman-polanski-resurfaced-audio-13-year-old-wanted-have-it-1082174)
+
+## Śledźtwo dziennikarskie Matana Uziela
+
+### Ofiary
+
+Numer | Okres czasu | Wiek | Uwagi | Link
+--- | --- | --- | --- | ---
+1 | 1976 | 15 | "Jane Doe #1", Polański miał molestować ją pod stołem w trakcie kolacji w Gstaad w Szwajcarii | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), [link](https://www.thesun.co.uk/wp-content/uploads/2017/11/screen-shot-2017-11-03-at-9-08-14-am.png?w=620)
+2 | 1972-1973 | 9 | "Jane Doe #2" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
+3 | 1969 | 16 | "Jane Doe #3" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
+4 | 1969 | 10 | "Jane Doe #4" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
+5 | 1976 | 12 | "Jane Doe #5" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
+6
+7
+8
+9
+10 | 1984 | 16 | Charlotte Lewis, ujawniła się w 2010 roku | [link](https://www.youtube.com/watch?v=QmcQVh-UMDo), [link](https://www.youtube.com/watch?v=QmcQVh-UMDo)
+
+## Inne rzekome ofiary
+
+* [Marianne Barnard](https://www.thesun.co.uk/news/4724974/artist-roman-polanski-naked-photos-sexually-abusing-deserted-beach-10-years-old/), molestowana na plaży w Malibu gdy miała 10 lat
+* [Renate Langer](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), molestowana w wieku lat 15
+* [Robin M.](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), molestowana w wieku lat 16
