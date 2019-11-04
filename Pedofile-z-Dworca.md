@@ -15,9 +15,10 @@ Na początku informowano, że aresztowano łącznie [10 osób](https://www.rmf24
 Kto | Komentarz | Aresztowany | Skazany |  Link
 --- | --- | --- | --- | ---
 Andrzej P. | psycholog z ośrodka szkolno-wychowawczego przy ul. Reymonta na warszawskim Żoliborzu <sup>1</sup> | ? | 2 lata więzienia, podobno wyszedł przed czasem| [link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
+Bogumił D. | stolarz | ? | ? | [link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
 Bogusław G. | ksiądz polskokatolicki |?| 2 lata i 10 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
-Dariusz B. | ? | ? | 3 lata, podobno wyszedł na wolność przed tym czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
-Dariusz T. | ? | ? | 1 roku i 8 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
+Dariusz B. | kierowca | ? | 3 lata, podobno wyszedł na wolność przed tym czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html), [link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
+Dariusz T. | pracownik instytutu naukowego | ? | 1 roku i 8 miesięcy więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html), [link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
 Janusz Ch. | ? | ? | ? | [link](http://www.zw.com.pl/artykul/176081.html)
 Jerzy M. | ? | ? | ? | [link](http://www.zw.com.pl/artykul/176081.html)
 Julian K. | ? | ? | ? | [link](http://www.zw.com.pl/artykul/176081.html)
@@ -27,13 +28,16 @@ Mikołaj Skłodowski | ksiądz administrator parafii polskokatolickiej w Kotłow
 Tomasz D. | jeden z szefów znanego koncernu spożywczego produkującego mrożonki | 2002-08 |2 lata więzienia, podobno wyszedł przed czasem| [link](http://zw.com.pl/artykul/152872.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Waldemar T. | 30 lat mieszkał w Stanach Zjednoczonych, gdzie prowadził przedsiębiorstwo; miał przewodzić gangowi pedofilów | 2002-08-05 |1,5 roku więzienia, podobno wyszedł przed czasem| [link](http://zw.com.pl/artykul/152872.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Włodzimierz P. | znana postać w branży muzycznej, od lat organizator jednego z festiwali oraz prowadzący zajęcia z młodzieżą w jednym z warszawskich gimnazjów (prowadził też radiowęzeł i organizował dyskoteki) | 2002-08 | 5 lat wiezięnia, ale wyszedł na wolność po 9 miesiącach <sup>3</sup> | [link](http://zw.com.pl/artykul/152872.html), [link](http://www.zw.com.pl/artykul/164955.html), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
+Wojciech M. | bezrobotny | ? | 1,5 roku więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html), [link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
 Wolfgang D. | 56-letni prezes zarządu wielkiego niemieckiego koncernu, spółki F., miał 10-letni zakaz wjazdu do Szwajcarii za czyny pedofilskie; w trakcie afery zamieszkiwał w służbowym mieszkaniu przy ulicy Bruna na warszawskim Mokotowie | 2002-08 | zwolniony z aresztu ze względu na kłopoty zdrowotne; wydano mu paszport i w kwietniu 2003 uciekł do Niemiec | [link](http://zw.com.pl/artykul/152872.html), [link](http://www.zw.com.pl/artykul/164955.html), [link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), [link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie), [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
-Wojciech M. | ? | ? | 1,5 roku więzienia, podobno wyszedł przed czasem | [link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 Zbigniew Stonoga | 28-letni były doradca posłów Samoobrony, przy której działa od 2001 roku, podobno nieformalny doradca Leppera oraz Łyżwińskiej | nie, jedynie dozór policyjny | ? | [link](http://www.zw.com.pl/artykul/176081.html), [relacja Z. Stonogi](https://www.se.pl/wiadomosci/polityka/spowiedz-stonogi-oskarzenia-o-pedofilie-zemsta-za-smierc-matki-aa-bpDG-Aov3-TFYf.html)
 
 <sup>1</sup> co najmniej jedna z ofiar, Tomek, pochodziła z tego ośrodka; [link](http://www.zw.com.pl/artykul/159896.html)<br>
 <sup>2</sup> jedna z ofiar spotkała go, ale na imprezie pedofilskiej w Ostrowie Wielkopolskim; [link](http://www.zw.com.pl/artykul/159896.html)<br>
 <sup>3</sup> kilka lat po wyjściu Włodzimierz P. w 2007 roku zgwałcił w Szczecinie nastolatka. [link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie), [link](https://www.se.pl/wiadomosci/polska/pedofil-z-centralnego-znow-poluje-aa-1qGw-h9Ne-fmvq.html)
+
+Uwagi:
+* Psycholog Andrzej P. miał wymieniać się pornografią dziecięcą z psychoterapeutą [Andrzejem Samsonem](https://pl.wikipedia.org/wiki/Andrzej_Samson) wobec którego afera gangu Dworca Centralnego miała częściowo przyczynić się do jego aresztownia w dniu 2004-06-26 [link](http://zw.com.pl/artykul/183886.html), [link](http://wyborcza.pl/1,76842,2907965.html), [link](http://paluchja-zajecia.home.amu.edu.pl/etyka/etyka_pedofilia.pdf)
 
 ### Tzw. "łódzka odnoga ośmiornicy"
 
@@ -78,7 +82,7 @@ O wielu osobach niekoniecznie związanych z Dworcem Centralnym można przeczyta�
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
 2000-11-26|Artykuł|Wprost||Jarosław Knap, Ewa Ornacka, Magdalena Rychter|Polska staje się europejską "przystanią dla pedofilów"|[link](https://www.wprost.pl/tygodnik/8575/Przystan-pedofilow.html)
-2002-08-02|Wydarzenie||||Policja zatrzymuje i przesłuchuje trzech uciekinierów z ośrodków opiekuńczo-wychowawczych i od nich dowiaduje się o istnieniu szajki pedofilów|[link](http://www.zw.com.pl/artykul/159896.html)
+2002-08-02|Wydarzenie||||Policja zatrzymuje i przesłuchuje trzech uciekinierów, Daniela, Piotra, Arkadiusza, z ośrodków opiekuńczo-wychowawczych i od nich dowiaduje się o istnieniu szajki pedofilów|[link](http://www.zw.com.pl/artykul/159896.html), [link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
 2002-08-05|Wydarzenie||||Aresztowany 69-letni Waldemar T.|[link](http://zw.com.pl/artykul/152872.html)
 2002-08|Wydarzenie||||Aresztowany 46-letni Włodzimierz P.|[link](http://zw.com.pl/artykul/152872.html)
 2002-08|Wydarzenie||||Aresztowany 45-letni Paweł C.|[link](http://zw.com.pl/artykul/152872.html)
@@ -92,10 +96,12 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2003-01-29|Artykuł|Życie Warszawy|||"10 zwyrodnialców wkrótce stanie przed sądem"|[link](http://www.zw.com.pl/artykul/159896.html)
 2003-02-09|Artykuł|Wprost||Piotr Kudzia, Grzegorz Pawelczyk, Jacek Błaszczyk, Magda Rychter|"Pedofilska ośmiornica, wykryta przez dziennikarzy Wprost i Polsatu, paraliżuje policję i prokuraturę"|[link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
 2003-03-13|Artykuł|Życie Warszawy|||Wolfgang D. od kilku tygodni jest na wolności. Śródmiejska prokuratura wypuściła go z aresztu, bo wykryto u niego raka.|[link](http://www.zw.com.pl/artykul/164955.html)
+2003-04-18 00:00|Artykuł|Gazeta Wyborcza|Warszawa|Proces pedofili z Dworca Centralnego|[link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
 2003-06-18 13:40|Artykuł|RMF24|Fakty||Ruszył proces gangu pedofilów|[link](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001)
 2003-06-24 17:40|Artykuł|RMF24|Fakty||Wszyscy, poza jednym, oskarżeni o pedofilię członkowie gangu z Dworca Centralnego mogą wyjść z aresztu za kaucją|[link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744)
 2003-08-01|Artykuł|Przewodnik Katolicki||Grzegorz Górny||[link](https://opoka.org.pl/biblioteka/Z/ZR/pogoda_pedofilow.html)
 2003-08-20|Artykuł|Życie Warszawy|||Warszawska prokuratura postawiła zarzut pedofilii byłemu doradcy posłów Samoobrony - Zbigniewowi S.|[link](http://www.zw.com.pl/artykul/176081.html)
+2004-06-24|Artykuł|Wirtualnemedia.pl|Prasa||Dziennikarz Jarosław G. podjerzany o pedofilię|[link](https://www.wirtualnemedia.pl/artykul/dziennikarz-podejrzany-o-pedofilie)
 2004-07-25|Artykuł|Życie Warszawy|||Dzięki pierwotnym zeznaniom trójki chłopców "udało się namierzyć blisko 30 pedofilów, jednak tylko 20 postawiono zarzuty"|[link](http://www.zw.com.pl/artykul/153661.html)
 2005|Artykuł|Czas Ostrzeszowski|Numer 22|Krzysztof Juszczak|O Mikołaju S.|[link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
 2005-04-24|Artykuł|Wprost||Tomasz Krzyżak, Pawel Rusak|Wprost i Polsat szukają pedofilów w Internecie w ramach akcji "O jednego mniej"|[link](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html)
@@ -104,4 +110,5 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2005-05-11 22:45|Film dokumentalny|TVP|Program 2|Sylwester Latkowski|"Pedofile"|[link](http://latkowski.com/filmy/pedofile)
 2005-05-17 11:39|Artykuł|Wprost||ss, ks, pap|Klub pedofilów skazany|[link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 2011-02-11|Artykuł|Polsat News|Interwencja|Adam Bogoryja-Zakrzewski|Waldemar T. - jeden z dziewięciu mężczyzn skazanych w tak zwanej aferze pedofilów z Dworca Centralnego nadal przebywa na wolności|[link](https://interwencja.polsatnews.pl/reportaz/2011-02-11/bezkarny-pedofil_865533/)
+2019-05-23 10:09|Artykuł / Materiał wideo|PolskieRadio24.pl||Michał Rachoń|Wywiad z Jackiem Błaszczykem, dziennikarzem, który tropił pedofilów|[link](https://www.polskieradio24.pl/130/5925/Artykul/2313817,Jacek-Blaszczyk-dziennikarz-ktory-tropil-pedofilow-dzialalem-na-pograniczu-prawa)
 2019-05-28 16:40|Artykuł|Gazeta Polska||Grzegorz Wierzchołowski|"Pedocelebryci"|[link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie)
