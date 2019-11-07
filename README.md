@@ -9,3 +9,4 @@ Stare sprawy:
 
 * [Roman Polański](Polanski.md) (1977 rok)
 * [Pedofile z Dworca Centralnego](Pedofile-z-Dworca.md) (2002-2005)
+* [Andrzej Samson](Samson.md) (2004 rok)
