@@ -110,5 +110,12 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2005-05-11 22:45|Film dokumentalny|TVP|Program 2|Sylwester Latkowski|"Pedofile"|[link](http://latkowski.com/filmy/pedofile)
 2005-05-17 11:39|Artykuł|Wprost||ss, ks, pap|Klub pedofilów skazany|[link](https://www.wprost.pl/kraj/76725/Klub-pedofilow-skazany-aktl.html)
 2011-02-11|Artykuł|Polsat News|Interwencja|Adam Bogoryja-Zakrzewski|Waldemar T. - jeden z dziewięciu mężczyzn skazanych w tak zwanej aferze pedofilów z Dworca Centralnego nadal przebywa na wolności|[link](https://interwencja.polsatnews.pl/reportaz/2011-02-11/bezkarny-pedofil_865533/)
+2015-01-04 20:00|Artykuł|Wprost||Sylwester Latkowski, Michał Majewski|Pedofile z Dworca przenieśli się do tzw. agencji|[link](https://www.wprost.pl/tygodnik/487367/BURDEL-WARSZAWA.html)
 2019-05-23 10:09|Artykuł / Materiał wideo|PolskieRadio24.pl||Michał Rachoń|Wywiad z Jackiem Błaszczykem, dziennikarzem, który tropił pedofilów|[link](https://www.polskieradio24.pl/130/5925/Artykul/2313817,Jacek-Blaszczyk-dziennikarz-ktory-tropil-pedofilow-dzialalem-na-pograniczu-prawa)
 2019-05-28 16:40|Artykuł|Gazeta Polska||Grzegorz Wierzchołowski|"Pedocelebryci"|[link](https://www.gazetapolska.pl/19519-pedocelebryci-tylko-nikomu-nie-mowcie)
+
+## Epilog
+
+"(...) po aferze i aresztowaniu kilku płotek chłopców przejęły agencje. Tam jest bezpiecznie. Obowiązuje zasada czterech ścian. Nic, co się dzieje wewnątrz, nie wychodzi poza nie. W sprawie pedofilów z Dworca Centralnego zapadły niskie wyroki. Oskarżono niewiele osób. – Jeden z biznesmenów z tamtej sprawy otworzył restaurację obok szkoły podstawowej – dodaje z uśmiechem Łukasz. – Cały czas korzysta z chłopców z agencji. Nieletni są zazwyczaj na telefon właściciela agencji." [link](https://www.wprost.pl/tygodnik/487367/BURDEL-WARSZAWA.html)
+
+"Policjanci niechętnie wchodzą w ten świat. Za te sprawy nie dostaje się awansów, więc nikogo to tak naprawdę nie interesuje." [link](https://www.wprost.pl/tygodnik/487367/BURDEL-WARSZAWA.html)
