@@ -61,10 +61,10 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 3 | 1969 | 16 | "Jane Doe #3" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
 4 | 1969 | 10 | "Jane Doe #4" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
 5 | 1976 | 12 | "Jane Doe #5" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
-6
-7
-8
-9
+6 | | | |
+7 | | | |
+8 | | | |
+9 | | | |
 10 | 1984 | 16 | Charlotte Lewis, ujawniła się w 2010 roku | [link](https://www.youtube.com/watch?v=QmcQVh-UMDo), [link](https://www.youtube.com/watch?v=QmcQVh-UMDo)
 
 ## Inne rzekome ofiary
