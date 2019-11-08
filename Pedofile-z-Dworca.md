@@ -12,7 +12,7 @@
 
 ### Osoby oskarżone, aresztowane, skazane
 
-Na początku informowano, że aresztowano łącznie [10 osób](https://www.rmf24.pl/fakty/news-warszawa-ruszyl-proces-gangu-pedofilow,nId,153001), aczkolwiek bazując na doniesieniach medialnych można było ich naliczyć więcej. W 2005 roku, gdy tworzony był film Sylwestra Latkowskiego, pisano o [21 oskarżonych osobach](http://latkowski.com/filmy/pedofile).
+Liczba osób oskarżonych, aresztowanych i skazanych jest trudna do ustalenia, bo doniesienia prasowe i inne były w tym względzie bardzo niespójne, niekompletne, czasami wydawały się sprzeczne a mogły być też zwyczajnie fałszywe. Na początku informowano o areszcie do od 3 do 10 osób, później o 19 oskarżonych, w filmie "Pedofile" pada liczba 21 osób, prokurator krajowy mówi sumarycznie o 23 osobach a ręczne zliczenie z wszystkich doniesień medialnych wskazuje na większe liczby. Podobno dziennikarze Wprost i Polsatu mieli dostarczyć polskim organom ścigania dowody pozwalające aresztować co najmniej pięćdziesiąt osób.
 
 Kto | Komentarz | Aresztowany | Skazany |  Link
 --- | --- | --- | --- | ---
@@ -55,10 +55,13 @@ Uwagi:
 
 Kto | Komentarz | Aresztowany | Skazany |  Link
 --- | --- | --- | --- | ---
-"Waga" | wrocławski prawnik, dokumentował spotkania i zakładał teczki na osoby; były pracownik Urzędu Ochrony Państwa, pracował tam 1,5 roku; nieformalny szef pedofilskiej szajki | tak | ? | [link](https://www.wprost.pl/tygodnik/14136/Pedofile-w-bialych-kolnierzykach.html)
+Piotr K. pseudonim "Sadza"<br><br>(w mediach także pod fałszywym pseudonimem "Waga") | wrocławski prawnik, dokumentował spotkania i zakładał teczki na osoby; były pracownik Urzędu Ochrony Państwa, pracował tam 1,5 roku; nieformalny szef pedofilskiej szajki | tak | ? | [link](https://www.wprost.pl/tygodnik/14136/Pedofile-w-bialych-kolnierzykach.html), [link](http://www.zw.com.pl/artykul/164963.html)
 "Wolf" | student z Poznania | tak | ? | [link](https://www.wprost.pl/tygodnik/14136/Pedofile-w-bialych-kolnierzykach.html)
 "Richard" | nauczyciel geografii z łódzkiego gimnazjum <sup>1</sup> | tak | ? | [link](https://www.wprost.pl/tygodnik/14136/Pedofile-w-bialych-kolnierzykach.html)
 "Morda" | właściciel trójmiejskiej sieci dystrybucji książek | tak | ? | [link](https://www.wprost.pl/tygodnik/31102/Oblawa-na-pedofilow.html)
+Marcin Jabłoński | Razem z bratem Marianem z warszawkiego Żoliborza mieli handlować filmami z dziecięcą pornografią | ? | ? | [link](http://www.zw.com.pl/artykul/164963.html)
+Marian Jabłoński | Razem z bratem Marcinem z warszawkiego Żoliborza mieli handlować filmami z dziecięcą pornografią | ? | ? | [link](http://www.zw.com.pl/artykul/164963.html)
+Pierre S. | ? | tak, we Francji | ? | [link](http://www.zw.com.pl/artykul/164963.html)
 
 Dziennikarze wspominają jeszcze o [co najmniej 12 osobach](https://www.wprost.pl/tygodnik/14078/Mordercy-dzieci.html).
 
@@ -86,7 +89,6 @@ Grzegorz K. | pracownikm Zespołu Żłobków Miasta Stołecznego Warszawy, wcze�
 Gunnar F. | ? | [link](https://www.wprost.pl/tygodnik/8575/Przystan-pedofilow.html)
 Sven P. | ? |  [link](https://www.wprost.pl/tygodnik/8575/Przystan-pedofilow.html)
 
-
 O wielu osobach niekoniecznie związanych z Dworcem Centralnym można przeczytać [tutaj](https://www.wprost.pl/tygodnik/8575/Przystan-pedofilow.html). Dziennikarze Wprost oraz Polsat po ujawnieniu sprawy szajki z Dworca Centralnego prowadzili też akcję [O jednego mniej](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html), a równolegle do sprawy szajki wniknęli też do międzynarodowej siatki pedofilów mającej swoje struktry w Polsce - [link](https://www.wprost.pl/tygodnik/14078/Mordercy-dzieci.html).
 
 ### Lista Caviara
@@ -101,8 +103,9 @@ Wobec Jakuba Śpiewaka Internauta miał [sprecyzowaną listę zarzutów](https:/
 
 Caviar twierdził też, że sfałszowano przeciwko niemu dowody na czynną napaść na policjanta (uszkodzenie ciała nożem) w 2001 roku w ramach zemsty za złożone zeznania przeciwko rzekomo rozpoznanemu przez siebie pedofilowi. [link](https://forum.o2.pl/temat.php?id_p=5044784&start=60), [link](https://forum.o2.pl/temat.php?id_p=5034572&start=60), [link](https://forum.o2.pl/temat.php?id_p=5034572&start=30)
 
-
 ## Publikacje i wydarzenia
+
+Uwaga: czytając publikacje medialne należy mieć na uwadze, że podawane w nich informacje są BARDZO sfragmentaryzowane a autorzy czasami zdają się kluczyć i zmieniać pewne fakty, być może też próbują sztucznie tworzyć sensację. Przed pochopnymi konkluzjami warto na koniec zapoznać się z poglądami innej strony, np. z [obszerną wypowiedzią](http://orka.sejm.gov.pl/Biuletyn.nsf/0/895414D83D3176ADC1256D11004BC98A?OpenDocument) prokuratora krajowego Karol Napierskiego w trakcie obrad Komisja Sprawiedliwości i Praw Człowieka.
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
@@ -115,6 +118,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2002-08|Wydarzenie||||Aresztowany Wolfgang D., prezes zarządu wielkiego niemieckiego koncernu|[link](http://zw.com.pl/artykul/152872.html)
 2002-09-12 00:00|Artyuł|Gazeta Wyborzcza||pm|Policja zatrzymała pięciu pedofilów|[link](https://warszawa.wyborcza.pl/warszawa/1,54420,1013823.html)
 2002-09-12 00:46|Artykuł|Życie Warszawy|||Policja rozbija szajkę pedofilów z Dworca Centralnego|[link](http://zw.com.pl/artykul/152872.html)
+2002-09-13|Wydarzenie||||Prokuratura Okręgowa w Warszawie wszczęła śledztwo w sprawie dotyczącej utrzymywania kontaktów seksualnych z osobami małoletnimi|[link](http://orka.sejm.gov.pl/Biuletyn.nsf/0/895414D83D3176ADC1256D11004BC98A?OpenDocument)
 2002-10-06|Artykuł|Wprost||Piotr Kudzia, Mirosław Majeran|Europejska siatka pedofilska działająca w Polsce|[link](https://www.wprost.pl/tygodnik/14078/Mordercy-dzieci.html)
 2002-10-13|Artykuł|Wprost||Piotr Kudzia, Grzegorz Pawelczyk, Mirosław Majeran|"Łódzka odnoga osmiornicy"|[link](https://www.wprost.pl/tygodnik/14136/Pedofile-w-bialych-kolnierzykach.html)
 2002-11-03|Artykuł|Wprost||Piotr Kudzia, Grzegorz Pawelczyk|Kolejny aresztowany z "ośmiornicy"; w Belgii i Francji trwają śledztwa w sprawie siatki pedofilów zdemaskowanej przez reporterów "Wprost" i Polsatu|[link](https://www.wprost.pl/tygodnik/31102/Oblawa-na-pedofilow.html)
@@ -124,6 +128,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2003-02-11 03:39|Artyuł|Życie Warszawy|||Biskup Kościoła starokatolickiego Wojciech K. zatrzymany w Markach za pedofilię podszywał się pod księdza katolickiego.|[link](http://www.zw.com.pl/artykul/160451.html)
 2003-03-13|Artykuł|Życie Warszawy|||Wolfgang D. od kilku tygodni jest na wolności. Śródmiejska prokuratura wypuściła go z aresztu, bo wykryto u niego raka.|[link](http://www.zw.com.pl/artykul/164955.html)
 2003-03-15|Artykuł|Dziennik Polski|Aktualności / Kraj||*Leczenie zamiast aresztu* | [link](https://dziennikpolski24.pl/leczenie-zamiast-aresztu/ar/1884598)
+2003-03-25|Protokół|Komisja Sprawiedliwości i Praw Człowieka /nr 78/|Biuletyn nr 1653/IV|||[link](http://orka.sejm.gov.pl/Biuletyn.nsf/0/895414D83D3176ADC1256D11004BC98A?OpenDocument)
 2003-04-18 00:00|Artykuł|Gazeta Wyborcza|Warszawa||Proces pedofili z Dworca Centralnego|[link](https://warszawa.wyborcza.pl/warszawa/1,54420,1435159.html)
 2003-04-25 17:10|Artykuł|Wprost|Kraj|em, pap|*Pedofile łapani i wypuszczani* | [link](https://www.wprost.pl/kraj/43589/Pedofile-lapani-i-wypuszczani.html)
 2003-04-26 06:40|Artykuł|RMF24|Fakty||19 osób aresztowanych do tej pory; *Niemiec podejrzany o pedofilię wyjechał z Polski*; Opinię wydał lekarz podobno związany z ambasadą Niemiec | [link](https://www.rmf24.pl/fakty/news-niemiec-podejrzany-o-pedofilie-wyjechal-z-polski,nId,174118)
@@ -131,6 +136,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2003-06-24 17:40|Artykuł|RMF24|Fakty||Wszyscy, poza jednym, oskarżeni o pedofilię członkowie gangu z Dworca Centralnego mogą wyjść z aresztu za kaucją|[link](https://www.rmf24.pl/fakty/news-warszawa-pedofile-na-wolnosci,nId,151744)
 2003-08-01|Artykuł|Przewodnik Katolicki||Grzegorz Górny||[link](https://opoka.org.pl/biblioteka/Z/ZR/pogoda_pedofilow.html)
 2003-08-20|Artykuł|Życie Warszawy|||Warszawska prokuratura postawiła zarzut pedofilii byłemu doradcy posłów Samoobrony - Zbigniewowi S.|[link](http://www.zw.com.pl/artykul/176081.html)
+2003-12-08|Artykuł|Życie Warszawy|||Bracia Marcin i Marian z Żoliborza handlowali filmami z dziecięcą pornografią.|[link](http://www.zw.com.pl/artykul/164963.html)
 2004-06-24|Artykuł|Wirtualnemedia.pl|Prasa||Dziennikarz Jarosław G. podjerzany o pedofilię|[link](https://www.wirtualnemedia.pl/artykul/dziennikarz-podejrzany-o-pedofilie)
 2004-07-25|Artykuł|Życie Warszawy|||Dzięki pierwotnym zeznaniom trójki chłopców "udało się namierzyć blisko 30 pedofilów, jednak tylko 20 postawiono zarzuty"|[link](http://www.zw.com.pl/artykul/153661.html)
 2005|Artykuł|Czas Ostrzeszowski|Numer 22|Krzysztof Juszczak|O Mikołaju S.|[link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
