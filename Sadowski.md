@@ -89,6 +89,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-10-14 14:00|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Sąd zakazuje Mariuszowi Zielke publikacji na temat Krzysztofa Sadowskiego|[Link](https://wiadomosci.wp.pl/sad-zakazal-dziennikarzowi-pisac-o-aferze-pedofilskiej-mariusz-zielke-krzysztofa-sadowskiego-nikt-nie-broni-6433620490754177a)
 2019-10-31|Artykul|Magazyn Press||Mariusz Kowalczyk|Wywiad z Mariuszem Zielke|[link](https://www.press.pl/magazyn-press/artykul/59126,co-ja-zlego-zrobilem_)
 2019-11-03 21:07|Artykuł|Salon24||Mariusz Zielke|*Przeczekać, przemilczeć, zapomnieć! Tak walczymy z pedofilią autorytetów* | [link](https://www.salon24.pl/u/zielke/997683,przeczekac-przemilczec-zapomniec-tak-walczymy-z-pedofilia-autorytetow)
+2019-11-09 13:20|Artykuł|Tygodnik Solidarność||| *Zielke o śledztwie ws. pedofilii znanego muzyka: „Nie został przesłuchany. Dzwoni do ofiar”* |[link](https://tysol.pl/a39332-)
 
 
 ## Zdarzenia będące tłem do afery z 2019 roku
