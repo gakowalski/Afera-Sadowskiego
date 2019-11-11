@@ -90,7 +90,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-10-31|Artykul|Magazyn Press||Mariusz Kowalczyk|Wywiad z Mariuszem Zielke|[link](https://www.press.pl/magazyn-press/artykul/59126,co-ja-zlego-zrobilem_)
 2019-11-03 21:07|Artykuł|Salon24||Mariusz Zielke|*Przeczekać, przemilczeć, zapomnieć! Tak walczymy z pedofilią autorytetów* | [link](https://www.salon24.pl/u/zielke/997683,przeczekac-przemilczec-zapomniec-tak-walczymy-z-pedofilia-autorytetow)
 2019-11-09 13:20|Artykuł|Tygodnik Solidarność||| *Zielke o śledztwie ws. pedofilii znanego muzyka: „Nie został przesłuchany. Dzwoni do ofiar”* |[link](https://tysol.pl/a39332-)
-
+2019-11-10 20:10|Artykuł|Fakt|Wydarzenia Polska| Katarzyna Kowalczyk|*Pisarz zapowiada ostrą walkę z pedofilami. Wielu znanych ludzi!* | [link](https://www.fakt.pl/wydarzenia/polska/mariusz-zielke-wypowiada-wojne-pedofilom/rjc02k4)
+2019-11-10 20:55|Artykuł|Salon24||Mariusz Zielke| *Znany muzyk o innym znanym muzyku: "Włożył mi rękę pod pidżamę i..."* | [link](https://www.salon24.pl/u/zielke/999135,sprawa-sadowskiego-wlozyl-mi-reke-pod-pidzame-i)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
