@@ -81,7 +81,7 @@ Kto | Komentarz | Link
 ? | były minister za czasów III RP | [link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
 ? | znany autor programów telewizyjnych | [link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
 ? | wiceprezes banku | [link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
-? | znany reżyser filmowy | [link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
+? | znany reżyser filmowy "X", współtwórca kina moralnego niepokoju, moralista o katolickiej perspektywie | [link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html), [link](http://paluchja-zajecia.home.amu.edu.pl/etyka/etyka_pedofilia.pdf)
 ? | poseł | [link](https://www.wprost.pl/tygodnik/38984/Zmowa-milczenia.html)
 Arkadiusz K. | oficer Biura Ochrony Rządu, ochroniarz premiera Marka Belki, kontakty pedofilskie miał nawiązywać przez rządowe komputery; mieszka w Warce; w BOR pracowala też jego siostra i szwagier | [link](https://www.wprost.pl/tygodnik/404024/Pedofile-z-wyzszych-sfer.html), [link](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html), [link](https://wywiadowcy.pl/sylwester-latkowski/)
 Franciszek M. | księgowy | [link](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html)
