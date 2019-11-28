@@ -33,6 +33,8 @@ Data | Zdarzenie
 * [Opinia kuratora sądowego Kennetha Fare'a z dnia 1977-09-19 w sprawie Romana Polańskiego](http://www.thesmokinggun.com/documents/crime/polanski-seeks-sex-case-dismissal) (korzystna dla Polańskiego)
 * [Ugoda sądowa zawarta przęd sądem przez Polańskiego w dniu 1977-08-08](http://www.thesmokinggun.com/documents/crime/roman-polanski-plea-transcript)
 
+Przystępny komentarz do transkryptu ugody, [link](https://www.thedailybeast.com/the-lost-polanski-transcripts).
+
 ## Artyści i osoby medialne w obronie Polańskiego
 
 ### Polska
