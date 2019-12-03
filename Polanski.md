@@ -63,14 +63,15 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 3 | 1969 | 16 | "Jane Doe #3" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
 4 | 1969 | 10 | "Jane Doe #4" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
 5 | 1976 | 12 | "Jane Doe #5" | [link](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/)
-6 | | | |
+6 | 1970 | 29 | Mallory Millet (pseudonim sceniczny "Mallory Jones"), Polański miał być pod wpływem LSD | [link](https://www.dailymail.co.uk/news/article-5070661/Roman-Polanski-accused-sexual-assault-high-LSD.html)
 7 | | | |
 8 | | | |
 9 | | | |
-10 | 1984 | 16 | Charlotte Lewis, ujawniła się w 2010 roku | [link](https://www.youtube.com/watch?v=QmcQVh-UMDo), [link](https://www.youtube.com/watch?v=QmcQVh-UMDo)
+10 | 1984 | 16 | Charlotte Lewis, ujawniła się w 2010 roku | [link](https://www.youtube.com/watch?v=QmcQVh-UMDo)
 
 ## Inne rzekome ofiary
 
-* [Marianne Barnard](https://www.thesun.co.uk/news/4724974/artist-roman-polanski-naked-photos-sexually-abusing-deserted-beach-10-years-old/), molestowana na plaży w Malibu gdy miała 10 lat
-* [Renate Langer](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), molestowana w wieku lat 15
-* [Robin M.](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), molestowana w wieku lat 16
+* [Marianne Barnard](https://www.thesun.co.uk/news/4724974/artist-roman-polanski-naked-photos-sexually-abusing-deserted-beach-10-years-old/), molestowana na plaży w Malibu gdy miała 10 lat w 1975 roku
+* [Renate Langer](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), molestowana w wieku lat 15 w 1972 roku
+* [Robin M.](https://www.thesun.co.uk/news/4831131/five-more-women-come-forward-to-accuse-disgraced-movie-director-roman-polanski-of-sexual-assault/), molestowana w wieku lat 16 w 1973 roku
+* Valentine Monnier, 18 lat w 1975 roku
