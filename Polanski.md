@@ -6,7 +6,7 @@ Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.c
 
 ### Przebieg wydarzeń
 
-Na podstawie [A timeline of Roman Polanski's 4-decade underage sex case](https://www.apnews.com/e087fdee79e74caf99caa27edd8a8887), [Roman Polanski sexual abuse case](https://en.wikipedia.org/wiki/Roman_Polanski_sexual_abuse_case), oraz dokumentów zawierających zeznania Samanthy Geimer oraz wyjaśnienia Romana Polańskiego (linki niżej pod tabelką, w podrodziale "Dokumenty").
+Na podstawie [A timeline of Roman Polanski's 4-decade underage sex case](https://www.apnews.com/e087fdee79e74caf99caa27edd8a8887), [Roman Polanski sexual abuse case](https://en.wikipedia.org/wiki/Roman_Polanski_sexual_abuse_case), "[The Girl](https://books.google.pl/books?id=hVMtAAAAQBAJ&pg=PT109&lpg=PT109&dq=polanski+lies&source=bl&ots=IQ3LccVKiY&sig=ACfU3U03mPWj5Nle8cOaroMPHXTW12p0Xw&hl=pl&sa=X&ved=2ahUKEwiv--vU2pzmAhX0xcQBHciAAAkQ6AEwCXoECAcQAQ#v=onepage&q=polanski%20lies&f=false)" oraz dokumentów zawierających zeznania Samanthy Geimer oraz wyjaśnienia Romana Polańskiego (linki niżej pod tabelką, w podrodziale "Dokumenty").
 
 Data | Zdarzenie
 --- | ---
@@ -16,8 +16,9 @@ Data | Zdarzenie
 1977-03-24 | Sąd przysięgłych oskarża Polańskiego o sześć przestępstw, m.in. gwałt i podanie substancji kontrolowanej osobie nieletniej. Polański nie przyznaje się do winy.
 1977-08-08 | Polański przyznaje się do bezprawnego współżycia seksualnego z nieletnią.
 1977-09 | Sędzia nakazuje Polańskiemu poddanie się 90-dniowemu badaniu diagnostycznemu w kalifornijskim więzieniu stanowym w celu ustalenia wyroku.
-1978-01 | Badanie diagnostyczne - zakończone po 42 dniach - zaleca wyrok w zawieszeniu.
-1978-02 | Polański ucieka ze Stanów Zjednoczonych w przeddzień skazania po tym, jak dowiedział się, że sędzia zamierza odesłać go z powrotem do więzienia. Wydano nakaz aresztowania, ograniczający możliwość jego poruszania się do terytorium Francji, Polski i Szwajcarii. Polański twierdzi, że sędzia bez obecności prawnika Polańskiego spotkał się z prokuratorem, który nie został przydzielony do sprawy w celu omówienia wyroku.
+1978-01-29 | Badanie diagnostyczne - zakończone po 42 dniach - zaleca wyrok w zawieszeniu.
+1978-01-31 | Polański ucieka ze Stanów Zjednoczonych w przeddzień rozprawy sądowej po tym gdy dowiedział się, że sędzia zamierza odesłać go z powrotem do więzienia. Wydano nakaz aresztowania, ograniczający możliwość jego poruszania się do terytorium Francji, Polski i Szwajcarii. Polański twierdzi, że sędzia bez obecności prawnika Polańskiego spotkał się z prokuratorem, który nie został przydzielony do sprawy w celu omówienia wyroku.
+1978-02-02 | London Evening News donosi o odnalezieniu Polańskiego w jego domu w Paryżu
 1988 | Samantha Geimer pozywa Polańskiego w procesie cywilnym i otrzymuje pół miliona dolarów odszkodowania ([źródło](http://wyborcza.pl/7,75410,22777915,roman-polanski-zaprzecza-by-molestowal-10-latke-a-policja.html))
 2015-02 | Polański pojawia się w polskim sądzie na wielogodzinne przesłuchanie w celu ustalenia czy wniosek USA o jego ekstradycję jest ważny.
 2015-10 | Polski sąd odrzuca próbę ekstradycji Polańskiego.
@@ -27,9 +28,15 @@ Data | Zdarzenie
 2017-08 | Sędzia z Los Angeles odrzuca wniosek Samanthy Geimer o zakończenie sprawy Polańskiego.
 2018-05-03 | Akademia filmowa ogłasza, że wykluczyła Polańskiego i Billa Cosby'ego, który tydzień wcześniej został skazany za przestępstwo seksualne, z członkostwa.
 
+### W Polsce
+
+2006-03-09 | Zapytanie nr 721 do ministra sprawiedliwości w sprawie podjęcia przez organy ścigania działań w stosunku do polskiego reżysera skazanego w 1977 r. przez amerykański sąd za gwałt na nieletniej [link](http://orka2.sejm.gov.pl/IZ5.nsf/main/0F2575C9)
+2006-04-06 | Odpowiedź prokuratora krajowego, zastępcy prokuratora generalnego - z upoważnienia ministra - na zapytanie nr 721 [link](http://orka2.sejm.gov.pl/IZ5.nsf/main/5D6D772C)
+2016-05-31 | Kasacja Prokuratora Generalnego w sprawie odmowy ekstradycji Romana Polańskiego do USA [link](https://pk.gov.pl/aktualnosci/aktualnosci-prokuratury-krajowej/kasacja-prokuratora-generalnego-w-sprawie-odmowy-ekstradycji-romana-polanskiego-do-usa-2/)
+
 ### Dokumenty
 
-* Zasadnicza część zeznań Samanthy Geimer, ofiary Polańskiego przed Sądem Przysięgłych w [zapisie postępowania sądowego z dnia 1977-03-24 wykonanym przez Gary'ego Gorkosa](http://www.thesmokinggun.com/documents/crime/roman-polanski-fugitive-director).
+* Zasadnicza część zeznań Samanthy Geimer, ofiary Polańskiego przed Sądem Przysięgłych w [zapisie postępowania sądowego z dnia 1977-03-24 wykonanym przez Gary'ego Gorkosa](http://www.thesmokinggun.com/documents/crime/roman-polanski-fugitive-director). [Tłumaczenie zeznań w języku polskim](https://m.filmweb.pl/person/Roman+Pola%C5%84ski-83/discussion/ujawnione+zeznanie+zgwa%C5%82conej+Samanthy+Gailey-1219795).
 * [Opinia kuratora sądowego Kennetha Fare'a z dnia 1977-09-19 w sprawie Romana Polańskiego](http://www.thesmokinggun.com/documents/crime/polanski-seeks-sex-case-dismissal) (korzystna dla Polańskiego)
 * [Ugoda sądowa zawarta przęd sądem przez Polańskiego w dniu 1977-08-08](http://www.thesmokinggun.com/documents/crime/roman-polanski-plea-transcript)
 
@@ -51,6 +58,7 @@ Data | Kto | Wypowiedź | Uwagi | Link
 Data | Kto | Uwagi | Link
 --- | --- | --- | ---
 2003 | Quentin Tarantino | "ona tego chciała", "imprezowiczka" | [Nagranie głosowe](https://www.youtube.com/watch?v=lWatqfgA2X8), [Artykuł](https://www.hollywoodreporter.com/news/quentin-tarantino-defends-roman-polanski-resurfaced-audio-13-year-old-wanted-have-it-1082174)
+2019 | Whoopi Goldbert | "to nie był gwałt-gwałt" (w sensie: to był gwałt-niegwałt) | [link](https://www.cernovich.com/joy-behar-blackface-rape-don-jr-whoopie-goldberg-roman-polanski/)
 
 ## Śledźtwo dziennikarskie Matana Uziela
 
