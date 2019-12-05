@@ -36,11 +36,13 @@ Data | Zdarzenie
 
 ### Dokumenty
 
-* Zasadnicza część zeznań Samanthy Geimer, ofiary Polańskiego przed Sądem Przysięgłych w [zapisie postępowania sądowego z dnia 1977-03-24 wykonanym przez Gary'ego Gorkosa](http://www.thesmokinggun.com/documents/crime/roman-polanski-fugitive-director). [Tłumaczenie zeznań w języku polskim](https://m.filmweb.pl/person/Roman+Pola%C5%84ski-83/discussion/ujawnione+zeznanie+zgwa%C5%82conej+Samanthy+Gailey-1219795).
+* Zasadnicza część zeznań Samanthy Geimer, ofiary Polańskiego przed Sądem Przysięgłych w [zapisie postępowania sądowego z dnia 1977-03-24 wykonanym przez Gary'ego Gorkosa](https://www.haoui.com/newsletter/2009/Octobre13/exclusif/SamanthaTranscripts.pdf) (dokument 40 stron). [Tłumaczenie zeznań w języku polskim](https://m.filmweb.pl/person/Roman+Pola%C5%84ski-83/discussion/ujawnione+zeznanie+zgwa%C5%82conej+Samanthy+Gailey-1219795), [tłumaczenie francuskie](https://www.haoui.com/newsletter/2009/Octobre13/exclusif/index.html)
 * [Opinia kuratora sądowego Kennetha Fare'a z dnia 1977-09-19 w sprawie Romana Polańskiego](http://www.thesmokinggun.com/documents/crime/polanski-seeks-sex-case-dismissal) (korzystna dla Polańskiego)
 * [Ugoda sądowa zawarta przęd sądem przez Polańskiego w dniu 1977-08-08](http://www.thesmokinggun.com/documents/crime/roman-polanski-plea-transcript)
 
 Przystępny komentarz do transkryptu ugody, [link](https://www.thedailybeast.com/the-lost-polanski-transcripts).
+
+[Kłamstwo prokuratora Wellsa](https://www.nytimes.com/2009/10/01/us/01wells.html).
 
 ## Artyści i osoby medialne w obronie Polańskiego
 
