@@ -92,6 +92,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-11-09 13:20|Artykuł|Tygodnik Solidarność||| *Zielke o śledztwie ws. pedofilii znanego muzyka: „Nie został przesłuchany. Dzwoni do ofiar”* |[link](https://tysol.pl/a39332-)
 2019-11-10 20:10|Artykuł|Fakt|Wydarzenia Polska| Katarzyna Kowalczyk|*Pisarz zapowiada ostrą walkę z pedofilami. Wielu znanych ludzi!* | [link](https://www.fakt.pl/wydarzenia/polska/mariusz-zielke-wypowiada-wojne-pedofilom/rjc02k4)
 2019-11-10 20:55|Artykuł|Salon24||Mariusz Zielke| *Znany muzyk o innym znanym muzyku: "Włożył mi rękę pod pidżamę i..."* | [link](https://www.salon24.pl/u/zielke/999135,sprawa-sadowskiego-wlozyl-mi-reke-pod-pidzame-i)
+2020-06-25 22:03:43|Artykuł|Stowarzyszenie Dziennikarzy Polskich||Błażej Torański| Wywiad z Mariuszem Zielke - m.in. wspomina o tym, że kilka dni wcześniej dziennikarz otrzymał pozew sądowy od Krzysztofa Sadowskiego | [link](https://sdp.pl/zmowa-milczenia-rozmowa-z-mariuszem-zielke-laureatem-nagrody-watergate-sdp/)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
