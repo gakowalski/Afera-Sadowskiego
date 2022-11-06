@@ -95,6 +95,9 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2020-06-25 22:03:43|Artykuł|Stowarzyszenie Dziennikarzy Polskich||Błażej Torański|Wywiad z Mariuszem Zielke - m.in. wspomina o tym, że kilka dni wcześniej dziennikarz otrzymał pozew sądowy od Krzysztofa Sadowskiego | [link](https://sdp.pl/zmowa-milczenia-rozmowa-z-mariuszem-zielke-laureatem-nagrody-watergate-sdp/)
 2020-07-17 07:11|Artykuł|Wirtualna Polska||Magda Mieśnik|Sześć kobiet zarzuca Krzysztofowi S. molestowanie|[link](https://wiadomosci.wp.pl/sprawa-znanego-muzyka-krzysztofa-s-szesc-kobiet-zarzuca-mu-molestowanie-6532707999123073a)
 2020-07-17 14:00|Artykuł|Pudelek||Unicorn|Sześć kobiet zarzuca Krzysztofowi S. molestowanie|[link](https://www.pudelek.pl/szesc-kobiet-zarzuca-krzysztofowi-s-molestowanie-mam-dzisiaj-40-lat-a-wydaje-mi-sie-ze-to-bylo-wczoraj-6533045850475296a)
+2022-11-05 14:03|Wpis|Facebook|Profil Izy Michalewicz|Iza Michalewicz|Informacja, że Prokuratura Okręgowa rozesłała zawiadomienia o umoerzeniu śledztwa z powodu przedawnienia|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/458830726240194)
+2022-11-06 19:22|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Potwierdzenie, że nadal toczy się proces sądowy pomiedzy Sadowskim a Mariuszem Zielkem|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/458830726240194)
+
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
