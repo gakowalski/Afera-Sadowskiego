@@ -98,7 +98,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2022-11-05 14:03|Wpis|Facebook|Profil Izy Michalewicz|Iza Michalewicz|Informacja, że Prokuratura Okręgowa rozesłała zawiadomienia o umoerzeniu śledztwa z powodu przedawnienia|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/458830726240194)
 2022-11-06 19:22|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Potwierdzenie, że nadal toczy się proces sądowy pomiedzy Sadowskim a Mariuszem Zielkem|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/458830726240194)
 2022-11-07 15:25|Artykuł|TVP Info||AB, KF|W zakresie czynów nieprzedawnionych prowadzone jest odrębne postępowanie – poinformowała prokurator Skrzyniarz, rzecznik PO w Warszawie|[link](https://www.tvp.info/64388031/prokuratura-o-oskarzeniach-kierowanych-pod-adresem-krzysztofa-sadowskiego-na-chwile-zlozenia-zawiadomien-czesc-czynow-byla-juz-przedawniona-w-zakresie-czynow-nie-przedawnionych-prowadzone-jest-odrebne-postepowanie)
-
+2022-12-13 14:27|Artykuł|TVP Info||FA, MNIE|"12 grudnia zarzut popełnienia czynu z art. 200 par. 1 k.k. przedstawiony został Krzysztofowi S. Zarzut dotyczy zdarzenia z 2017 r. mającego miejsce w Puławach podczas warsztatów jazzowych organizowanych dla dzieci i młodzieży"|[link](https://www.tvp.info/65067646/krzysztof-s-muzyk-uslyszal-zarzut-pedofilii-chodzi-o-przestepstwo-z-2017-r-)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
