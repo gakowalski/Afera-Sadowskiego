@@ -101,6 +101,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2022-11-07 15:25|Artykuł|TVP Info||AB, KF|W zakresie czynów nieprzedawnionych prowadzone jest odrębne postępowanie – poinformowała prokurator Skrzyniarz, rzecznik PO w Warszawie|[link](https://www.tvp.info/64388031/prokuratura-o-oskarzeniach-kierowanych-pod-adresem-krzysztofa-sadowskiego-na-chwile-zlozenia-zawiadomien-czesc-czynow-byla-juz-przedawniona-w-zakresie-czynow-nie-przedawnionych-prowadzone-jest-odrebne-postepowanie)
 2022-11-08|Wywiad|Polska Mówi||Andrzej Dybowski, Iza Michalewicz|Wywiaz z Izą Michalewicz na temat jej śledztwa dziennikarskiego wobec Krzysztofa Sadowskiego|[link](https://youtu.be/z4yLfUBjkkI)
 2022-12-13 14:27|Artykuł|TVP Info||FA, MNIE|"12 grudnia zarzut popełnienia czynu z art. 200 par. 1 k.k. przedstawiony został Krzysztofowi S. Zarzut dotyczy zdarzenia z 2017 r. mającego miejsce w Puławach podczas warsztatów jazzowych organizowanych dla dzieci i młodzieży"|[link](https://www.tvp.info/65067646/krzysztof-s-muzyk-uslyszal-zarzut-pedofilii-chodzi-o-przestepstwo-z-2017-r-)
+2023-06-30 09:00|Reportaż|YouTube|Mariusz Zielke|Film "Bagno"|[link](https://www.youtube.com/watch?v=fwgUAzHMQSE)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
