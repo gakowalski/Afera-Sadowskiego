@@ -172,6 +172,7 @@ Data | Autor | Uwagi | Link
 * Martyna Magdalena Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), siostra Darii
 * Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
 * Adrian Łabanowski, mąż Marii Sadowskiej, obecne prezes Fundacji Jazz Jamboree
+* [Artur Nowak](https://pl.wikipedia.org/wiki/Artur_Nowak_(ur._1974)), adwokat, w młodości ofaira pedofilii, w praktyce adwokackiej wielokrotnie reprezentował pedofilów; miał przekzać pierwsze informacje o ofiarach Sadowskiego do Zielke
 
 ### Osoby poboczne, które nie pojawiają się w publikacjach, ale są przedmiotem komentarzy Internautów
 
