@@ -356,6 +356,10 @@ Data | Medium | Osoba | Zarzut | link
 
 Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
 
+* IM: Pan Zielke i to, co wypisuje, powoli zaczyna mnie denerwować. Owszem, dostałam od niego informacje, ale przecież aby napisać poważny reportaż trzeba wszystko sprawdzić dokładnie, dotrzeć do wszystkich stron. Bohaterki reportażu długo nie były gotowe na rozmowę z dziennikarzem, należało to uszanować. Nie wolno wypisywać niepotwierdzonych informacji, tak właśnie działają rzetelne media. Raz już zadano gwałt tym kobietom, miałam zadać go po raz drugi, publikując informacje, których nie potwierdziłabym?
+
+Żródło: [link](https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty)
+
 * MZ / 2019-08-05 15:55: Pani Izo, czy mogłaby Pani przekazać prośbę ofiarom, żeby się ze mną skontaktowały. Jeśli nie chcą publicznie rozmawiać, zapewnię anonimowość, możemy tylko pisać do siebie mailem, nawet z fikcyjnych kont. Próbuję rzetelnie to zbadać
 * IM / 2019-08-05 16:46: Przykro mi, ale nie moge.
 * IM: Zadna z nich nie porozmawia o tyn z mezczyzna, zwlaszcza dzoennikarzem; jedna leczy sie od lat psychiatrycznie.
@@ -425,3 +429,12 @@ Data | Medium | Osoba | Zarzut | link
 * Zielke: To są żarty. Pani Iza dostała od kogoś intymne wyznania skrzywdzonych kobiet jesienią 2018 r. i nic z tym nie robiła, bo miała zakaz od tego kogoś (nie miała oczywiście zgody ofiar też, tak jak ja nie miałem, i nigdy tego nie naruszyłem; znalazłem inną ofiarę i na tej podstawie rozpocząłem swoje prace nad tematem. Efekt ujrzeliście Państwo 4-5 sierpnia 2019 r. Mogliście mnie wesprzeć w ujawnieniu tej sprawy, a nie krzywdzić ofiary podając niepełne informacje. To pokutuje do dziś, bo do dziś niektórzy dziennikarze powtarzają bzdurę, że była 1 czy 2 ofiary. Ofiar jest 40, a pewnie tak naprawdę setki. Ale was to nie interesuje 
 
 Źródło: [Twitter](https://twitter.com/katarynaaa/status/1675855702290489344), [Twitter](https://twitter.com/zielkemariusz/status/1675894313643921409)
+
+##### Piotr Pacewicz
+
+* PP: To, co pisze pan Zielke, to dziwaczne stanowisko. Abstrahując nawet od tego, że zamieszcza screeny prywatnych rozmów. Przecież wiadomo, że nie możemy w materiale opierać się na niepotwierdzonych informacjach, cytatach z anonimowych źródeł. Ze screenów zamieszczonych w tekście jasno wynika, że była próba kontaktu ze strony naszego dziennikarza, ale urywa się on po tym, jak Daniel Flis prosi o nazwisko osoby oskarżanej przez Zielke. Trudno było podjąć trop po tym, jak nie uzyskaliśmy podstawowych danych
+* PP: My nie stosujemy embarga na pisanie o artystach - pedofilach, jak zarzuca nam Mariusz Zielke. Pisaliśmy o nich nie raz. Ale naturalnym jest, że ważniejsze jest opisywanie przypadków pedofilii w Kościele, gdzie dochodziło do systemowej ochrony sprawców
+
+Czytaj więcej na: https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty
+
+Żródło: [link](https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty)
