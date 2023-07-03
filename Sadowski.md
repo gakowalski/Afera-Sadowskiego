@@ -103,7 +103,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2022-11-08|Wywiad|Polska Mówi||Andrzej Dybowski, Iza Michalewicz|Wywiaz z Izą Michalewicz na temat jej śledztwa dziennikarskiego wobec Krzysztofa Sadowskiego|[link](https://youtu.be/z4yLfUBjkkI)
 2022-12-13 14:27|Artykuł|TVP Info||FA, MNIE|"12 grudnia zarzut popełnienia czynu z art. 200 par. 1 k.k. przedstawiony został Krzysztofowi S. Zarzut dotyczy zdarzenia z 2017 r. mającego miejsce w Puławach podczas warsztatów jazzowych organizowanych dla dzieci i młodzieży"|[link](https://www.tvp.info/65067646/krzysztof-s-muzyk-uslyszal-zarzut-pedofilii-chodzi-o-przestepstwo-z-2017-r-)
 2023-06-30 09:00|Reportaż|YouTube|Profil YT Mariusza Zielke|Mariusz Zielke| Film "Bagno"|[link](https://www.youtube.com/watch?v=fwgUAzHMQSE)
-2023-06-30 14:00|Materiał wideo|YouTube|Telewizja Republika|| Rozmowa z Mariuszem Zielke - Dokument "Bagno" o tuszowaniu pedofilii w środowisku artystycznym|[link](https://www.youtube.com/watch?v=u1RHgWDaX4E)
+2023-06-30 14:00|Materiał wideo|YouTube|Telewizja Republika||Rozmowa z Mariuszem Zielke - Dokument "Bagno" o tuszowaniu pedofilii w środowisku artystycznym|[link](https://www.youtube.com/watch?v=u1RHgWDaX4E)
+2023-06-30 14:00|Wpis|Facebook|Profil Izy Michalewicz Reportertki|Iza Michalewicz|Oficjalna wypowiedź Izy Michalewicz co do zarzutów, komentarz do filmu Bagno, fragmenty korespondencji|[link]https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
