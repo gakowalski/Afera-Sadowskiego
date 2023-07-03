@@ -125,8 +125,10 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-04-19|Zdarzenie||||Zjazd walny PSJ|
 2016-04-20|Material wideo||Jazz Of Freedom|Piotr Matla|Zjazd walny PSJ, wypowiedź Sadowskiego, Stępień liczy głosy nie tak jak trzeba|[Link](https://www.youtube.com/watch?v=iXCBbXvJ7BE)
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
-2018-06|Zdarzenie||||Ofiary Sadowskiego zgłaszają się do mec. Artura Nowaka a ten przekazuje informacje do Zielke|[link](https://twitter.com/zielkemariusz/status/1675081692095078400)
+2018-06|Zdarzenie||||Trzy ofiary Sadowskiego zgłaszają się do mec. Artura Nowaka a ten przekazuje informacje do Zielke|[link](https://twitter.com/zielkemariusz/status/1675081692095078400), [screenshot z bloga](https://www.salon24.pl/galeria/978104)
 2018-10|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|[link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
+2019-05-25 22:01|Czat online|||Rozmowa z Danielem Flisem z Oko.press, próba oddania tematu uznanemu medium|[link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
+2019-06-23 16:07|Email|||Email do Dariusza Burlińskiego z Faktu, próba oddania tematu uznanemu medium|[link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
 2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
 2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
@@ -312,3 +314,91 @@ Odnalezione dochody:
 Data | Źródło | Program | Cel | Kwota [zł] | link
 ---- | ------ | ------- | --- | ----- | ----
 2001-08-21 | Agora | | Odpłatne przeniesienie prawa z rejestracji znaku towarowego "Co jest grane" na spółkę Agora | ?? | [link](https://sip.lex.pl/orzeczenia-i-pisma-urzedowe/orzeczenia-sadow/ii-gsk-209-06-wyrok-naczelnego-sadu-administracyjnego-520415015), [link](http://docplayer.pl/18203382-Qubu-hotel-w-maju-_-iduw-i-na-piet-po-o-oltl-czy-goliat-moze-pokonac-dawida-egzemplarz-reglonal-q4-rok-wydania-x-www-cjg.html), [link](http://doczz.net/doc/19934/wup09_2002---wyszukiwarka-urz%C4%99du-patentowego)
+
+### Oskarżenia mediów o tuszowanie pedofilii
+
+Media i osoby, którym Zielke oferował podjęcie współpracy nad sprawą Sadowskiego
+
+Data | Medium | Osoba | Zarzut | link
+---- | ------ | ------- | --- | ---
+2019-08-18 | Gazeta Wyborcza | Iza Michalewicz | Zielke: Rok czekano ze śledztwem; skupiono się na urywku i tylko na dwóch ofairach; ujawniono tajemnicę śledztwa (na szkodę ofiar) | [Blog Zielke](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
+2019-08-18 | Oko.Press | Daniel Flis, pośrednio Bianka Mikołajewska | Zielke: Specjalizujący się w dziennikarstwie śledczym Oko.Press mógł tekst zrobić już w maju, ale nie podjął tematu | [Blog Zielke](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
+2019-08-18 | Fakt | Dariusz Burliński, Katarzyna Kozłowska | Zielke: mógł tekst zrobić w czerwcu, ale nie podjął tematu | [Blog Zielke](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
+2023-06-30 | Onet.pl | Bartosz Węglarczyk | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Gazeta Wyborcza | Jarosław Kurski | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Gazeta Wyborcza | Roman Imielski | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Fakty TVN | Michał Samul | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Magazyn Press | Andrzej Skworz | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Oko.Press | Piotr Pacewicz | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Newsweek Polska | Tomasz Sekielski | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+2023-06-30 | Producent filmów dokumentalnych | Marek Sekielski | | [Film Bagno](https://www.youtube.com/watch?v=fwgUAzHMQSE&t=1415s)
+
+#### Rozmowy i wypowiedzi
+
+##### Iza Michalewicz
+
+IM: Wie Pan, Ja nie moge spac przez ta sprawe od jesieni ub.roku wiec prosze I mnie zrozumiec.
+MZ: A ja myśli Pani, że mogę? "Moja" ofiara Jest zdruzgotana psychicznie, facet zniszczył Jej życie, życie Jej przyjaciołom, bo ona też wiele osób skrzywdziła (zwala na te gwałty). Ja tego nie chcę upraszczać, wiem, że to skomplikowane. Ale oglądałem te archiwa z dziećmi, mam córkę w tym wieku, nie mogłem tego tak po prostu zostawić.
+IM: Noe bede sie z Panem scigala. Po prostu uwazam, ze sa pewne zasady w tym zawodzie I granice, ktorych sie nie przekracza.
+IM: Nie mozna zostawic, ale Pan wylewa wlasnie dziecko z kapiela niestety.
+IM: Tez jestem matka, na wypadek pytan.
+
+Źródło: [Screeenshot z Messengera](https://web.archive.org/web/20191211211540/https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie,2)
+
+IM: Zarzuty wobec »Gazety Wyborczej« o to, że przez kilka miesięcy nie podjęła tematu pedofilii, są absurdalne. Wiedziałam, że wobec Krzysztofa Sadowskiego formułowane są bardzo poważne zarzuty, ale kobiety, które dotknęła ta tragedia, długo nie były gotowe na to, by sprawę w ogóle zgłosić prokuraturze, a co dopiero rozmawiać z dziennikarzem. Zajmuję się reportażem od wielu lat i dobro ofiar oraz ich ochrona są dla mnie priorytetem. I niczego nigdy nie zrobiłabym wbrew temu dobru. Tak właśnie było w tym przypadku
+
+Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+
+###### Daniel Flis, Oko.Press
+
+DF: A mógłbym go podopytywać? :-)
+MZ: Tak. On Ci może powiedzieć, ale jako anonimowe źródło, to co Ja, ale musi być anonimowe.
+MZ: On widział dowody, wie o sprawie, zna zarówno ofiary (3 ofiary zna) Jak i sprawcę.
+MZ: Niestety nie poda ci danych ofiar. Tego niestety nie może nikt zrobić.
+DF: Wiadomo
+MZ: Jedyną opcją moim zdaniem jest opowiedzenie tego wszystkiego Biance (poza moją rolą) i zaproponoanie, żebyście ogłosili w necie, że szukacie ofiar pedofila, który grasował w telewizjach TVP i Polsat w latach 90-tych. 
+DF: Możesz mnie z nim skontaktować? Oczywiście nie zdradziłbym się, że już znam nazwisko.
+
+Źródło: [Screeenshot z Messengera](https://web.archive.org/web/20191211211540/https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie,2)
+
+DF: Wiedziałem zbyt mało, więc zdecydowałem się nią nie zajmować 
+
+Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+
+##### Bianka Mikołajwska, Oko.Press
+
+BM: Zarzut, że dziennikarz Oka nie zajął się sprawą, bo nie chciał atakować człowieka z show-biznesu, jest po prostu absurdalny
+BM: Pisaliśmy nie tylko o pedofilii księży, ale także o innych przypadkach przestępstw seksualnych, na przykład o molestowaniu na uczelniach. Dla sprawców takich czynów nie może być żadnej tolerancji. Nie wiem, jakie informacje pan Zielke przekazał naszemu dziennikarzowi. Ale oczywiste jest, że gdyby Daniel zajął się sprawą, potrzebowałby na jej zbadanie wielu tygodni, może miesięcy. Takich oskarżeń nie można rzucać bez dowodów, tak jak to zrobił pan Zielke
+
+Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+
+##### Dariusz Burliński, Fakt
+
+MZ: Panie Dariuszu, polecił mi do Pana napisać Tomasz Jarosz, zanim się z nim skontaktowałem, napisałem też do Pani Kozłowskiej.
+MZ: Jestem byłym dziennikarzem, nie zajmuję się tym zawodem od lat (obecnie jestem ghostwriterem, piszę też kryminały) i stąd mam kłopot, bo przez przypadek trafił do mnie bardzo duży, ważny ale też delikatny temat, który nie powinien zostać zamieciony pod dywan. Temat dotyczy molestowania seksualnego dzieci przez znaną osobę.
+MZ: Czy moglibyśmy się spotkać, żeby o tym porozmawiać? Temat jest bardzo delikatny, bo nie chciałbym, żeby zostały skrzywdzone po raz drugi ofiary.
+MZ: Bardzo zależy mi na ochronie źródła i na ochronie osób pokrzywdzonych. Mogę przyjechać oczywiście do redakcji. Proszę o wyznaczenie dnia i godziny (jeśli to możliwe, popołudniowej, bo będę dojeżdżał do Warszawy). Temat jest nowy, zdecydowanie na jedynkę gazety i pewnie do opisywania przez kilka miesięcy. Pozdrawiam, Mariusz Zielke
+
+Źródło: [Screeenshot z Messengera](https://web.archive.org/web/20191211211540/https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie,2)
+
+> Burliński w rozmowie z "Presserwisem" przyznaje, że był umówiony na spotkanie z Zielkem na wtorek 6 sierpnia, ale ten w ostatniej chwili je odwołał.
+ 
+DB: Bezpośrednio z panem Zielkem nie prowadziłem korespondencji ani nie rozmawiałem
+
+Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+
+##### Katarzyna Kozłowska, Fakt, naczelna
+
+KK: Weryfikujemy informacje, które podaje pan Zielke, już dawno wyraziliśmy chęć umówienia się z nim na spotkanie. Sprawa jest wyjątkowo złożona i dotyczy wydarzeń sprzed wielu lat
+
+Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+
+##### Roman Imielski
+
+RI: Nie wiem, do czego miałbym się odnieść, bo nie oglądałem filmu. W 2019 r. jako chyba pierwsi napisaliśmy reportaż o sprawie, potem mieliśmy wywiad z ofiarami
+kataryna: O dziennikarce, która u Was o tym pisała też jest. Ja pamiętam materiały w różnych mediach ale zarzut jest, że zostały niejako wymuszone szantażem. Więc jestem ciekawa reakcji.
+RI: Szantaż to bzdury. Ktoś przychodzi do redakcji i twierdzi, że ma jakieś materiały, które natychmiast musimy publikować. Nawet gdyby to dotyczyło niezapłaconego mandatu, to musimy to porządnie sprawdzić. Taki tekst nie powstaje z dnia na dzień
+RI: Tu jest wyczerpująca odpowiedź autorki, wybitnej reportażystki Izy Michalewicz jeszcze z 2019 r. [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+Zielke: To są żarty. Pani Iza dostała od kogoś intymne wyznania skrzywdzonych kobiet jesienią 2018 r. i nic z tym nie robiła, bo miała zakaz od tego kogoś (nie miała oczywiście zgody ofiar też, tak jak ja nie miałem, i nigdy tego nie naruszyłem; znalazłem inną ofiarę i na tej podstawie rozpocząłem swoje prace nad tematem. Efekt ujrzeliście Państwo 4-5 sierpnia 2019 r. Mogliście mnie wesprzeć w ujawnieniu tej sprawy, a nie krzywdzić ofiary podając niepełne informacje. To pokutuje do dziś, bo do dziś niektórzy dziennikarze powtarzają bzdurę, że była 1 czy 2 ofiary. Ofiar jest 40, a pewnie tak naprawdę setki. Ale was to nie interesuje 
+
+Źródło: [Twitter](https://twitter.com/katarynaaa/status/1675855702290489344), [Twitter](https://twitter.com/zielkemariusz/status/1675894313643921409)
