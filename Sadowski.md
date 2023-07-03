@@ -124,6 +124,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-04-19|Zdarzenie||||Zjazd walny PSJ|
 2016-04-20|Material wideo||Jazz Of Freedom|Piotr Matla|Zjazd walny PSJ, wypowiedź Sadowskiego, Stępień liczy głosy nie tak jak trzeba|[Link](https://www.youtube.com/watch?v=iXCBbXvJ7BE)
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
+2018-05|Zdarzenie||||Ofiary Sadowskiego zgłaszają się do mec. Artura Nowaka a ten przekazuje informacje do Zielke|[link](https://twitter.com/zielkemariusz/status/1675081692095078400)
 2018-10|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|[link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
 2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
 2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
