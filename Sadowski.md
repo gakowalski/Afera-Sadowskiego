@@ -342,12 +342,34 @@ Data | Medium | Osoba | Zarzut | link
 * IM: Noe bede sie z Panem scigala. Po prostu uwazam, ze sa pewne zasady w tym zawodzie I granice, ktorych sie nie przekracza.
 * IM: Nie mozna zostawic, ale Pan wylewa wlasnie dziecko z kapiela niestety.
 * IM: Tez jestem matka, na wypadek pytan.
+* MZ: Być może
+* MZ: Może powinienem to zostawić. Nie wiedziałem, że ktoś jeszcze coś robi W tej sprawie
+* MZ: ja się z nikim nie ścigałem, przepraszam, jeśli tak to jest odbierane.
+* IM: Alez nie jest, prosze nnie zle nie zrozumiec. Pan ma pewnie info z innych zrodel niz Ja
 
-Źródło: [Screeenshot z Messengera](https://web.archive.org/web/20191211211540/https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie,2)
+Źródło:
+1) [Screeenshot z Messengera](https://web.archive.org/web/20191211211540/https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie,2)
+2) [screenshot od Izy Michalewicz](https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl?comment_id=1630109894166809)
 
 * IM: Zarzuty wobec »Gazety Wyborczej« o to, że przez kilka miesięcy nie podjęła tematu pedofilii, są absurdalne. Wiedziałam, że wobec Krzysztofa Sadowskiego formułowane są bardzo poważne zarzuty, ale kobiety, które dotknęła ta tragedia, długo nie były gotowe na to, by sprawę w ogóle zgłosić prokuraturze, a co dopiero rozmawiać z dziennikarzem. Zajmuję się reportażem od wielu lat i dobro ofiar oraz ich ochrona są dla mnie priorytetem. I niczego nigdy nie zrobiłabym wbrew temu dobru. Tak właśnie było w tym przypadku
 
 Źródło: [link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
+
+* MZ / 2019-08-05 15:55: Pani Izo, czy mogłaby Pani przekazać prośbę ofiarom, żeby się ze mną skontaktowały. Jeśli nie chcą publicznie rozmawiać, zapewnię anonimowość, możemy tylko pisać do siebie mailem, nawet z fikcyjnych kont. Próbuję rzetelnie to zbadać
+* IM / 2019-08-05 16:46: Przykro mi, ale nie moge.
+* IM: Zadna z nich nie porozmawia o tyn z mezczyzna, zwlaszcza dzoennikarzem; jedna leczy sie od lat psychiatrycznie.
+* IM: Mam caly ten material i opublikuje go w odpowiednim momencie. Ale nigdy z naruszeniem zgody ofiar. Ich anonimowosc owszem, ale muzyk ma rodzine w tym bardzo znana corke. A ona ma dwoje malutkich dzieci.
+* IM: Byloby szalenstwem i niegodziwoscia naruszac jej godnosc [w tak] szokująco nagly sposob.
+
+Źródło: [link](https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl?comment_id=663433888555398)
+
+* MZ: Mam duże wątpliwości co do fragmentów tekstu (nie chodzi, że są złe), ale mogą być potraktowane jako ujawnienie tajemnicy śledztwa, choć ani ja, ani Pani nie mamy prawdopodobnie dostępu do akt.
+* MZ: Może mi Pani podać adres mailowy do Sadowskiego?
+* IM 2019-08-18 06:16: Prosze Pana, wszystko czytali prawnicy. Tak, jak Panu mowilam: najpierw rozmawia sie z ofiarami a potem wyciaga oskadzenia. To Pan zrobil odwrotnie. W mojej etyce zawodowej, jak Panu juz wczesniej pisalam, takie rzeczy nie mieszcza sie w glowie.
+* IM: Mimo tego prosze sie nie uwazac za mojego wroga.
+* IM: I nie podam Panu adresu do Sadowskiego. Bylam pewna, ze kontaktowal sie Pan z nim wczesniej, zanim wysunal Pan wobęg niego zarzuty.
+
+Źródło: [link[(https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl?comment_id=832646654452580)
 
 #### Daniel Flis, Oko.Press
 
