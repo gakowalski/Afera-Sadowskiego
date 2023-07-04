@@ -53,6 +53,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-08-19 11:46|Artykuł|naTemat.pl||Daria Różańska|Artykuł na bazie reportazu Izy Michalewicz|[Link](https://natemat.pl/281941,reportaz-df-sadowski-molestowal-dziewczyny-z-zespolu-tecza-rozmowy)
 2019-08-19 19:55|Artykuł|Polityka|Społeczeństwo|Dominika Buczak|Polityka informuje o sprawie Sadowskiego, 20 ofiar|[link](https://www.polityka.pl/tygodnikpolityka/spoleczenstwo/1919220,1,znany-jazzman-mial-molestowac-dzieci-otoczenie-wiedzialo-nie-reagowalo.read)
 2019-08-20|Materiał wideo|YouTube|Wywiad|Radio Iława|Wywiad z Mariuszem Zielke (*Największa afera pedofilska w Polsce w cieniu Złotej Tarki? Zielke kontra Sadowski*)|[Link](https://www.youtube.com/watch?v=lER-4duAIu4)
+2019-08-20|Artykuł|Wirtualne Media|Prasa|jk|*Zielke zarzuca „Gazecie Wyborczej” i OKO.press zwłokę w opisywaniu sprawy Sadowskiego. Dziennikarze odpowiadają: weryfikowaliśmy fakty*|[link](https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty)
 2019-08-20 06:58|Artykuł|Press|Prasa|Jacek Stawiany|Wypowiedzi przedstawicieli mediów oskarżanych o tuszowanie pedofilii|[link](https://www.press.pl/tresc/58218,mariusz-zielke-oskarza-media-o-ukrywanie-sprawy-pedofilii-krzysztofa-sadowskiego)
 2019-08-20 18:20|Artykuł|wPolityce.pl||Marek Pyza|Krytyka reportażu Izy Michalewicz z 2019-08-19|[Link](https://wpolityce.pl/media/460136-jak-media-pomagaly-i-pomagaja-pedofilowi-z-show-biznesu)
 2019-08-20 22:01|Artykuł|Wirtualna Polska|WP Wiadomości|Magda Mieśnik|Ponad 20 ofiar|[Link](https://wiadomosci.wp.pl/ponad-20-ofiar-muzyka-krzysztofa-sadowskiego-chca-isc-do-prokuratury-6415587921548929a)
@@ -104,7 +105,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2022-12-13 14:27|Artykuł|TVP Info||FA, MNIE|"12 grudnia zarzut popełnienia czynu z art. 200 par. 1 k.k. przedstawiony został Krzysztofowi S. Zarzut dotyczy zdarzenia z 2017 r. mającego miejsce w Puławach podczas warsztatów jazzowych organizowanych dla dzieci i młodzieży"|[link](https://www.tvp.info/65067646/krzysztof-s-muzyk-uslyszal-zarzut-pedofilii-chodzi-o-przestepstwo-z-2017-r-)
 2023-06-30 09:00|Reportaż|YouTube|Profil YT Mariusza Zielke|Mariusz Zielke| Film "Bagno"|[link](https://www.youtube.com/watch?v=fwgUAzHMQSE)
 2023-06-30 14:00|Materiał wideo|YouTube|Telewizja Republika||Rozmowa z Mariuszem Zielke - Dokument "Bagno" o tuszowaniu pedofilii w środowisku artystycznym|[link](https://www.youtube.com/watch?v=u1RHgWDaX4E)
-2023-06-30 14:00|Wpis|Facebook|Profil Izy Michalewicz Reportertki|Iza Michalewicz|Oficjalna wypowiedź Izy Michalewicz co do zarzutów, komentarz do filmu Bagno, fragmenty korespondencji|[link]https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl
+2023-06-30 14:00|Wpis|Facebook|Profil Izy Michalewicz Reportertki|Iza Michalewicz|Oficjalna wypowiedź Izy Michalewicz co do zarzutów, komentarz do filmu Bagno, fragmenty korespondencji|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
@@ -128,8 +129,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2016-08-05|Wpis do KRS|Krajowy Rejestr Sądowy|Rejestr Przedsiębiorców||Krzysztof Sadowski ustępuje ze stanowiska prezesa PSJ|
 2018-06|Zdarzenie||||Trzy ofiary Sadowskiego zgłaszają się do mec. Artura Nowaka a ten przekazuje informacje do Zielke|[link](https://twitter.com/zielkemariusz/status/1675081692095078400), [screenshot z bloga](https://www.salon24.pl/galeria/978104)
 2018-10|Zdarzenie||||Zgłoszenie do prokuratury sprawy zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|[link](https://audycje.tokfm.pl/podcast/79875,Molestowanie-w-zespole-Tecza-Ofiary-przerwaly-milczenie-rozmowa-z-autorka-reportazu)
-2019-05-25 22:01|Czat online|||Rozmowa z Danielem Flisem z Oko.press, próba oddania tematu uznanemu medium|[link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
-2019-06-23 16:07|Email|||Email do Dariusza Burlińskiego z Faktu, próba oddania tematu uznanemu medium|[link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
+2019-05-25 22:01|Czat online||||Rozmowa z Danielem Flisem z Oko.press, próba oddania tematu uznanemu medium|[link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
+2019-06-23 16:07|Email||||Email do Dariusza Burlińskiego z Faktu, próba oddania tematu uznanemu medium|[link](https://www.salon24.pl/u/zielke/978104,media-probowaly-kryc-pedofilie-w-show-biznesie)
 2019-02|Zdarzenie||||Prokuratura wszczyna postępowanie w sprawie zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w.|
 2019-08-21|Zdarzenie||||Sprawę zgwałcenia przez Sadowskiego dwóch dziewczynek w latach 90. XX w. przejmuje prokuratura okręgowa.|
 2019-09-09|Zdarzenie||||Zmiana prezesa Fundacji Jazz Jamboree (Wojechowska -> Łabanowski, mąż Marii Sadowskiej)|
@@ -434,7 +435,5 @@ Data | Medium | Osoba | Zarzut | link
 
 * PP: To, co pisze pan Zielke, to dziwaczne stanowisko. Abstrahując nawet od tego, że zamieszcza screeny prywatnych rozmów. Przecież wiadomo, że nie możemy w materiale opierać się na niepotwierdzonych informacjach, cytatach z anonimowych źródeł. Ze screenów zamieszczonych w tekście jasno wynika, że była próba kontaktu ze strony naszego dziennikarza, ale urywa się on po tym, jak Daniel Flis prosi o nazwisko osoby oskarżanej przez Zielke. Trudno było podjąć trop po tym, jak nie uzyskaliśmy podstawowych danych
 * PP: My nie stosujemy embarga na pisanie o artystach - pedofilach, jak zarzuca nam Mariusz Zielke. Pisaliśmy o nich nie raz. Ale naturalnym jest, że ważniejsze jest opisywanie przypadków pedofilii w Kościele, gdzie dochodziło do systemowej ochrony sprawców
-
-Czytaj więcej na: https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty
 
 Żródło: [link](https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty)
