@@ -106,6 +106,10 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-06-30 09:00|Reportaż|YouTube|Profil YT Mariusza Zielke|Mariusz Zielke| Film "Bagno"|[link](https://www.youtube.com/watch?v=fwgUAzHMQSE)
 2023-06-30 14:00|Materiał wideo|YouTube|Telewizja Republika||Rozmowa z Mariuszem Zielke - Dokument "Bagno" o tuszowaniu pedofilii w środowisku artystycznym|[link](https://www.youtube.com/watch?v=u1RHgWDaX4E)
 2023-06-30 14:00|Wpis|Facebook|Profil Izy Michalewicz Reportertki|Iza Michalewicz|Oficjalna wypowiedź Izy Michalewicz co do zarzutów, komentarz do filmu Bagno, fragmenty korespondencji|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl)
+2023-07-04 14:30|Artykuł|Magazyn Press|Internet|Mariusz Kowalczyk|*Mariusz Zielke w filmie „Bagno” oskarża media o ukrywanie pedofilii. „To jakaś nagonka”*|[link]https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---
+![image](https://github.com/gakowalski/Afera-Sadowskiego/assets/1021798/88f74a13-3f10-4912-8020-d4ad6f974886)
+
+
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
@@ -339,6 +343,17 @@ Data | Medium | Osoba | Zarzut | link
 
 #### Iza Michalewicz
 
+* IM: Prosze robic swoje tak, jak Pan uwaza, | mna sie nie przejmowac
+* IM 2019-08-07 13:04: Panie Mariuszu od wczoraj widze, co sie dzieje, ale to juz zaszlo za daleko. Myslalam, ze skonczy sie na blokadzie fanpejdzu na fb, ale czytam, ze nie.
+* IM: Bardzo Pana wspieram.
+* IM: Prosze nie odpuszczac.
+* MZ 2019-08-07 13:28: Dziękuję, ta sprawa sięga za daleko, żeby ją odpuścić. No i ofiary Jednak chca, żeby o tym mówić. To Jest ważne. Ważne żeby jednak było wszystko Jasno powiedziane, kim był ten człowiek.
+* MZ: Miałem też duże wątpliwości, ale "moja" ofiara została przez tego faceta doszczętnie zniszczona. Nie moce tego tak zostawić
+* IM: Moje ofiary tez.
+* IM: O co cho z ta promuratura???
+
+ Źródło: [Screenshot z Messengera](https://www.facebook.com/mariusz.zielke/posts/pfbid02uTt5iMfQs2VDpkmruKREFRYms7X6YL5F4UMQJNxxamco2pwS8tzMdacKnS5fSYhQl)
+
 * IM: Wie Pan, Ja nie moge spac przez ta sprawe od jesieni ub.roku wiec prosze I mnie zrozumiec.
 * MZ: A ja myśli Pani, że mogę? "Moja" ofiara Jest zdruzgotana psychicznie, facet zniszczył Jej życie, życie Jej przyjaciołom, bo ona też wiele osób skrzywdziła (zwala na te gwałty). Ja tego nie chcę upraszczać, wiem, że to skomplikowane. Ale oglądałem te archiwa z dziećmi, mam córkę w tym wieku, nie mogłem tego tak po prostu zostawić.
 * IM: Noe bede sie z Panem scigala. Po prostu uwazam, ze sa pewne zasady w tym zawodzie I granice, ktorych sie nie przekracza.
@@ -431,9 +446,51 @@ Data | Medium | Osoba | Zarzut | link
 
 Źródło: [Twitter](https://twitter.com/katarynaaa/status/1675855702290489344), [Twitter](https://twitter.com/zielkemariusz/status/1675894313643921409)
 
-##### Piotr Pacewicz
+#### Piotr Pacewicz
 
 * PP: To, co pisze pan Zielke, to dziwaczne stanowisko. Abstrahując nawet od tego, że zamieszcza screeny prywatnych rozmów. Przecież wiadomo, że nie możemy w materiale opierać się na niepotwierdzonych informacjach, cytatach z anonimowych źródeł. Ze screenów zamieszczonych w tekście jasno wynika, że była próba kontaktu ze strony naszego dziennikarza, ale urywa się on po tym, jak Daniel Flis prosi o nazwisko osoby oskarżanej przez Zielke. Trudno było podjąć trop po tym, jak nie uzyskaliśmy podstawowych danych
 * PP: My nie stosujemy embarga na pisanie o artystach - pedofilach, jak zarzuca nam Mariusz Zielke. Pisaliśmy o nich nie raz. Ale naturalnym jest, że ważniejsze jest opisywanie przypadków pedofilii w Kościele, gdzie dochodziło do systemowej ochrony sprawców
 
 Żródło: [link](https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty)
+
+2019:
+
+* PP: To, co robi Mariusz Zielke, nosi znamiona obsesji
+* PP: Opisywaliśmy wiele przypadków pedofilii, nie tylko w Kościele, ale też w innych środowiskach, np. w teatrze, wśród nauczycieli.
+
+Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+#### Bartosz Węglarczyk
+
+2019:
+
+* BW: Myślałem, że Mariusz Zielke zadzwonił do mnie, żeby porozmawiać, czy możemy się spotkać na nagranie na potrzeby filmu. A ja ostatnio unikam spotkań, bo kalendarz mam tak wypełniony, że nie mam na nie czasu. Ale rozmawiałem z nim, a potem się okazało, że ta rozmowa została wykorzystana w filmie.
+
+* BW: To są absurdalne pretensje, bo opublikowaliśmy mnóstwo tekstów na ten temat. Natomiast odnoszę wrażenie, że film pana Zielke jest głównie o nim samym
+
+Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+#### Jarosław Kurski
+
+2019:
+
+* JK: Zadzwonił człowiek, którego nie znam. Przedstawił się jako Mariusz Zielke. Mówił coś o muzyku Krzysztofie S., o którym nigdy nie słyszałem i którego nie znam. Zielke nagrał mnie bez mojej zgody i wiedzy
+
+Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+#### Michał Samul
+
+2019:
+
+* MS: Zarówno TVN, TVN 24, jak i TVN24.pl informowały o sprawie Krzysztofa S. Zarzut, że ta historia została przez nas pominięta, jest nieprawdziwy. Powstało na ten temat co najmniej kilka materiałów. Redakcja TVN 24 na pewno będzie wracać do sprawy Krzysztofa S., jeśli będą nowe ustalenia
+
+Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+## FAQ
+
+2019:
+
+Magzyn Press: Dlaczego w filmie nie ma szefów redakcji mediów rządowych, w tym TVP, czy mediów sprzyjających władzy?
+Mariusz Zielke: Nie mogę im stawiać żadnego zarzutu, bo dzwonili do mnie z TVP, czy nie chciałbym się z nimi spotkać. Od razu się spotkałem. Zaproponowali mi budżet na film, zapraszali do programów, ale odmawiałem. Powiedziałem im, że nie chcę, żeby ta sprawa była wykorzystana w celach politycznych
+
+Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
