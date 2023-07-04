@@ -106,6 +106,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-06-30 09:00|Reportaż|YouTube|Profil YT Mariusza Zielke|Mariusz Zielke| Film "Bagno"|[link](https://www.youtube.com/watch?v=fwgUAzHMQSE)
 2023-06-30 14:00|Materiał wideo|YouTube|Telewizja Republika||Rozmowa z Mariuszem Zielke - Dokument "Bagno" o tuszowaniu pedofilii w środowisku artystycznym|[link](https://www.youtube.com/watch?v=u1RHgWDaX4E)
 2023-06-30 14:00|Wpis|Facebook|Profil Izy Michalewicz Reportertki|Iza Michalewicz|Oficjalna wypowiedź Izy Michalewicz co do zarzutów, komentarz do filmu Bagno, fragmenty korespondencji|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl)
+2023-07-02 |Artykuł|Salon24|Blog Mariusza Zielkego|Mariusz Zielke|*Bagno – pedofilia elit ma do końca świata pozostać nieodkryta*|[link](https://www.salon24.pl/u/zielke/1311140,bagno-pedofilia-elit-ma-do-konca-swiata-pozostac-nieodkryta)
 2023-07-04 12:45|Wywiad|YouTube|wPolsce.pl|Jakub Maciejewski|*Co Mariusz Zielke odkrył w filmie o pedofilii?*|[link](https://www.youtube.com/watch?v=bAQGYy7H34I)
 2023-07-04 14:30|Artykuł|Magazyn Press|Internet|Mariusz Kowalczyk|*Mariusz Zielke w filmie „Bagno” oskarża media o ukrywanie pedofilii. „To jakaś nagonka”*|[link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
 
