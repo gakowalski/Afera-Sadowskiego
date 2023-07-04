@@ -451,7 +451,7 @@ Data | Medium | Osoba | Zarzut | link
 
 Żródło: [link](https://www.wirtualnemedia.pl/artykul/zielke-zarzuca-gazecie-wyborczej-i-oko-press-zwloke-w-opisywaniu-sprawy-sadowskiego-dziennikarze-odpowiadaja-weryfikowalismy-fakty)
 
-2019:
+2023:
 
 * PP: To, co robi Mariusz Zielke, nosi znamiona obsesji
 * PP: Opisywaliśmy wiele przypadków pedofilii, nie tylko w Kościele, ale też w innych środowiskach, np. w teatrze, wśród nauczycieli.
@@ -460,7 +460,7 @@ Data | Medium | Osoba | Zarzut | link
 
 #### Bartosz Węglarczyk
 
-2019:
+2023:
 
 * BW: Myślałem, że Mariusz Zielke zadzwonił do mnie, żeby porozmawiać, czy możemy się spotkać na nagranie na potrzeby filmu. A ja ostatnio unikam spotkań, bo kalendarz mam tak wypełniony, że nie mam na nie czasu. Ale rozmawiałem z nim, a potem się okazało, że ta rozmowa została wykorzystana w filmie.
 
@@ -470,7 +470,7 @@ Data | Medium | Osoba | Zarzut | link
 
 #### Jarosław Kurski
 
-2019:
+2023:
 
 * JK: Zadzwonił człowiek, którego nie znam. Przedstawił się jako Mariusz Zielke. Mówił coś o muzyku Krzysztofie S., o którym nigdy nie słyszałem i którego nie znam. Zielke nagrał mnie bez mojej zgody i wiedzy
 
@@ -478,7 +478,7 @@ Data | Medium | Osoba | Zarzut | link
 
 #### Michał Samul
 
-2019:
+2023:
 
 * MS: Zarówno TVN, TVN 24, jak i TVN24.pl informowały o sprawie Krzysztofa S. Zarzut, że ta historia została przez nas pominięta, jest nieprawdziwy. Powstało na ten temat co najmniej kilka materiałów. Redakcja TVN 24 na pewno będzie wracać do sprawy Krzysztofa S., jeśli będą nowe ustalenia
 
@@ -486,7 +486,7 @@ Data | Medium | Osoba | Zarzut | link
 
 ## FAQ
 
-2019:
+2023:
 
 * Magzyn Press: Dlaczego w filmie nie ma szefów redakcji mediów rządowych, w tym TVP, czy mediów sprzyjających władzy?
 * Mariusz Zielke: Nie mogę im stawiać żadnego zarzutu, bo dzwonili do mnie z TVP, czy nie chciałbym się z nimi spotkać. Od razu się spotkałem. Zaproponowali mi budżet na film, zapraszali do programów, ale odmawiałem. Powiedziałem im, że nie chcę, żeby ta sprawa była wykorzystana w celach politycznych
