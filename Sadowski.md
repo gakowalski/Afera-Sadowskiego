@@ -111,6 +111,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-04 14:30|Artykuł|Magazyn Press|Internet|Mariusz Kowalczyk|*Mariusz Zielke w filmie „Bagno” oskarża media o ukrywanie pedofilii. „To jakaś nagonka”*|[link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
 2023-07-05 08:15|Wywiad|Radio Poznań|Kluczowy Temat|Łukasz Kaźmierczak|Rozmowa z Mariuszem Zielke, wspomnienie o opracowaniu 6 innych spraw związanych z pedofilią|[link](https://radiopoznan.fm/audycja/kluczowy-temat/kluczowy-temat-mariusz-zielke-5-07-2023)
 2023-07-05 09:31|Wywiad|Radio Wnet.fm||Magdalena Uchaniuk|*Mariusz Zielke: Moim głównym celem jest pomoc ofiarom pedofilii*, "Artur Nowak zrobił wszystko żeby zatuszować sprawę pedofilii Krzysztofa S. Mam na to żelazne dowody. Wygram z nim każdą sprawę i doprowadzę do tego, że już nie będzie adwokatem", zapowiedź wyjaśnienia sprawy Zanussiego|[link](https://wnet.fm/2023/07/05/mariusz-zielke-moim-glownym-celem-jest-pomoc-ofiarom-pedofilii/)
+2023-07-05 19:17|Wywiad|i.pl|Wiadomości / Kraj|Joanna Grabarczyk|*Sekielski okazał się być draniem, a inni redaktorzy naczelni zachowywali się jak ostatni buce*; mowa o materiałach na kolejne publikacje; o poświęceniu bliskich znajomości|[link](https://i.pl/mariusz-zielke-sekielski-okazal-sie-byc-draniem-a-inni-redaktorzy-naczelni-zachowywali-sie-jak-ostatni-buce/ar/c1-17695485)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
@@ -505,6 +506,18 @@ Data | Medium | Osoba | Zarzut | link
 * Mariusz Zielke: Nie mogę im stawiać żadnego zarzutu, bo dzwonili do mnie z TVP, czy nie chciałbym się z nimi spotkać. Od razu się spotkałem. Zaproponowali mi budżet na film, zapraszali do programów, ale odmawiałem. Powiedziałem im, że nie chcę, żeby ta sprawa była wykorzystana w celach politycznych
 
 Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+* i.pl: O czym według Pana świadczy fakt, że to akurat TVP zgłosiło się do Pana z propozycją sfinansowania Pana filmu i ukazania owoców Pana dochodzenia na swoich antenach?
+* Mariusz Zielke: Byłem zaskoczony, że Telewizja Polska tak zareagowała. Równocześnie byłem też przestraszony. Bałem się, że ktoś będzie chciał wykorzystać ten temat politycznie i opowiedzieć tę historię w sposób zmanipulowany, dlatego nie przystałem na propozycję TVP. Może to był błąd? Może okazałoby się, że zrobilibyśmy razem dużo lepszy film niż kiedy zrobiłem go sam?
+* Mariusz Zielke: TVP zachowało się niemal wzorowo w sprawie tematu pedofilii poza Kościołem. W pełni wzorowo byłoby, gdyby powołali u siebie komisję, żeby zbadać sprawę krzywd, których Krzysztof S. dopuścił się wobec ofiar, dzięki jego pracy i pozycji w TVP. Powiedziałem, że kiedy to zrobią, będziemy mogli rozmawiać o zrobieniu razem filmu. Ale TVP tej komisji nie powołało. Dlatego nasze rozmowy się skończyły. Dlatego nie mogę mieć do nich pretensji, że na ich antenach cicho było o sprawie, bo oni jednak ciągle do mnie dzwonili, proponowali współpracę, zapraszali mnie do programów… To ja odmawiałem i nie chciałem przy ich pomocy kontynuować tego tematu.
+
+Źródło: [link](https://i.pl/mariusz-zielke-sekielski-okazal-sie-byc-draniem-a-inni-redaktorzy-naczelni-zachowywali-sie-jak-ostatni-buce/ar/c1-17695485)
+
+#### Media opozycje
+
+* Mariusz Zielke: Zastrzegam: TVN-owi też bym nie oddał tego tematu. Nie chciałem, żeby ktokolwiek miał możliwość manipulowania tym materiałem. Chciałem, żeby dano mi wolną rękę, jeśli chodzi o działania, bym mógł być gwarantem bezpieczeństwa ofiar. Wśród ofiar Krzysztofa S. są bardzo znane osoby. Zagwarantowałem im słowem honoru, że ich nazwiska nigdy nie pojawią się w mediach w kontekście bycia ofiarami pedofila. Dotrzymałem słowa. Nie pojawiły się. A gdybym nad tymi materiałami współpracował z jakąś telewizją, obawiam się, że zwyciężyłaby jednak pogoń za sensacją i takie wrażliwe dane mogłyby gdzieś wyciec.
+
+Źródło: [link](https://i.pl/mariusz-zielke-sekielski-okazal-sie-byc-draniem-a-inni-redaktorzy-naczelni-zachowywali-sie-jak-ostatni-buce/ar/c1-17695485)
 
 #### Zanussi
 
