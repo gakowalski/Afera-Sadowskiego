@@ -2,7 +2,7 @@
 
 Aby dopisać coś do tabel poniżej można edytować [ten plik](https://github.com/gakowalski/Afera-Sadowskiego/blob/master/Sadowski.md) w serwisie GitHub lub się ze mną [skontaktować](https://www.grzegorzkowalski.pl/).
 
-## Publikacje i wydarzenia związane z oskarżeniami o molestowanie w 2019 roku
+## Publikacje i wydarzenia związane z oskarżeniami o molestowanie postawionymi w 2019 roku
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
@@ -112,7 +112,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-05 08:15|Wywiad|Radio Poznań|Kluczowy Temat|Łukasz Kaźmierczak|Rozmowa z Mariuszem Zielke, wspomnienie o opracowaniu 6 innych spraw związanych z pedofilią|[link](https://radiopoznan.fm/audycja/kluczowy-temat/kluczowy-temat-mariusz-zielke-5-07-2023)
 2023-07-05 09:31|Wywiad|Radio Wnet.fm|||*Mariusz Zielke: Moim głównym celem jest pomoc ofiarom pedofilii*, "Artur Nowak zrobił wszystko żeby zatuszować sprawę pedofilii Krzysztofa S. Mam na to żelazne dowody. Wygram z nim każdą sprawę i doprowadzę do tego, że już nie będzie adwokatem"|[link](https://wnet.fm/2023/07/05/mariusz-zielke-moim-glownym-celem-jest-pomoc-ofiarom-pedofilii/)
 
-## Zdarzenia będące tłem do afery z 2019 roku
+## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
 Data|Typ|Medium|Program|Autor|Uwagi|Link
 ----|---|------|-------|-----|-----|----
