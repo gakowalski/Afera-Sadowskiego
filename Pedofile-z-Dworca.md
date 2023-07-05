@@ -142,6 +142,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2003-12-08|Artykuł|Życie Warszawy|||Bracia Marcin i Marian z Żoliborza handlowali filmami z dziecięcą pornografią.|[link](http://www.zw.com.pl/artykul/164963.html)
 2004-06-24|Artykuł|Wirtualnemedia.pl|Prasa||Dziennikarz Jarosław G. podjerzany o pedofilię|[link](https://www.wirtualnemedia.pl/artykul/dziennikarz-podejrzany-o-pedofilie)
 2004-07-25|Artykuł|Życie Warszawy|||Dzięki pierwotnym zeznaniom trójki chłopców "udało się namierzyć blisko 30 pedofilów, jednak tylko 20 postawiono zarzuty"|[link](http://www.zw.com.pl/artykul/153661.html)
+2004-07-26|Artykuł|TVN Uwaga|||Znany psycholog rodzinny Andrzej S., podejrzany o pedofilię, widywany był na Dworcu Centralnym. Rozpoznał go ze zdjęcia młody chłopak, który prostytuuje się na dworcu.|[link](https://uwaga.tvn.pl/reportaze/psycholog-zaczepial-chlopcow-na-centralnym-ls6687668)
 2005|Artykuł|Czas Ostrzeszowski|Numer 22|Krzysztof Juszczak|O Mikołaju S.|[link](http://www.czasostrzeszowski.pl/2005/-dzial=gazeta&rok=2005&numer=22&publikacja=1.htm)
 2005-04-24|Artykuł|Wprost||Tomasz Krzyżak, Pawel Rusak|Wprost i Polsat szukają pedofilów w Internecie w ramach akcji "O jednego mniej"|[link](https://www.wprost.pl/tygodnik/75659/Pulapka-na-zboczencow.html)
 2005-05-06|Artykuł|Gazeta Wyborcza|Gazeta Telewizyjna|Alex Kłoś|Wywiad z Sylwestrem Latkowskim|[link](http://latkowski.com/filmy/pedofile)
