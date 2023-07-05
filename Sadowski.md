@@ -180,7 +180,7 @@ Data | Autor | Uwagi | Link
 * [Maria Magdalena Sadowska](https://pl.wikipedia.org/wiki/Maria_Sadowska), córka Krzysztofa i Lili,
 * [Krzysztof Andrzej Karpiński](https://pl.wikipedia.org/wiki/Krzysztof_Karpi%C5%84ski), sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
 * [Jerzy Adam Stępień](https://pl.wikipedia.org/wiki/Jerzy_St%C4%99pie%C5%84), były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
-* Martyna Magdalena Wojciechowska, była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), siostra Darii
+* [Martyna Magdalena Wojciechowska](https://pl.wikipedia.org/wiki/Martyna_Wojciechowska-Tsobekhia), była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), siostra Darii
 * Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
 * Adrian Łabanowski, mąż Marii Sadowskiej, obecne prezes Fundacji Jazz Jamboree
 * [Artur Nowak](https://pl.wikipedia.org/wiki/Artur_Nowak_(ur._1974)), adwokat, w młodości ofaira pedofilii, w praktyce adwokackiej wielokrotnie reprezentował pedofilów; miał przekzać pierwsze informacje o ofiarach Sadowskiego do Zielke
@@ -244,6 +244,14 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 ## Aspekty prawne i finansowe podmiotów z którymi związany był lub jest Krzysztof Sadowski
 
 ### Dotacje i inne dochody Fundacji Jazz Jamboree
+
+Informacje o fundacji:
+
+Typ informacji | Treść
+--- | ---
+KRS | 0000056811
+REGON | 01631486100000
+NIP | 5252176787
 
  Data | Źródło | Program | Cel | Kwota [zł] | link
 ---- | ------ | ------- | --- | ----- | ----
