@@ -64,6 +64,10 @@ W 1999 roku Andrzej Samson wydał powieść o wybitnym psychoterapeucie, który 
 
 Treść książki zastanawia w zestawieniu z tym, co media pisały o Samsonie w takcie afery z nim związanej. Pisano o nim jako o wybitnym terapeucie a aresztowany Samson tłumaczył się, że opracowywał eksperymentalną terapię leczenia dzieci autystycznych. W areszcie tymczasowym spędził 4 lata. W mediach opublikowano [list rodzica](https://wiadomosci.wp.pl/kim-byl-andrzej-samson-6036221769867905a) dziecka, które uczęszczało na terapię do Samsona, którego zapisy sugerują, że stosowana była "metoda szklanych kulek".
 
+## Powiazania z aferą Dworca Centralnego
+
+Media wskazywały na istnienie powiązania pomiędzy osobą zamieszaną w aferę a Andrzejem Samsonem oraz co najmniej jedna osoba twierdziła, że widywała go wśród ludzi korzystających z usług seksualnych młodych chłopców z Dworca. [link](Pedofile-z-Dworca.md).
+
 ## Inne informacje
 
 * Rzekomo miał opiniować w "sprawie dyrygenta poznańskiego chóru" [link](http://wyborcza.pl/1,76842,2173555.html)
