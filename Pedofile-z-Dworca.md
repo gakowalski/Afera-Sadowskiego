@@ -120,6 +120,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2002-09-12 00:00|Artyuł|Gazeta Wyborzcza||pm|Policja zatrzymała pięciu pedofilów|[link](https://warszawa.wyborcza.pl/warszawa/1,54420,1013823.html)
 2002-09-12 00:46|Artykuł|Życie Warszawy|||Policja rozbija szajkę pedofilów z Dworca Centralnego|[link](http://zw.com.pl/artykul/152872.html)
 2002-09-13|Wydarzenie||||Prokuratura Okręgowa w Warszawie wszczęła śledztwo w sprawie dotyczącej utrzymywania kontaktów seksualnych z osobami małoletnimi|[link](http://orka.sejm.gov.pl/Biuletyn.nsf/0/895414D83D3176ADC1256D11004BC98A?OpenDocument)
+2002-10-05|Artykuł|Polityka|Kraj|Barbara Pietkiewicz|Reportaż ogólnie omawiający prostytucję dziecięcą na Dworcu Centralnym jako tło ostatnich aresztowań|[link](https://www.polityka.pl/tygodnikpolityka/klasykipolityki/1807502,1,mlodszy-przedmiot-po-zadania.read)
 2002-10-06|Artykuł|Wprost||Piotr Kudzia, Mirosław Majeran|Europejska siatka pedofilska działająca w Polsce|[link](https://www.wprost.pl/tygodnik/14078/Mordercy-dzieci.html)
 2002-10-13|Artykuł|Wprost||Piotr Kudzia, Grzegorz Pawelczyk, Mirosław Majeran|"Łódzka odnoga osmiornicy"|[link](https://www.wprost.pl/tygodnik/14136/Pedofile-w-bialych-kolnierzykach.html)
 2002-11-03|Artykuł|Wprost||Piotr Kudzia, Grzegorz Pawelczyk|Kolejny aresztowany z "ośmiornicy"; w Belgii i Francji trwają śledztwa w sprawie siatki pedofilów zdemaskowanej przez reporterów "Wprost" i Polsatu|[link](https://www.wprost.pl/tygodnik/31102/Oblawa-na-pedofilow.html)
