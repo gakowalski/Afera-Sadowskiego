@@ -489,9 +489,18 @@ Data | Medium | Osoba | Zarzut | link
 
 ## FAQ
 
-2023:
+### 2023
+
+#### TVP i media rządowe
 
 * Magzyn Press: Dlaczego w filmie nie ma szefów redakcji mediów rządowych, w tym TVP, czy mediów sprzyjających władzy?
 * Mariusz Zielke: Nie mogę im stawiać żadnego zarzutu, bo dzwonili do mnie z TVP, czy nie chciałbym się z nimi spotkać. Od razu się spotkałem. Zaproponowali mi budżet na film, zapraszali do programów, ale odmawiałem. Powiedziałem im, że nie chcę, żeby ta sprawa była wykorzystana w celach politycznych
 
 Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+#### Zanussi
+
+* Wnet.fm, Magdalena Uchaniuk: Pojawia się nazwisko znanego reżysera (...)
+* MZ: - Pada to nazwisko w moim filmie, ale ja chcę zaskoczyć widzów i czytelników wyjaśnieniem tej sprawy, bo ja tę sprawę zamierzam wyjaśnić ostatecznie. Natomiast wyjaśnienie może być ogromnie zaskakujące. (...) Specjalnie pozwoliłem na to, żeby w tym filmie to nazwisko padło ze strony innego redaktora naczelnego dlatego że wszędzie w naszym środowisku rozpuszcza się plotki o tym człowieku przecież bardzo wybitnym reżyserze, wybitnym intelektualiście (...) Oni mówią, że ta sprawa do końca świata pozostanie nieodkryta. No to ja pokażę, że jednak można tę sprawę odkryć, można ją wyjaśnić, można ją zrobić dobrze.
+
+Źródło: [link](https://wnet.fm/2023/07/05/mariusz-zielke-moim-glownym-celem-jest-pomoc-ofiarom-pedofilii)
