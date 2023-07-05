@@ -109,6 +109,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-02 |Artykuł|Salon24|Blog Mariusza Zielkego|Mariusz Zielke|*Bagno – pedofilia elit ma do końca świata pozostać nieodkryta*|[link](https://www.salon24.pl/u/zielke/1311140,bagno-pedofilia-elit-ma-do-konca-swiata-pozostac-nieodkryta)
 2023-07-04 12:45|Wywiad|YouTube|wPolsce.pl|Jakub Maciejewski|*Co Mariusz Zielke odkrył w filmie o pedofilii?*|[link](https://www.youtube.com/watch?v=bAQGYy7H34I)
 2023-07-04 14:30|Artykuł|Magazyn Press|Internet|Mariusz Kowalczyk|*Mariusz Zielke w filmie „Bagno” oskarża media o ukrywanie pedofilii. „To jakaś nagonka”*|[link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+2023-07-05 08:15|Wywiad|Radio Poznań|Kluczowy Temat|Łukasz Kaźmierczak|Rozmowa z Mariuszem Zielke, wspomnienie o opracowaniu 6 innych spraw związanych z pedofilią|[link](https://radiopoznan.fm/audycja/kluczowy-temat/kluczowy-temat-mariusz-zielke-5-07-2023)
 
 ## Zdarzenia będące tłem do afery z 2019 roku
 
