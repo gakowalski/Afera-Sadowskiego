@@ -112,7 +112,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-05 08:15|Wywiad|Radio Poznań|Kluczowy Temat|Łukasz Kaźmierczak|Rozmowa z Mariuszem Zielke, wspomnienie o opracowaniu 6 innych spraw związanych z pedofilią|[link](https://radiopoznan.fm/audycja/kluczowy-temat/kluczowy-temat-mariusz-zielke-5-07-2023)
 2023-07-05 09:31|Wywiad|Radio Wnet.fm||Magdalena Uchaniuk|*Mariusz Zielke: Moim głównym celem jest pomoc ofiarom pedofilii*, "Artur Nowak zrobił wszystko żeby zatuszować sprawę pedofilii Krzysztofa S. Mam na to żelazne dowody. Wygram z nim każdą sprawę i doprowadzę do tego, że już nie będzie adwokatem", zapowiedź wyjaśnienia sprawy Zanussiego|[link](https://wnet.fm/2023/07/05/mariusz-zielke-moim-glownym-celem-jest-pomoc-ofiarom-pedofilii/)
 2023-07-05 19:17|Wywiad|i.pl|Wiadomości / Kraj|Joanna Grabarczyk|*Sekielski okazał się być draniem, a inni redaktorzy naczelni zachowywali się jak ostatni buce*; wyjaśnienie czemu temat nie trafił do TVP ani TVN; mowa o materiałach na kolejne publikacje; o poświęceniu bliskich znajomości|[link](https://i.pl/mariusz-zielke-sekielski-okazal-sie-byc-draniem-a-inni-redaktorzy-naczelni-zachowywali-sie-jak-ostatni-buce/ar/c1-17695485)
-2023-07-05 20:00|Wywiad|Radio Szczecin|Radio Szczecin Na Wieczór|Piotr Kobalczyk||[link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
+2023-07-05 20:00|Wywiad|Radio Szczecin|Radio Szczecin Na Wieczór|Piotr Kobalczyk|*Pedofilia w niektórych środowiskach tematem tabu*, informcja o zgłoszeniu się czwartego chłopca jako ofiary pedofilii Sadowskiego.|[link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
@@ -240,6 +240,7 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 38 | 1990-2000 | 10-13 | M., dziewczynka z "Tęczy" |
 39 | 1990-2000 | 14 | A., uczestniczka warsztatów w Iławie |
 40 | ?? | 11 | A., uczestniczka warsztatów w Margoninie |
+41 | ?? | ?? | Chłopiec | [link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
 
 <sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
 
