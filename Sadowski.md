@@ -117,6 +117,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-05 20:00|Wywiad|Radio Szczecin|Radio Szczecin Na Wieczór|Piotr Kobalczyk|*Pedofilia w niektórych środowiskach tematem tabu*, informcja o zgłoszeniu się czwartego chłopca jako ofiary pedofilii Sadowskiego.|[link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
 2023-07-05 21:55|Wideo|TV Republika|Dziennikarski Poker||Rozmowa z wiceministrem sprawiedliwości Piotrem Ciepluchą na temat filmu Bagno; od października przestępstwo pedofilii nie będzie miało okresu przedawnienia|[link](https://tvrepublika.pl/Cieplucha-Przestepstwo-pedofilii-nie-bedzie-ulegalo-przedawnieniu-WIDEO,147316.html)
 2023-07-06|Artykuł|Wirtualemedia.pl|Prasa / Dziennikarze|Beata Czuma|Poszerzone wypowiedzi redaktorów oskarżonych mediów; informacja o przesłuchaniu w maju żony muzyka; aspekty finansowe powstania filmu Bagno|[link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
+2023-07-06 09:52|Artykuł|Niezależna.pl|Media||Zapowiedź emisji filmu Bagno w TV Republika|[link](https://niezalezna.pl/490476-bagno-reportaz-o-pedofilii-wsrod-artystow-juz-w-sobote-na-antenie-tv-republika-nie-przegap)
+2023-07-06 11:30|Wideo|YouTube|Telewizja Republika||Wywiad z Mariuszem Zielke; pytanie o kontakt z Arturem Nowakiem po premierze filmu; zapowiedź drugiej części filmu|[link](https://www.youtube.com/watch?v=Y3-WdHcvx0w)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
