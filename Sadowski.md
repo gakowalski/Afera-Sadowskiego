@@ -103,6 +103,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2022-11-07 15:25|Artykuł|TVP Info||AB, KF|W zakresie czynów nieprzedawnionych prowadzone jest odrębne postępowanie – poinformowała prokurator Skrzyniarz, rzecznik PO w Warszawie|[link](https://www.tvp.info/64388031/prokuratura-o-oskarzeniach-kierowanych-pod-adresem-krzysztofa-sadowskiego-na-chwile-zlozenia-zawiadomien-czesc-czynow-byla-juz-przedawniona-w-zakresie-czynow-nie-przedawnionych-prowadzone-jest-odrebne-postepowanie)
 2022-11-08|Wywiad|Polska Mówi||Andrzej Dybowski, Iza Michalewicz|Wywiaz z Izą Michalewicz na temat jej śledztwa dziennikarskiego wobec Krzysztofa Sadowskiego|[link](https://youtu.be/z4yLfUBjkkI)
 2022-12-13 14:27|Artykuł|TVP Info||FA, MNIE|"12 grudnia zarzut popełnienia czynu z art. 200 par. 1 k.k. przedstawiony został Krzysztofowi S. Zarzut dotyczy zdarzenia z 2017 r. mającego miejsce w Puławach podczas warsztatów jazzowych organizowanych dla dzieci i młodzieży"|[link](https://www.tvp.info/65067646/krzysztof-s-muzyk-uslyszal-zarzut-pedofilii-chodzi-o-przestepstwo-z-2017-r-)
+2023-05|Zdarzenie|
 2023-06-30 09:00|Reportaż|YouTube|Profil YT Mariusza Zielke|Mariusz Zielke| Film "Bagno"|[link](https://www.youtube.com/watch?v=fwgUAzHMQSE)
 2023-06-30 14:00|Materiał wideo|YouTube|Telewizja Republika||Rozmowa z Mariuszem Zielke - Dokument "Bagno" o tuszowaniu pedofilii w środowisku artystycznym|[link](https://www.youtube.com/watch?v=u1RHgWDaX4E)
 2023-06-30 14:00|Wpis|Facebook|Profil Izy Michalewicz Reportertki|Iza Michalewicz|Oficjalna wypowiedź Izy Michalewicz co do zarzutów, komentarz do filmu Bagno, fragmenty korespondencji|[link](https://www.facebook.com/IzaMichalewiczofficial/posts/pfbid02g2myMHk82u1hNLN2Co82UeeLxZBGoAuDabo8KaavM9Y86Dh3AycaeJDbbHf9ZJxRl)
@@ -113,6 +114,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-05 09:31|Wywiad|Radio Wnet.fm||Magdalena Uchaniuk|*Mariusz Zielke: Moim głównym celem jest pomoc ofiarom pedofilii*, "Artur Nowak zrobił wszystko żeby zatuszować sprawę pedofilii Krzysztofa S. Mam na to żelazne dowody. Wygram z nim każdą sprawę i doprowadzę do tego, że już nie będzie adwokatem", zapowiedź wyjaśnienia sprawy Zanussiego|[link](https://wnet.fm/2023/07/05/mariusz-zielke-moim-glownym-celem-jest-pomoc-ofiarom-pedofilii/)
 2023-07-05 19:17|Wywiad|i.pl|Wiadomości / Kraj|Joanna Grabarczyk|*Sekielski okazał się być draniem, a inni redaktorzy naczelni zachowywali się jak ostatni buce*; wyjaśnienie czemu temat nie trafił do TVP ani TVN; mowa o materiałach na kolejne publikacje; o poświęceniu bliskich znajomości|[link](https://i.pl/mariusz-zielke-sekielski-okazal-sie-byc-draniem-a-inni-redaktorzy-naczelni-zachowywali-sie-jak-ostatni-buce/ar/c1-17695485)
 2023-07-05 20:00|Wywiad|Radio Szczecin|Radio Szczecin Na Wieczór|Piotr Kobalczyk|*Pedofilia w niektórych środowiskach tematem tabu*, informcja o zgłoszeniu się czwartego chłopca jako ofiary pedofilii Sadowskiego.|[link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
+2023-07-06|Artykuł|Wirtualemedia.pl|Prasa / Dziennikarze|Beata Czuma|Poszerzone wypowiedzi redaktorów oskarżonych mediów; informacja o postępowaniu ws. Sadowskiego będącym w końcowym etapie - oczekiwanie na opinie psychologiczną i seksuologiczną podejrzanego; informacja o przesłuchaniu w maju żony muzyka|[link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
+
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
@@ -145,6 +148,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-15 12:46|Artykuł|Wprost.pl|||Komentarz do oświadczenia Marii Sadowskiej, internauci krytykują egocentryzm|[Link](https://www.wprost.pl/zycie/10251149/maria-sadowska-po-raz-pierwszy-od-wielu-dni-zabrala-glos-publicznie-zarzucono-jej-egocentryzm.html)
 2019-09-26|Zdarzenie||||Zmiana wspólnika For Jazz Sp. z o.o. - Fundacja Jazz Jamboree odsprzedała swoje udziały Joannie Pieczykolan, sekretarz redakcji Jazz Forum, czasopisma wydawanego przez For Jazz, oraz wokalistce zespołu Soundrise|
 2020-09-03|Zdarzenie||||Sadowski zostaje członkiem rady krajowej Związku Młodzieży Chrześcijańskiej "Polska YMCA" w którego pomieszczeniach działa Muzeum Jazzu, ale sponsorowane jest przez Fundację Muzeum Jazzu im. Leopolda Tyrmanda, w którego zarządzie od lat zasiada Krzysztof Sadowski.
+2023-05|Zarzenie||||Przesłuchanie byłej żony Sadowskiego w sądzie|[link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
+
 
 ## Zdarzenia zwiazane z usunięciem Krzysztofa Sadowskiego z funkcji prezesa PSJ
 
@@ -482,6 +487,12 @@ Data | Medium | Osoba | Zarzut | link
 
 Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
 
+* BW: Zarzut jest śmieszny i absurdalny. Absolutnie się z nim nie zgadzam. We wszystkich mediach RASP są setki tekstów na temat pedofilów. Uważam, że panu Zielke chodzi o to, że jego jest za mało w mediach i cały jego film jest o tym. Proszę zwrócić uwagę, że w większości filmu pan Zielke jest bohaterem, on występuje na ekranie. To tak naprawdę wywiad-rzeka z nim, przetykana od czasu do czasu innymi materiałami
+* BW: Mówiłem mu, że zaszkodzi sobie tym, że za bardzo się skupia na sobie, a za mało na tej historii i że doszukiwanie się teorii spiskowych go zgubi. Rozumiem, że ma dobre intencje i sprawa, którą chce nagłośnić powinna być, i jest, nagłośniona, ale jeżeli zacznie się dopuszczać teorii spiskowych, to zniszczy tę historię. Tak się stało. W tej historii już nie jest istotny Krzysztof S., jest ważny Zielke i media, które z nim rozmawiały. Pana S. w tej historii już nie ma. Nie jestem do końca przekonany, że o to chodziło autorowi reportażu
+* BW: Zachęcałbym pana Zielke do opublikowania całej rozmowy ze mną, chyba były nawet dwie rozmowy. On wykorzystał tylko parę malutkich fragmentów, wyciętych tak, żeby pasowały mu do filmu. I domyślam się, że podobnie było z innymi naczelnymi. Nie mam do niego pretensji, intencje ma pewnie dobre, ale pogubił się w tej historii. "Zupełnym przypadkiem" film dotyczy mediów, których władza nie lubi. Wpisał się idealnie w atak na media, więc nie jestem zdziwiony, że media rządowe natychmiast to wykorzystały
+
+Żródło: [link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
+
 #### Jarosław Kurski
 
 2023:
@@ -489,6 +500,11 @@ Data | Medium | Osoba | Zarzut | link
 * JK: Zadzwonił człowiek, którego nie znam. Przedstawił się jako Mariusz Zielke. Mówił coś o muzyku Krzysztofie S., o którym nigdy nie słyszałem i którego nie znam. Zielke nagrał mnie bez mojej zgody i wiedzy
 
 Źródło: [link](https://www.press.pl/tresc/77324,mariusz-zielke-w-filmie----bagno----oskarza-media-o-ukrywanie-pedofilii_----to-jakas-nagonka---)
+
+* JK: Zadzwonił do mnie człowiek, którego nie znam, mówił o jakimś panu Sadowskim, którego nie znam, nie uprzedził mnie, że mnie nagrywa, robił to bez mojej wiedzy i zgody. Zarzucał mi, że gazeta nie zrobiła nic w sprawie Sadowskiego, co jest nieprawdą, bo później sprawdziłem. W 2019 r. ukazały się dwa potężne teksty o tym, jeden Izy Michalewicz, a potem rozmowy z ofiarami
+* JK: Uważam, że to jest prowokacja lub nagonka. Wydaje mi się, że media zajmują się wszystkimi przypadkami pedofilii, bez względu na to, czy to jest pedofilia w sutannie czy bez sutanny. Teza jest kompletnie wyssana z palca, pisaliśmy masę tekstów o tym, począwszy od Chóru Stuligrosza przez inne chóry w Poznaniu
+
+Żródło: [link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
 
 #### Michał Samul
 
