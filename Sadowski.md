@@ -119,6 +119,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-06|Artykuł|Wirtualemedia.pl|Prasa / Dziennikarze|Beata Czuma|Poszerzone wypowiedzi redaktorów oskarżonych mediów; informacja o przesłuchaniu w maju żony muzyka; aspekty finansowe powstania filmu Bagno|[link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
 2023-07-06 09:52|Artykuł|Niezależna.pl|Media||Zapowiedź emisji filmu Bagno w TV Republika|[link](https://niezalezna.pl/490476-bagno-reportaz-o-pedofilii-wsrod-artystow-juz-w-sobote-na-antenie-tv-republika-nie-przegap)
 2023-07-06 11:30|Wideo|YouTube|Telewizja Republika||Wywiad z Mariuszem Zielke; pytanie o kontakt z Arturem Nowakiem po premierze filmu; zapowiedź drugiej części filmu|[link](https://www.youtube.com/watch?v=Y3-WdHcvx0w)
+2023-07-07 10:15|Wideo|YouTube|Podcast Tomasza Terlikowskiego|Tomasz Terlikowski||[link](https://www.youtube.com/watch?v=1rJGJTDChvc)
+2023-07-07|Wideo|YouTube|PCh24TV · Polonia Christiana|Jan Pospieszalski||[link](https://www.youtube.com/watch?v=FQ6NqdhNQm8)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
