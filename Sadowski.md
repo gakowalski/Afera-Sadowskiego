@@ -122,7 +122,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-07 10:15|Wideo|YouTube|Podcast Tomasza Terlikowskiego|Tomasz Terlikowski||[link](https://www.youtube.com/watch?v=1rJGJTDChvc)
 2023-07-07|Wideo|YouTube|PCh24TV · Polonia Christiana|Jan Pospieszalski||[link](https://www.youtube.com/watch?v=FQ6NqdhNQm8)
 2023-07-09 07:05|Wpis|Facebook|Profil "Sekielski"|Tomasz i Marek Sekielski|Oświadczenie braci Sekielskich w związku z zarzutami stawianymi w filmie "Bagno"|[link](https://www.facebook.com/Sekielski/posts/pfbid0Yz1NTonfJ8kGGUxbhvr869dCzRUzc7RjMw8TRSSTBi7HXQ5gh1jRtVksdvTWDHmXl), [link 2](https://www.wirtualnemedia.pl/artykul/mariusz-zielke-bagno-reportaz-pedofilia-tomasz-marek-sekielski-odpowiadaja)
-
+2023-07-10 21:30|Wideo|YouTube|Cioną po oczach|Łukasz Ciona, Piotr Niedbała|Wywiad z Mariuszem Zielke; szczegóły początków całej sprawy - szczegółowo objaśniona rola Artura Nowaka|[link](https://www.youtube.com/watch?v=8sdun1DraQs)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
