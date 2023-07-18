@@ -125,6 +125,8 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-10 21:30|Wideo|YouTube|Cioną po oczach|Łukasz Ciona, Piotr Niedbała|Wywiad z Mariuszem Zielke; szczegóły początków całej sprawy - szczegółowo objaśniona rola Artura Nowaka|[link](https://www.youtube.com/watch?v=8sdun1DraQs)
 2023-07-11|Wideo|Afirmacja.net||Jan Pospieszalski|Wywiad z Mariuszem Zielke - ciekawy w kontekście tego, że prowadzący jest muzykiem i zna środowisko jazzowe|[link](https://afirmacja.info/2023/07/11/bagno-mariusza-zielke/)
 2023-07-12 20:00|Wideo|YouTube||Rafał Otoka-Frąckiewicz|Wywiad z Mariuszem Zielke, szerzej poruszony kontekst mediów|[link](https://www.youtube.com/watch?v=YMLAQb8nwcI)
+2023-07-17 07:02|Artykuł|PAP||Bartłomiej Figaj|"Prokuratura Okręgowa w Warszawie skierowała do sądu akt oskarżenia przeciwko muzykowi Krzysztofowi S."|[link](https://www.pap.pl/aktualnosci/news%2C1597962%2Cmuzyk-tworca-programu-muzycznego-dla-dzieci-z-lat-90-oskarzony-o-pedofilie)
+2023-07-17 19:00|Wideo|YouTube||Jan Pospieszalski|Wywiad z Wojciechem Konikiewiczem - tło działalności Sadowskiego w środowisku artystycznym|[link](https://www.youtube.com/watch?v=C0LnQsk2YHg)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
@@ -158,6 +160,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-26|Zdarzenie||||Zmiana wspólnika For Jazz Sp. z o.o. - Fundacja Jazz Jamboree odsprzedała swoje udziały Joannie Pieczykolan, sekretarz redakcji Jazz Forum, czasopisma wydawanego przez For Jazz, oraz wokalistce zespołu Soundrise|
 2020-09-03|Zdarzenie||||Sadowski zostaje członkiem rady krajowej Związku Młodzieży Chrześcijańskiej "Polska YMCA" w którego pomieszczeniach działa Muzeum Jazzu, ale sponsorowane jest przez Fundację Muzeum Jazzu im. Leopolda Tyrmanda, w którego zarządzie od lat zasiada Krzysztof Sadowski.
 2023-05|Zarzenie||||Przesłuchanie byłej żony Sadowskiego w sądzie|[link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
+2023-07-14|Zdarzenie||||Prokuratura składa do sądu akt oskarżenia|
 
 
 ## Zdarzenia zwiazane z usunięciem Krzysztofa Sadowskiego z funkcji prezesa PSJ
