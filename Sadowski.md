@@ -121,6 +121,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-06 11:30|Wideo|YouTube|Telewizja Republika||Wywiad z Mariuszem Zielke; pytanie o kontakt z Arturem Nowakiem po premierze filmu; zapowiedź drugiej części filmu|[link](https://www.youtube.com/watch?v=Y3-WdHcvx0w)
 2023-07-07 10:15|Wideo|YouTube|Podcast Tomasza Terlikowskiego|Tomasz Terlikowski||[link](https://www.youtube.com/watch?v=1rJGJTDChvc)
 2023-07-07|Wideo|YouTube|PCh24TV · Polonia Christiana|Jan Pospieszalski||[link](https://www.youtube.com/watch?v=FQ6NqdhNQm8)
+2023-07-08|Wideo|YouTube|Profil Polski Inkwizytor||Długi wywiad (1.5h) z Mariuszem Zielke|[link](https://www.youtube.com/watch?v=6kiOKS8MlPc)
 2023-07-09 07:05|Wpis|Facebook|Profil "Sekielski"|Tomasz i Marek Sekielski|Oświadczenie braci Sekielskich w związku z zarzutami stawianymi w filmie "Bagno"|[link](https://www.facebook.com/Sekielski/posts/pfbid0Yz1NTonfJ8kGGUxbhvr869dCzRUzc7RjMw8TRSSTBi7HXQ5gh1jRtVksdvTWDHmXl), [link 2](https://www.wirtualnemedia.pl/artykul/mariusz-zielke-bagno-reportaz-pedofilia-tomasz-marek-sekielski-odpowiadaja)
 2023-07-10 21:30|Wideo|YouTube|Cioną po oczach|Łukasz Ciona, Piotr Niedbała|Wywiad z Mariuszem Zielke; szczegóły początków całej sprawy - szczegółowo objaśniona rola Artura Nowaka|[link](https://www.youtube.com/watch?v=8sdun1DraQs)
 2023-07-11|Wideo|Afirmacja.net||Jan Pospieszalski|Wywiad z Mariuszem Zielke - ciekawy w kontekście tego, że prowadzący jest muzykiem i zna środowisko jazzowe|[link](https://afirmacja.info/2023/07/11/bagno-mariusza-zielke/)
