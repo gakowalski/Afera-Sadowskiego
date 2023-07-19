@@ -127,6 +127,9 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-12 20:00|Wideo|YouTube||Rafał Otoka-Frąckiewicz|Wywiad z Mariuszem Zielke, szerzej poruszony kontekst mediów|[link](https://www.youtube.com/watch?v=YMLAQb8nwcI)
 2023-07-17 07:02|Artykuł|PAP||Bartłomiej Figaj|"Prokuratura Okręgowa w Warszawie skierowała do sądu akt oskarżenia przeciwko muzykowi Krzysztofowi S."|[link](https://www.pap.pl/aktualnosci/news%2C1597962%2Cmuzyk-tworca-programu-muzycznego-dla-dzieci-z-lat-90-oskarzony-o-pedofilie)
 2023-07-17 19:00|Wideo|YouTube||Jan Pospieszalski|Wywiad z Wojciechem Konikiewiczem - tło działalności Sadowskiego w środowisku artystycznym|[link](https://www.youtube.com/watch?v=C0LnQsk2YHg)
+2023-07-19|Artykuł|wPolityce.pl|||"Zielke: Nowak przyznał mi się do wydawania wyroków po narkotykach"|[link](https://wpolityce.pl/polityka/655288-zielke-nowak-przyznal-sie-ze-wydawal-wyroki-po-narkotykach)
+2023-07-19 16:35|Audycja|Polskie Radio 24|Temat dnia/Gość PR24|Magdalena Złotnicka |Zgłosiła się kolejna osoba, która chce złożyć zeznania ws. Krzysztofa S|[link](https://polskieradio24.pl/130/5925/artykul/3211117,pedofilia-wsrod-elit-mariusz-zielke-zapowiada-kolejna-czesc-filmu-bagno-mamy-rowniez-sprawy-dotyczace-politykow)
+2023-07-19 21:02|Artykuł|Oko.Press||Daniel Flis|Odpowiedź Daniela Flisa / Oko.Press na zarzuty z filmu Bagno|[link](https://oko.press/film-bagno-krzysztof-s-mariusz-zielke-media)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
