@@ -261,7 +261,8 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 38 | 1990-2000 | 10-13 | M., dziewczynka z "Tęczy" |
 39 | 1990-2000 | 14 | A., uczestniczka warsztatów w Iławie |
 40 | ?? | 11 | A., uczestniczka warsztatów w Margoninie |
-41 | ?? | ?? | Chłopiec | [link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
+41 | ?? | ?? | Chłopiec, zgłosił się po upublicznieniu filmu "Bagno" | [link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
+42 | ?? | ?? | ??, zgłosił/a się po upublicznieniu filmu "Bagno" | [link](https://www.polsatnews.pl/wiadomosc/2023-07-24/mariusz-zielke-autor-filmu-bagno-w-programie-gosc-wydarzen/)
 
 <sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
 
