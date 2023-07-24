@@ -4,6 +4,7 @@ Uporządkowane bazy informacji dla osób chcących analizować doniesienia media
 
 * [Afera Krzysztofa Sadowskiego](Sadowski.md) (2019 rok)
 * [Afera Ryszarda Zaorskiego](Zaorski.md) (2019 rok)
+* [Afera Jana K.](Lublin.md) (2023 rok)
 
 Stare sprawy:
 
