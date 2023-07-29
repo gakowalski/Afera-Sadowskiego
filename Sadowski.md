@@ -131,6 +131,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-19|Artykuł|wPolityce.pl|||"Zielke: Nowak przyznał mi się do wydawania wyroków po narkotykach"|[link](https://wpolityce.pl/polityka/655288-zielke-nowak-przyznal-sie-ze-wydawal-wyroki-po-narkotykach)
 2023-07-19 16:35|Audycja|Polskie Radio 24|Temat dnia/Gość PR24|Magdalena Złotnicka |Zgłosiła się kolejna osoba, która chce złożyć zeznania ws. Krzysztofa S|[link](https://polskieradio24.pl/130/5925/artykul/3211117,pedofilia-wsrod-elit-mariusz-zielke-zapowiada-kolejna-czesc-filmu-bagno-mamy-rowniez-sprawy-dotyczace-politykow)
 2023-07-19 21:02|Artykuł|Oko.Press||Daniel Flis|Odpowiedź Daniela Flisa / Oko.Press na zarzuty z filmu Bagno|[link](https://oko.press/film-bagno-krzysztof-s-mariusz-zielke-media)
+2023-07-29 01:00|Wideo|YouTube|Profil Afirmacja TV|Jan Pospieszalski|Wywiad z M. Zielke; status sprawy Sadowskiego, informacja o Janie K.; zgłoszenie się ofiary Sadowskiego do Jana Posieszalskiego|[link](https://www.youtube.com/watch?v=leYy8mxjQQo)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
@@ -217,7 +218,7 @@ Data | Autor | Uwagi | Link
 
 ### Lista ofiar na podstawie doniesień medialnych
 
-Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4).
+Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/990774,kto-sie-boi-sprawy-krzysztofa-sadowskiego-lista-40-ofiar,4) uzupełniona o szczegóły z innych jego publikacji oraz publikacji innych mediów.
 
 Numer | Okres czasu | Wiek | Uwagi | Link
 --- | --- | --- | --- | ---
@@ -263,6 +264,7 @@ Numer | Okres czasu | Wiek | Uwagi | Link
 40 | ?? | 11 | A., uczestniczka warsztatów w Margoninie |
 41 | ?? | ?? | Chłopiec, zgłosił się po upublicznieniu filmu "Bagno" | [link](https://radioszczecin.pl/276,12175,pedofilia-w-niektorych-srodowiskach-tematem-tabu)
 42 | ?? | ?? | ??, zgłosił/a się po upublicznieniu filmu "Bagno" | [link](https://www.polsatnews.pl/wiadomosc/2023-07-24/mariusz-zielke-autor-filmu-bagno-w-programie-gosc-wydarzen/)
+43 | przełom lat 80/90 | ?? | zgłosiła się do redakcji Afirmacja TV / Jana Pospieszalskiego po emisji wywiadu z Mariuszem Zielkiem; dotyczy wydarzeń z festiwalu Old Jazz Meeting w Iławie | [link](https://www.youtube.com/watch?v=leYy8mxjQQo)
 
 <sup>1</sup> Publicznie opisała swoje spotkanie z Sadowskim w facebookowych komentarzach kilka razy pod swoim imieniem i nazwiskiem, ale najwyraźniej nie wyraziła zgody na szersze rozposzechnianie jej tożsamości, więc nazywana jest "E.".
 
