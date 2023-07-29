@@ -200,9 +200,9 @@ Data | Autor | Uwagi | Link
 
 ### Osoby poboczne pojawiające sie w kontekście afery
 
-* [Lila Karolina Urbańska-Sadowska](https://pl.wikipedia.org/wiki/Liliana_Urba%C5%84ska) ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo,
-* [Maria Magdalena Sadowska](https://pl.wikipedia.org/wiki/Maria_Sadowska), córka Krzysztofa i Lili,
-* [Krzysztof Andrzej Karpiński](https://pl.wikipedia.org/wiki/Krzysztof_Karpi%C5%84ski), sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie,
+* [Lila Karolina Urbańska-Sadowska](https://pl.wikipedia.org/wiki/Liliana_Urba%C5%84ska) ("Liliana"), żona Krzysztofa, jej postać pojawia się w relacjach i materiałach wideo, niektóre osoby poszkodowane przez Sadowskiego twierdziły (np. [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka) ), że wiedziała ona o tym, co jej mąż im robi;
+* [Maria Magdalena Sadowska](https://pl.wikipedia.org/wiki/Maria_Sadowska), córka Lili; przedstawiana jako córka Krzysztofa, chociaż wiele osób w social mediach twierdzi, że jej prawdziwym ojcem biologicznym miał być [Jerzy Czuraj](https://pl.wikipedia.org/wiki/Jerzy_Czuraj), co może znajdywać pośrednie wsparcie w twierdzeniach osób poszkodowanych, że Sadowski jest bezpłodny (np. [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka) ) - twierdzenia o jego bezpłodności padały też w social mediach od osób będących w kręgu znajomości Sadowskiego, nazywany miał być [kapłonem](https://pl.wikipedia.org/wiki/Kap%C5%82on);
+* [Krzysztof Andrzej Karpiński](https://pl.wikipedia.org/wiki/Krzysztof_Karpi%C5%84ski), sędzia Sądu Apelacyjnego w Warszawie, przyjaciel Sadowskiego i jazzman, grali razem w duecie a jego żona, [Jolanta Fajkowska](https://pl.wikipedia.org/wiki/Jolanta_Fajkowska), wielokrotnie wspierała Sadowskiego i jego żonę medialnie;
 * [Jerzy Adam Stępień](https://pl.wikipedia.org/wiki/Jerzy_St%C4%99pie%C5%84), były prezes Trybunału Konstytucyjnego, przyjaciel Krzysztofa Karpińskiego oraz znajomy Sadowskiego, jazzman,
 * [Martyna Magdalena Wojciechowska](https://pl.wikipedia.org/wiki/Martyna_Wojciechowska-Tsobekhia), była prezes Fundacji Jazz Jamboree, bohaterka afery tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), siostra Darii
 * Daria Wojciechowska-Bujno, pojawiła się również w aferze tzw. [aniołków Glapińskiego](https://www.google.com/search?q=aniołki+glapińskiego), jako dziecko uzdolniona piosenkarka, której Sadowski był "gorącym sympatykiem", siostra Martyny,
@@ -213,7 +213,7 @@ Data | Autor | Uwagi | Link
 
 * Katarzyna Wasilewska, córka [Wieńczysława Glińskiego](https://pl.wikipedia.org/wiki/Wie%C5%84czys%C5%82aw_Gli%C5%84ski), członkini Rady Nadzorczej Fundacji Wspierającej Dzieci Uzdolnione Muzycznie „Tęcza” i bliska znajoma Sadowskich
 * [Jolanta Fajkowska](https://pl.wikipedia.org/wiki/Jolanta_Fajkowska), żona Krzysztofa Karpińskiego, z rekomendacji PSJ zasiadająca od lat w Radzie Programowej TVP w Warszawie; siostra [Janusza Fajkowskiego](https://newconnect.pl/ebi/files/85060-janusz-fajkowski.pdf),
-* Ewa Maria Radlińska, adwokat Sadowskiego (jej nazwisko pojawia sie w [link](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)), córka Jerzego Radlińskiego, autora książki *Obywatel Jazz*
+* Ewa Maria Radlińska, adwokat Sadowskiego w początkowym orkesie afery medialnej (jej nazwisko pojawia sie w [link](https://www.ipla.tv/wideo/news/Skandalisci/5004612/Skandalisci-Mariusz-Zielke/ac0b9bbe1d76fdce6e371a3ba29d220d/)), córka Jerzego Radlińskiego, autora książki *Obywatel Jazz*
 * Elżbieta Marciniak-Kuszakiewicz, pedagog zespołu *Tęcza*
 
 ### Lista ofiar na podstawie doniesień medialnych
@@ -223,7 +223,7 @@ Lista na podstawie [publikacji Mariusza Zielke](https://www.salon24.pl/u/zielke/
 Numer | Okres czasu | Wiek | Uwagi | Link
 --- | --- | --- | --- | ---
 1 | 1970-1975 | 13 | Córka brata szwagra (męża siostry Sadowskiego) | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
-2 | 1970 | 15 | *Wisienka*, utrzymywali stosunki przez 2; jej matka miała zrobić awanturę żonie Sadowskiego | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
+2 | 1970 | 15 | *Wisienka*, utrzymywali stosunki przez 2 lata; jej matka miała zrobić awanturę żonie Sadowskiego | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
 3 | 1965-1970 | 15 | Dziewczyna z Poznania, kilkumiesięczny romans |
 4 | 1970-1975 | 15 | Córka dyplomaty, napomina o niej *Wisienka* w swojej relacji | [link](salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
 5 | 1975-1980 | 15 | Córka muzyka z zespołu Krzysztofa Komedy | [link](https://www.salon24.pl/u/zielke/985362,afera-pedofilska-sadowskiego-nazywal-mnie-wisienka)
