@@ -56,7 +56,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2007-01-21|Artykuł|Tygodnik Przegląd|Wiadomości|Przemysław Szubartowicz|*Życie po egzekucji* (z dodatkowymi komentarzami różnych osób)| [link](https://www.tygodnikprzeglad.pl/zycie-po-egzekucji/)
 2009|Film dokumentalny|TVN||Edyta Krześniak|"Edyta Krześniak (...) rozmawiała z ofiarami i oskarżonym psychologiem. Od aresztowania Andrzeja Samsona śledziła każdy dzień procesu, na światło dzienne wyciągała z trudem zdobyte informacje"|[link](http://www.filmpolski.pl/fp/index.php?film=4223431)
 2009-03-02|Artykuł|Fakt|Wydarzenia|Agnieszka Sakowicz|Ofiary pedofila, który ich krzywdził, i ich rodzice są przerażeni, że ich kat jest na wolności | [link](https://www.fakt.pl/wydarzenia/slynny-psycholog-zniszczyl-im-dziecinstwo/426rxk5)
-2019-07-03|Artykuł|Focus|Historia|Redakcja|Historia Andrzeja Samsona|[link](Terapię dzieci prowadził w mieszkaniu za pomocą wibratorów i pampersów. Historia Andrzej Samsona)
+2019-07-03|Artykuł|Focus|Historia|Redakcja|Historia Andrzeja Samsona|[link](https://www.focus.pl/artykul/tajemnica-zdjec-z-meska-dlonia)
 
 ## "Miska szklanych kulek"
 
