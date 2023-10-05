@@ -133,6 +133,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-19 21:02|Artykuł|Oko.Press||Daniel Flis|Odpowiedź Daniela Flisa / Oko.Press na zarzuty z filmu Bagno|[link](https://oko.press/film-bagno-krzysztof-s-mariusz-zielke-media)
 2023-07-29 01:00|Wideo|YouTube|Profil Afirmacja TV|Jan Pospieszalski|Wywiad z M. Zielke; status sprawy Sadowskiego, informacja o Janie K.; zgłoszenie się ofiary Sadowskiego do Jana Posieszalskiego|[link](https://www.youtube.com/watch?v=leYy8mxjQQo)
 2023-10-05 14:43|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Informacja o wygraniu procesu sądowego przez Mariusza Zielke z Krzysztofem S.|[link](https://www.facebook.com/mariusz.zielke/posts/pfbid0jEpDh98inbBmU48LXgg3Rt9XX6vaqRfyfNZM7iat6xLf3iC8LrbDGXfwahobaK5vl)
+2023-10-05 15:00|Artykuł|PAP||Aleksandra Kuźniar|"Wyrok w sprawie Mariusza Zielkego i jego publikacji dotyczących znanego muzyka jazzowego Krzysztofa S."|[link](https://www.pap.pl/aktualnosci/wyrok-w-sprawie-mariusza-zielkego-i-jego-publikacji-dotyczacych-znanego-muzyka)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
