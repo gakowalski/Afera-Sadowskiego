@@ -132,6 +132,7 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2023-07-19 16:35|Audycja|Polskie Radio 24|Temat dnia/Gość PR24|Magdalena Złotnicka |Zgłosiła się kolejna osoba, która chce złożyć zeznania ws. Krzysztofa S|[link](https://polskieradio24.pl/130/5925/artykul/3211117,pedofilia-wsrod-elit-mariusz-zielke-zapowiada-kolejna-czesc-filmu-bagno-mamy-rowniez-sprawy-dotyczace-politykow)
 2023-07-19 21:02|Artykuł|Oko.Press||Daniel Flis|Odpowiedź Daniela Flisa / Oko.Press na zarzuty z filmu Bagno|[link](https://oko.press/film-bagno-krzysztof-s-mariusz-zielke-media)
 2023-07-29 01:00|Wideo|YouTube|Profil Afirmacja TV|Jan Pospieszalski|Wywiad z M. Zielke; status sprawy Sadowskiego, informacja o Janie K.; zgłoszenie się ofiary Sadowskiego do Jana Posieszalskiego|[link](https://www.youtube.com/watch?v=leYy8mxjQQo)
+2023-10-05 14:43|Wpis|Facebook|Profil Mariusza Zielke|Mariusz Zielke|Informacja o wygraniu procesu sądowego przez Mariusza Zielke z Krzysztofem S.|[link](https://www.facebook.com/mariusz.zielke/posts/pfbid0jEpDh98inbBmU48LXgg3Rt9XX6vaqRfyfNZM7iat6xLf3iC8LrbDGXfwahobaK5vl)
 
 ## Zdarzenia będące tłem do afery zapoczątkowanej w 2019 roku
 
