@@ -166,9 +166,10 @@ Data|Typ|Medium|Program|Autor|Uwagi|Link
 2019-09-15 12:46|Artykuł|Wprost.pl|||Komentarz do oświadczenia Marii Sadowskiej, internauci krytykują egocentryzm|[Link](https://www.wprost.pl/zycie/10251149/maria-sadowska-po-raz-pierwszy-od-wielu-dni-zabrala-glos-publicznie-zarzucono-jej-egocentryzm.html)
 2019-09-26|Zdarzenie||||Zmiana wspólnika For Jazz Sp. z o.o. - Fundacja Jazz Jamboree odsprzedała swoje udziały Joannie Pieczykolan, sekretarz redakcji Jazz Forum, czasopisma wydawanego przez For Jazz, oraz wokalistce zespołu Soundrise|
 2020-09-03|Zdarzenie||||Sadowski zostaje członkiem rady krajowej Związku Młodzieży Chrześcijańskiej "Polska YMCA" w którego pomieszczeniach działa Muzeum Jazzu, ale sponsorowane jest przez Fundację Muzeum Jazzu im. Leopolda Tyrmanda, w którego zarządzie od lat zasiada Krzysztof Sadowski.
+2022-12-20|Zdarzenie||||Sadowski zostaje usuniety z zarządu Fundacji Muzeum Jazzu im. Leopolda Tyrmanda (pełnił funkcje prezesa)
 2023-05|Zarzenie||||Przesłuchanie byłej żony Sadowskiego w sądzie|[link](https://www.wirtualnemedia.pl/artykul/autor-bagna-oskarza-media-tuszowanie-pedofilia-jaroslaw-kurski-to-prowokacja-lub-nagonka)
 2023-07-14|Zdarzenie||||Prokuratura składa do sądu akt oskarżenia|
-
+2023-07-24|Zdarzenie||||Sadowski zostaje usuniety z rady krajowej Związku Młodzieży Chrześcijańskiej "Polska YMCA"
 
 ## Zdarzenia zwiazane z usunięciem Krzysztofa Sadowskiego z funkcji prezesa PSJ
 
